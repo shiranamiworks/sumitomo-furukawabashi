@@ -1,0 +1,450 @@
+@charset "UTF-8";
+/* 
+  css設定 @charsetが消されるsass仕様へのハック用コメントです。削除しないでください。新規作成時も必須！
+ */
+.breadcrumb {
+  padding: 20px 2%;
+  border-top: 1px solid #f1e9dc;
+  border-bottom: 1px solid #f1e9dc;
+  background: #fff;
+  color: #000;
+}
+
+.breadcrumb ul {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1.4rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  color: #888;
+}
+
+.breadcrumb ul li a {
+  color: #000;
+}
+
+.breadcrumb ul li:not(:last-child) a::after,
+.breadcrumb ul li:not(:last-child) p::after {
+  content: " ＞ ";
+  display: inline-block;
+}
+
+.annotation-area {
+  background: #fff;
+  color: #797979;
+  padding: 40px 0;
+}
+
+.page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 10px;
+  line-height: 1.8;
+}
+
+.wrap {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1200px;
+}
+
+.location01 main img {
+  max-width: 100%;
+}
+.location01 .image {
+  position: relative;
+}
+.location01 .image .annotation {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  text-align: right;
+  font-size: 10px;
+}
+.location01 .image .annotation.white {
+  color: #fff;
+  text-shadow: 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000;
+}
+.location01 .location-link {
+  color: #000;
+}
+.location01 main {
+  color: #000;
+  font-family: "RyuminPro", serif;
+  line-height: 1;
+}
+.location01 sup {
+  vertical-align: text-top;
+}
+.location01 .page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+}
+.location01 .main-visual {
+  position: relative;
+  display: inline-block;
+  padding-bottom: 300px;
+  border: none;
+}
+.location01 .main-visual .image {
+  position: relative;
+  display: inline-block;
+}
+.location01 .main-visual .image::after {
+  content: "";
+  position: absolute;
+  bottom: -217px;
+  left: 0;
+  right: 0;
+  width: 1px;
+  height: 220px;
+  margin: auto;
+  background-color: #000;
+}
+.location01 .sections .inner {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1200px;
+}
+.location01 .sections .image {
+  position: relative;
+}
+.location01 .sections .annotation {
+  font-size: 10px;
+  text-align: right;
+}
+.location01 .sections .column02 li {
+  vertical-align: top;
+  display: inline-block;
+  width: 48%;
+  margin-right: 2%;
+}
+.location01 .sections .column02 li:nth-child(2n),
+.location01 .sections .column02 li:last-child {
+  margin-right: auto;
+}
+.location01 .sections .column03 li {
+  vertical-align: top;
+  display: inline-block;
+  width: 32%;
+  margin-right: 1%;
+}
+.location01 .sections .column03 li:nth-child(3n),
+.location01 .sections .column03 li:last-child {
+  margin-right: auto;
+}
+.location01 .intro {
+  text-align: center;
+  margin-bottom: 60px;
+}
+.location01 .intro .tit {
+  font-size: 36px;
+  line-height: 2;
+  margin-bottom: 80px;
+}
+.location01 .intro .lead {
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 50px;
+}
+.location01 .intro .img01 {
+  margin-bottom: 30px;
+}
+.location01 .intro .img01 .annotation {
+  bottom: -10px;
+}
+.location01 .intro .mini {
+  text-align: left;
+  font-size: 10px;
+  line-height: 1.4;
+}
+.location01 .areas {
+  margin-bottom: 120px;
+}
+.location01 .areas .caps {
+  text-align: right;
+  margin-top: 10px;
+  font-size: 10px;
+  line-height: 1.6;
+}
+.location01 .areas .caps.bottom {
+  margin-bottom: 80px;
+}
+.location01 .areas .text {
+  font-size: 27px;
+  line-height: 1.6;
+  margin-bottom: 40px;
+}
+.location01 .areas .lead {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 80px;
+}
+.location01 .areas .box {
+  background: #ddf0f3;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-bottom: 40px;
+}
+.location01 .areas .name {
+  text-align: center;
+  font-size: 24px;
+  line-height: 1.6;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  border-bottom: 0.5px solid #231815;
+}
+.location01 .areas .name span {
+  font-size: 18px;
+}
+.location01 .areas .info {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
+.location01 .area01 .column02.bottom {
+  margin-bottom: 20px;
+}
+.location01 .area01 .txt01 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+.location01 .area01 .txt02 {
+  font-size: 14px;
+  line-height: 1.6;
+}
+.location01 .area01 .box02 .column02 li {
+  vertical-align: middle;
+}
+.location01 .area02 .column02 .name {
+  text-align: left;
+}
+.location01 .area02 .column02 li {
+  width: 60%;
+  vertical-align: bottom;
+}
+.location01 .area02 .column02 li:last-child {
+  width: 37%;
+}
+.location01 .area02 .column02.imgs li {
+  width: 48%;
+}
+.location01 .area02 .column02.imgs li:last-child {
+  width: 48%;
+}
+.location01 .area03 .column02 .txt {
+  height: 80px;
+  margin-top: 20px;
+  display: inline-flex;
+}
+.location01 .area03 .box {
+  margin-top: 40px;
+}
+.location01 .area03 .box .column02 .name {
+  text-align: left;
+}
+.location01 .area03 .box .column02 .info {
+  margin-bottom: 140px;
+}
+.location01 .area03 .box .column02 .mini {
+  font-size: 10px;
+  line-height: 1.4;
+}
+.location01 .area04 .other .tit01 {
+  font-size: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 0.5px solid #231815;
+}
+.location01 .area04 .other .others li {
+  width: 100%;
+}
+.location01 .area04 .other .others li.tb {
+  display: none;
+}
+.location01 .area04 .column03 .txt {
+  background: #ddf0f3;
+  padding: 10px;
+  box-sizing: border-box;
+  margin-top: 10px;
+}
+.location01 .area04 .column03 .txt .info {
+  margin-bottom: 0;
+  word-break: break-all;
+}
+.location01 .area04 .mini {
+  font-size: 10px;
+  line-height: 1.6;
+  margin-top: 10px;
+}
+@media screen and (max-width: 768px) {
+  .location01 sp {
+    display: block;
+  }
+  .location01 pc {
+    display: none;
+  }
+  .location01 .main-visual {
+    padding-bottom: 100px;
+  }
+  .location01 .main-visual .image::after {
+    bottom: -60px;
+    height: 60px;
+  }
+  .location01 .sections .column02 li {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .location01 .sections .column02 li:last-child {
+    margin-bottom: auto;
+  }
+  .location01 .sections .column03 li {
+    display: inline-block;
+    width: 48%;
+    margin-bottom: 20px;
+    margin-right: 0;
+  }
+  .location01 .sections .column03 li .annotation {
+    bottom: 5px;
+    right: 5px;
+  }
+  .location01 .sections .column03 li:last-child {
+    margin-bottom: auto;
+    margin-right: auto;
+  }
+  .location01 .sections .column03 .txt {
+    margin-top: 25px;
+  }
+  .location01 .sections .column03 .txt .info {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  .location01 .intro {
+    text-align: left;
+  }
+  .location01 .intro .tit {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .location01 .intro .lead {
+    text-align: left;
+    font-size: 16px;
+    line-height: 2;
+    margin-bottom: 0;
+  }
+  .location01 .areas {
+    margin-bottom: 60px;
+  }
+  .location01 .areas .img00 .annotation {
+    top: 5px;
+  }
+  .location01 .areas .caps.bottom {
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  .location01 .areas .text {
+    font-size: 20px;
+    line-height: 1.8;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .location01 .areas .lead {
+    font-size: 16px;
+    line-height: 2;
+    margin-bottom: 40px;
+  }
+  .location01 .areas .name {
+    font-size: 18px;
+  }
+  .location01 .areas .name span {
+    font-size: 13px;
+  }
+  .location01 .areas .info {
+    font-size: 16px;
+    line-height: 2;
+  }
+  .location01 .areas .box.box02 {
+    margin-bottom: 20px;
+  }
+  .location01 .area01 .txt01 {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  .location01 .area01 .txt02 {
+    font-size: 12px;
+    line-height: 1.6;
+  }
+  .location01 .area02 .column02 .name {
+    text-align: left;
+  }
+  .location01 .area02 .column02 li {
+    width: 100%;
+  }
+  .location01 .area02 .column02 li:last-child {
+    width: 100%;
+  }
+  .location01 .area02 .column02.imgs li {
+    width: 100%;
+  }
+  .location01 .area02 .column02.imgs li .img01 {
+    margin-bottom: 20px;
+  }
+  .location01 .area02 .column02.imgs li:last-child {
+    width: 100%;
+    display: flex;
+  }
+  .location01 .area02 .box {
+    margin-bottom: 20px;
+  }
+  .location01 .area03 .column02 .txt {
+    height: 48px;
+    margin-top: 10px;
+  }
+  .location01 .area03 .box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .location01 .area03 .box .column02 .info {
+    margin-bottom: 10px;
+  }
+  .location01 .area04 .lead {
+    margin-bottom: 20px;
+  }
+  .location01 .area04 .caps.bottom {
+    margin-bottom: 40px;
+  }
+  .location01 .area04 .column03 li {
+    width: 100%;
+  }
+  .location01 .area04 .column03 li .others {
+    margin-bottom: 10px;
+  }
+  .location01 .area04 .column03 li .others li {
+    display: inline-block;
+    vertical-align: bottom;
+  }
+  .location01 .area04 .column03 li .image {
+    width: 60%;
+    margin-right: 2%;
+    margin-bottom: 0;
+  }
+  .location01 .area04 .column03 li .txt {
+    clear: both;
+    margin-top: 0;
+  }
+  .location01 .area04 .column03 li .mini {
+    margin-top: 0;
+    width: 36%;
+  }
+  .location01 .area04 .column03 li .mini.tb {
+    display: inline-block;
+  }
+  .location01 .area04 .column03 li:nth-child(2) .mini {
+    margin-right: 2%;
+    margin-bottom: 0;
+  }
+  .location01 .area04 .column03 li:nth-child(2) .image {
+    margin-right: auto;
+  }
+}/*# sourceMappingURL=location01.css.map */
