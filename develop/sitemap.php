@@ -21,7 +21,7 @@
   <h2 class="ttl">サイトマップ</h2>
   <div class="sitemap_area">
   <ul>
-	<li class="top"><a href="/shuto/shimomaruko/">シティテラス下丸子 トップ</a></li>
+	<li class="top"><a href="/kansai/furukawabashi/">シティタワー古川橋 トップ</a></li>
 	<li class="concept"><a href="concept.html">コンセプト</a></li>
 	<!--li class="design"><a href="design.html">デザイン</a></li-->
 	<li class="design">デザイン</li>
@@ -39,15 +39,15 @@
 	（ <a href="structure_01.html">基本構造</a> ／ <a href="structure_02.html">セキュリティ</a> ／ <a href="structure_03.html">防災対策</a> ）</span></li-->
 	<li class="structure">構造・防災</li>
 	<li class="location"><span>ロケーション<br />
-	（ <a href="location01.html">様々な都市機能に近接</a> ／ <a href="location02.html">豊かな自然の潤いを身近に</a>／ <a href="location03.html">毎日を支える充実の利便施設</a> ）</span></li>
+	（ <a href="location01.html">「古川橋」駅前が生まれ変わる</a> ／ <a href="location02.html">たしかな暮らしやすさがここにある</a> ）</span></li>
 	<li class="access"><a href="access.html">アクセス</a></li>
 	<li class="map"><a href="map.html" target="_blank">現地案内図</a></li>
 	<li class="outline"><a href="javascript:outline()">物件概要</a></li>
 	<!--li class="blog"><a href="javascript:blog();">マンション情報ブログ</a></li-->
 	<li class="blog">マンション情報ブログ</li>
-	<li class="faq"><a href="shuto/shimomaruko/faq.cgi" target="_blank">FAQ</a></li>
+	<li class="faq"><a href="kansai/furukawabashi/faq.cgi" target="_blank">FAQ</a></li>
 	<li class="sitemap"><a href="sitemap.html">サイトマップ</a></li>
-	<script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=shuto&PROP_CD=shimomaruko&LINK=footer"></script>
+	<script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=kansai&PROP_CD=furukawabashi&LINK=footer"></script>
 	</ul>
     </div>
   </section>
