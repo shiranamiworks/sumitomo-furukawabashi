@@ -72,6 +72,12 @@
   color: #231815;
   font-family: "RyuminPro", serif;
   line-height: 1;
+  background: url(../images/common/bg.png);
+  background-size: contain;
+}
+#access sup {
+  font-size: 10px;
+  vertical-align: super;
 }
 #access sp {
   display: none;
@@ -84,7 +90,6 @@
 }
 #access .main-visual {
   position: relative;
-  padding-bottom: 140px;
   border: none;
 }
 #access .sections .inner {
@@ -122,6 +127,7 @@
 #access .intro {
   text-align: center;
   padding: 0 0 140px;
+  margin-top: -140px;
 }
 #access .intro .inner {
   max-width: 1000px;
@@ -316,6 +322,7 @@
   #access .intro {
     text-align: left;
     padding: 0 0 60px;
+    margin-top: -60px;
   }
   #access .intro .en {
     font-size: 36px;

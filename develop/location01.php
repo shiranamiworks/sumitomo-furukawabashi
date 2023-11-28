@@ -44,12 +44,12 @@
       <p class="en">Town Planning</p>
       <p class="tit">こころ躍る、未来図。</p>
       <p class="lead">継続的な進化が、美しい未来の到来を予感させる門真市。<br>その中心の一つに位置付けられる「古川橋」駅前に今、多様な人々の理想を迎える壮大なまちづくりを。</p>
+    </div>
       <div class="image img01">
         <img src="./images/location01/intro01.jpg" alt="" class="pc">
         <img src="./images/location01/intro01-sp.jpg" alt="" class="sp">
       </div>
       <p class="mini">1.三井ショッピングパーク ららぽーと門真・三井アウトレットパーク 大阪門真（約1,470m／徒歩19分）　2.門真はすはな中学校周辺（約510m／徒歩7分）　3.門真市立総合体育館（約400m／徒歩5分）</p>
-    </div>
   </section><!-- intro -->
 
 
@@ -79,8 +79,25 @@
             <p class="txt02">「エコ」に配慮した<br>門真はすはな中学校新校舎</p>
             <p class="txt03">新しく生まれた門真はすはな中学校は、シンボリックな外観を設え、美しい街並みに寄与。「エコ」にも配慮し自然通風換気システムや太陽光発電装置を備えています。</p>
           </li>
+          <li>
+            <div class="image">
+              <img src="./images/location01/area03.jpg" alt="">
+            </div>
+            <p class="caps">門真はすはな中学校周辺（約510m／徒歩7分）<br>　</p>
+            <p class="txt02">「居心地が良く歩きたくなる」<br>まちづくり・景観づくり推進</p>
+            <p class="txt03">中町地区および本計画地を含む「古川橋」駅周辺では、エリア価値の向上を目的とし、ひと中心の空間や魅力的なパブリックスペースの整備を行っています。</p>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location01/area04.jpg" alt="">
+            </div>
+            <p class="caps">門真市立総合体育館（約400m／徒歩5分）<br>〈2016年竣工〉</p>
+            <p class="txt02">幅広く交流を育む<br>市立総合体育館</p>
+            <p class="txt03">「誰もが身近に利用しやすい生涯スポーツ推進拠点」をコンセプトにした体育館。幼児体育室や室内ランニングコースなど、多様な世代がスポーツに親しめる環境が整っています。</p>
+          </li>
         </ul>
       </div><!-- box -->
+      <p class="mini">※1.「（仮称）松生町」駅／2029年開業予定 出典：大阪モノレール（株）ホームページ（2023年9月時点）</p>
     </div><!-- inner -->
   </section><!-- area -->
 
@@ -88,10 +105,105 @@
 
   <section class="sections project clearfix">
     <div class="inner">
-      <p class="text">門真市内最大・最高層タワーをシンボルとして、<br class="pc">生まれ変わる駅前街づくりプロジェクト。</p>
+      <p class="tit">門真市内最大・最高層タワーをシンボルとして、<br class="pc">生まれ変わる駅前街づくりプロジェクト。</p>
       <p class="lead">門真市のビジョンに呼応する一大プロジェクトが動きはじめた「古川橋」駅前に誕生するのは、<br class="pc">地上41階・総戸数648戸のタワーをシンボルとする壮大な駅前街区。<br>（仮称）門真市立生涯学習複合施設や多彩な交流の場を複合した街区から、あたらしい日々が幕を開けます。</p>
+    </div><!-- inner -->
+    <div class="image">
+      <img src="./images/location01/project01.jpg" alt="">
+    </div>
+    <p class="caps">※2. 1995年1月～2023年6月までに門真市内で新規供給された分譲マンションのうち、本プロジェクトの総戸数648戸は過去最大規模の戸数であり、41階建ては過去最高層となります。（有）MRC調べ（2023年8月現在）</p>
+
+    <div class="design clearfix">
+      <div class="inner">
+      <p class="text">それぞれに個性を持つ４つの輪をつなぎ、<br class="pc">多様な賑わいと交流を創出する街区デザイン。</p>
+      <ul class="column02 shaft">
+        <li>
+          <div class="image" class="pc">
+            <figure>
+            <img src="./images/location01/project02.jpg" alt="" class="pc">
+            </figure>
+            <figure class="zoomImg tb">
+            <img src="./images/location01/project02.jpg" alt="" class="zoomImg tb">
+          </figure>
+          <p class="annotation">街区計画概念図</p>
+        </div>
+        </li>
+        <li>
+          <div class="texts texts01">
+            <p class="txt01">緑とゆとりの軸</p>
+            <p class="txt02">駅とタワー、過去と未来、<br class="pc">街区と周辺を結ぶ道。</p>
+            <p class="txt03">それぞれの広場や公園を結ぶメイン動線として、街区を南北に貫くように、屋根付きのシェルターを計画。タワーマンションの軒下とも連動させることで、雨に濡れにくいアプローチです。</p>
+          </div>
+          <div class="texts texts02">
+            <p class="txt01">賑わいの軸</p>
+            <p class="txt02">緩やかな境界でつながる、<br class="pc">商店街のある通り。</p>
+            <p class="txt03">古川橋本通り商店街を中心とする賑わいのエリアを貫く既存道路。開かれたランドスケープを採用することで、街区と商店街が分断しないよう配慮しました。</p>
+          </div>
+          <div class="texts texts03">
+            <p class="txt01">交流の軸</p>
+            <p class="txt02">街区内外の回遊性を高める、<br class="pc">賑わい豊かな東西の軸線。</p>
+            <p class="txt03">街区の東西を結ぶことで人々の回遊性を高める歩行者動線。西側に広がる既存の商店街との共存を図りながら、街の賑わいを創出します。</p>
+          </div>
+        </li>
+      </ul>
+
+      <ul class="column02 ring">
+        <li>
+          <p class="txt01">歴史と緑の輪</p>
+          <p class="txt02">新しい街区の日常に、<br class="pc">地域の歴史と自然を結ぶ公園。</p>
+          <div class="image">
+            <img src="./images/location01/ring01.jpg" alt="">
+            <p class="annotation">幸福町公園（約130m／徒歩2分）</p>
+          </div>
+          <p class="txt03">普賢寺古墳の墳丘の一部が残る緑豊かな幸福町公園。この公園を“歴史と緑の輪”と位置付けることで、周辺の歴史と自然を街区に結びます。</p>
+        </li>
+        <li>
+          <p class="txt01">学びの輪</p>
+          <p class="txt02">子供たちの健やかな成長を育む、<br class="pc">緑豊かな学びの空間。</p>
+          <div class="image">
+            <img src="./images/location01/ring02.jpg" alt="">
+            <p class="annotation">image photo</p>
+          </div>
+          <p class="txt03">緑の中で、子どもたちが自由に走り回れる広場。身近な自然や地域のイベントを通じ、学びを深められる空間です。タワーマンション内にも子どもたちの交流の場となるキッズコミュニティスペースを計画しています。</p>
+        </li>
+        <li>
+          <p class="txt01">賑わいの輪</p>
+          <p class="txt02">賑わいの中心となる、<br class="pc">シンボリックなメイン広場。</p>
+          <div class="image">
+            <img src="./images/location01/ring03.jpg" alt="">
+            <p class="annotation white">賑わいの輪完成予想CG【提供画像】※3</p>
+          </div>
+          <p class="txt03">人々の交流を促し、子どもたちが遊び、学べる街区の中心的な賑わい空間。所々に庇を設置することで雨天時のイベント開催を可能にした全天候型の広場です。</p>
+        </li>
+        <li>
+          <p class="txt01">交流の輪</p>
+          <p class="txt02">人々を優しく出迎える、<br class="pc">開放感あふれる街区のゲート。</p>
+          <div class="image">
+            <img src="./images/location01/ring04.jpg" alt="">
+            <p class="annotation">image photo</p>
+          </div>
+          <p class="txt03">街区の入り口に広がる広場。エリアマネジメント活動の中心として活気と開放感あふれる空間が、住まう方、訪れる方を優しく出迎えます。</p>
+        </li>
+      </ul>
+      <p class="caps">※3. 出典：門真市ホームページ（門真市幸福町・垣内町地区まちづくり用地活用事業）提案概要書<br>※掲載の完成予想CGは計画段階の図面を基に描き起こしたものに人物をCG合成したもので、実際とは多少異なります。また、形状の細部および設備機器等については省略しております。</p>
       </div><!-- inner -->
-  </section><!-- areas area03 -->
+    </div><!-- design -->
+  </section><!-- project -->
+
+
+  <section class="sections facility clearfix">
+    <div class="inner">
+    <p class="tit">（仮称）門真市立生涯学習複合施設 <span>【2025年度完成予定】</span></p>
+    <div class="content">
+      <p class="text">地域一体のコミュニティを育む文化と学びの交流拠点。</p>
+      <p class="lead">タワーマンションの南東側には、屋上へ人を引き込むスパイラルガーデンと<br class="pc">内部の吹き抜けが立体的なつながりを生み出す生涯学習施設が誕生予定。<br>図書館と文化会館の機能を併せ持つこの施設から市民活動と緑が溢れ出し、<br class="pc">街区全体に心地よい賑わいと潤いをもたらします。</p>
+      <div class="image">
+      <img src="./images/location01/facility01.jpg" alt="">
+      <p class="annotation white">外観イメージ<br>（株式会社遠藤克彦建築研究所提供）</p>
+      </div>
+    </div><!-- content -->
+    </div><!-- inner -->
+  </section>
 
 
 

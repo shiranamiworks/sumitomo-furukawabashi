@@ -8,6 +8,7 @@
 #adtag {
   opacity: 0;
 }
+
 .breadcrumb {
   padding: 20px 2%;
   border-top: 1px solid #f1e9dc;
@@ -73,6 +74,10 @@
     font-family: "RyuminPro", serif;
     line-height: 1;
   }
+  sup {
+    font-size: 10px;
+    vertical-align: super;
+  }
   sp {
     display: none;
   }
@@ -107,6 +112,8 @@
     .text {
       font-size: 24px;
       line-height: 2.2;
+      letter-spacing: 0.12em;
+      color: #002d43;
     }
   } //intro
   .images {
@@ -160,6 +167,10 @@
           font-size: 16px;
           line-height: 1.8;
         }
+      }
+      .caps {
+        text-align: left;
+        margin-left: 10px;
       }
     } //images
     .btn {

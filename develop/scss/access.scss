@@ -8,6 +8,7 @@
 #adtag {
   opacity: 0;
 }
+
 .breadcrumb {
   padding: 20px 2%;
   border-top: 1px solid #f1e9dc;
@@ -71,6 +72,12 @@
     color: #231815;
     font-family: "RyuminPro", serif;
     line-height: 1;
+    background: url(../images/common/bg.png);
+    background-size: contain;
+  }
+  sup {
+    font-size: 10px;
+    vertical-align: super;
   }
   sp {
     display: none;
@@ -83,7 +90,6 @@
   }
   .main-visual {
     position: relative;
-    padding-bottom: 140px;
     border: none;
   }
   .sections {
@@ -127,6 +133,7 @@
   .intro {
     text-align: center;
     padding: 0 0 140px;
+    margin-top: -140px;
     .inner {
       max-width: 1000px;
     }
@@ -338,6 +345,7 @@
     .intro {
       text-align: left;
       padding: 0 0 60px;
+      margin-top: -60px;
       .en {
         font-size: 36px;
         margin-bottom: 20px;

@@ -74,6 +74,10 @@
   font-family: "RyuminPro", serif;
   line-height: 1;
 }
+#concept sup {
+  font-size: 10px;
+  vertical-align: super;
+}
 #concept sp {
   display: none;
 }
@@ -107,6 +111,8 @@
 #concept .intro .text {
   font-size: 24px;
   line-height: 2.2;
+  letter-spacing: 0.12em;
+  color: #002d43;
 }
 #concept .images {
   margin-bottom: 140px;
@@ -154,6 +160,10 @@
   #concept .images .texts .lead {
     font-size: 16px;
     line-height: 1.8;
+  }
+  #concept .images .caps {
+    text-align: left;
+    margin-left: 10px;
   }
   #concept .btn {
     margin: 0 auto 60px;
