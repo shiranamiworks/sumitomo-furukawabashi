@@ -84,24 +84,8 @@
 }
 #access .main-visual {
   position: relative;
-  display: inline-block;
-  padding-bottom: 300px;
+  padding-bottom: 140px;
   border: none;
-}
-#access .main-visual .image {
-  position: relative;
-  display: inline-block;
-}
-#access .main-visual .image::after {
-  content: "";
-  position: absolute;
-  bottom: -217px;
-  left: 0;
-  right: 0;
-  width: 1px;
-  height: 220px;
-  margin: auto;
-  background-color: #000;
 }
 #access .sections .inner {
   margin: 0 auto;
@@ -137,143 +121,130 @@
 }
 #access .intro {
   text-align: center;
-  padding: 0 0 0;
+  padding: 0 0 140px;
 }
-#access .intro .tit {
-  font-size: 36px;
-  line-height: 2;
-  margin-bottom: 80px;
+#access .intro .inner {
+  max-width: 1000px;
 }
-#access .intro .lead {
-  text-align: left;
-  font-size: 18px;
-  line-height: 1.8;
+#access .intro .en {
+  font-size: 38px;
+  letter-spacing: 0.2em;
   margin-bottom: 50px;
 }
-#access .intro .img01 {
-  margin-bottom: 0;
+#access .intro .tit {
+  font-size: 30px;
+  line-height: 2;
+  margin-bottom: 30px;
+}
+#access .intro .lead {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 60px;
 }
 #access .intro .img01 .annotation {
-  bottom: 12%;
+  bottom: -20px;
 }
-#access .intro .column02 {
-  margin-bottom: 20px;
+#access .intro .distance {
+  margin: 100px auto;
 }
-#access .intro .column03 li {
-  margin-bottom: 40px;
-}
-#access .intro .column03 .txt {
-  margin-top: 20px;
-}
-#access .network {
+#access .intro .distance .text {
   text-align: left;
-  max-width: 1200px;
-  margin: 0 auto 120px;
-}
-#access .network .bg {
-  background: #dceff2;
-  padding: 50px 50px 0;
-  box-sizing: border-box;
-}
-#access .network .text {
-  font-size: 27px;
+  font-size: 22px;
   line-height: 1.6;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
-  border-bottom: 0.5px solid #231815;
+  border-bottom: 1px solid #231815;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
 }
-#access .network .lead {
-  font-size: 18px;
-  line-height: 1.8;
+#access .intro .monorail {
+  text-align: center;
+  background: #cfdce4;
 }
-#access .network .map {
-  padding-bottom: 20px;
+#access .intro .monorail .text {
+  font-size: 24px;
+  color: #fff;
+  background: #063a6b;
+  padding: 10px 0;
 }
-#access .network li {
-  float: left;
-  width: 20%;
+#access .intro .monorail .column02 li {
+  width: 37%;
 }
-#access .airport .text {
-  font-size: 27px;
-  line-height: 1.6;
-  margin-top: 60px;
-  margin-bottom: 20px;
+#access .intro .monorail .column02 li:last-child {
+  width: 60%;
 }
-#access .airport .lead {
-  font-size: 18px;
-  line-height: 1.8;
-  margin-bottom: 40px;
-}
-#access .airport .column02 li {
-  width: 15%;
-  margin-right: 1%;
-}
-#access .airport .column02 li:last-child {
-  width: 81%;
-  margin-right: auto;
-}
-#access .airport .column02.bottom {
-  margin-bottom: 20px;
-}
-#access .airport .check {
-  background: #dceff2;
+#access .intro .monorail .content {
   padding: 20px 30px;
   box-sizing: border-box;
-  margin: 40px auto 120px;
 }
-#access .airport .check .column02 li {
-  vertical-align: middle;
-  width: 79%;
-  margin-right: 2%;
+#access .intro .monorail .lead {
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.8;
+  margin: 20px 0;
 }
-#access .airport .check .column02 li:last-child {
-  width: 18%;
-  margin-right: auto;
+#access .intro .monorail .mini {
+  text-align: right;
+  font-size: 10px;
 }
 #access .car {
-  margin-bottom: 120px;
+  text-align: center;
+  margin-bottom: 140px;
 }
-#access .car .text {
-  font-size: 27px;
-  line-height: 1.6;
-  margin-top: 60px;
-  margin-bottom: 20px;
+#access .car .wrap {
+  max-width: 1000px;
+}
+#access .car .tit {
+  font-size: 30px;
+  line-height: 2;
+  margin: 50px auto 30px;
 }
 #access .car .lead {
   font-size: 18px;
   line-height: 1.8;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
-#access .car .column02 {
-  margin-bottom: 60px;
+#access .car .column03 {
+  margin-bottom: 20px;
 }
-#access .car .column02 li {
-  width: 71%;
-  margin-right: 4%;
+#access .car .column03 li {
+  width: 29%;
+  margin-right: 5%;
 }
-#access .car .column02 li:last-child {
-  width: 24%;
+#access .car .column03 li:last-child {
   margin-right: auto;
 }
-#access .car .column02 .annotation {
-  bottom: -10px;
+#access .airport {
+  text-align: center;
+  margin-bottom: 100px;
 }
-#access .car .column02 .mini {
-  font-size: 12px;
-  line-height: 1.6;
+#access .airport .wrap {
+  max-width: 1000px;
+}
+#access .airport .tit {
+  font-size: 30px;
+  line-height: 2;
+  margin: 0 auto 30px;
+}
+#access .airport .lead {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+#access .airport .box {
+  background: #cfdce4;
+  padding: 20px 30px;
+  box-sizing: border-box;
+}
+#access .airport .box .text {
+  font-size: 30px;
+  line-height: 1.5;
+}
+#access .airport .box .column02 li {
   margin-top: 20px;
 }
-#access .car .column03 .txt {
-  margin-top: 20px;
-}
-#access .car .tit01 {
-  font-size: 27px;
-  padding-bottom: 20px;
-  margin-bottom: 20px;
-  border-bottom: 0.5px solid #000;
-}
-#access .car .tit01 span {
-  font-size: 36px;
+#access .airport .box .mini {
+  text-align: right;
+  font-size: 10px;
+  line-height: 1.4;
 }
 @media screen and (max-width: 768px) {
   #access sp {
@@ -282,12 +253,33 @@
   #access pc {
     display: none;
   }
-  #access .main-visual {
-    padding-bottom: 100px;
+}
+@media screen and (max-width: 768px) and (max-width: 768px) {
+  #access .swipe-img {
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
   }
-  #access .main-visual .image::after {
-    bottom: -60px;
-    height: 60px;
+  #access .swipe-img img {
+    max-width: auto !important;
+    max-width: inherit !important;
+    width: auto !important;
+  }
+  #access .swipe {
+    display: block;
+    text-align: center;
+    margin: 20px auto 40px;
+  }
+  #access .swipe img {
+    max-width: 75px;
+    width: 15%;
+    height: auto;
+    margin: auto;
+    pointer-events: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  #access .main-visual {
+    padding-bottom: 60px;
   }
   #access .sections .column02 li {
     display: block;
@@ -317,6 +309,11 @@
   }
   #access .intro {
     text-align: left;
+    padding: 0 0 60px;
+  }
+  #access .intro .en {
+    font-size: 36px;
+    margin-bottom: 20px;
   }
   #access .intro .tit {
     font-size: 22px;
@@ -329,200 +326,89 @@
     margin-bottom: 0;
   }
   #access .intro .img01 {
-    margin-bottom: 40px;
+    margin-top: 30px;
   }
-  #access .intro .img01 figure {
-    width: 100%;
+  #access .intro .swipe-img img {
+    width: 720px !important;
   }
-  #access .intro .img01 .leaflet-top {
-    bottom: 0;
+  #access .intro .distance {
+    margin: 40px auto;
   }
-  #access .intro .img01 .annotation {
-    bottom: 5%;
-    z-index: 1000;
-  }
-  #access .intro .column02 {
-    margin-bottom: 40px;
-  }
-  #access .intro .column03 {
-    margin-bottom: 40px;
-  }
-  #access .intro .column03 li {
-    margin-bottom: 40px;
-  }
-  #access .intro .column03 .txt {
-    margin-top: 10px;
-  }
-  #access .network {
-    margin: 0 auto 60px;
-  }
-  #access .network .bg {
-    padding: 20px 20px 0;
-  }
-  #access .network .text {
-    text-align: left;
-    font-size: 20px;
-    line-height: 1.8;
-    margin-bottom: 10px;
-    padding-bottom: 10px;
-  }
-  #access .network .lead {
-    font-size: 16px;
-    line-height: 2;
-  }
-  #access .network .image.map .annotation {
-    bottom: 5px;
-  }
-  #access .network #wrap {
-    min-width: inherit;
-    position: relative;
-    width: 96%;
-    height: 55vw;
-    max-width: 1280px;
-    overflow: hidden;
-    margin: 0 auto;
-  }
-  #access .network #wrap .box {
-    overflow-x: scroll;
-    overflow-y: hidden;
-  }
-  #access .network #wrap .box img {
-    max-width: 600px;
-    display: block;
-    margin: auto;
-  }
-  #access .network #wrap .scrollimage_leftbox, #access .network #wrap .scrollimage_rightbox {
-    position: absolute;
-    opacity: 0.2;
-    top: 50%;
-    width: 7vw;
-    cursor: pointer;
-    z-index: 6;
-    transform: translateY(-50%);
-  }
-  #access .network #wrap .scrollimage_leftbox {
-    left: -1vw;
-  }
-  #access .network #wrap .scrollimage_rightbox {
-    right: -1vw;
-  }
-  #access .network #scrollimagebox .scrollimage_caption {
-    width: 15%;
-    max-width: 75px;
-    height: auto;
-    margin: 10px auto 20px;
-    pointer-events: none;
-    padding-bottom: 20px;
-  }
-  #access .network li {
-    display: inline-block;
-    width: 50%;
-  }
-  #access .network li .image {
-    line-height: 0;
-  }
-  #access .airport .text {
-    text-align: left;
-    font-size: 20px;
-    line-height: 1.8;
-    margin-top: 40px;
+  #access .intro .distance .text {
+    font-size: 18px;
     margin-bottom: 20px;
   }
-  #access .airport .lead {
-    font-size: 16px;
-    line-height: 2;
-    margin-bottom: 40px;
+  #access .intro .monorail .text {
+    font-size: 18px;
+    line-height: 1.6;
   }
-  #access .airport .column02 li {
-    width: 50%;
-    margin: 0 auto 20px;
-  }
-  #access .airport .column02 li:last-child {
-    width: 100%;
-    margin: auto;
-  }
-  #access .airport .column02 li:last-child img {
+  #access .intro .monorail .column02 li {
     width: 100%;
   }
-  #access .airport .column02.bottom {
-    margin-bottom: 40px;
+  #access .intro .monorail .column02 li:last-child {
+    width: 100%;
   }
-  #access .airport .check {
+  #access .intro .monorail .content {
     padding: 20px;
-    margin: 20px auto 60px;
   }
-  #access .airport .check .column02 li {
-    width: 100%;
+  #access .intro .monorail .lead {
+    font-size: 16px;
   }
-  #access .airport .check .column02 li img {
-    width: 100%;
-  }
-  #access .airport .check .column02 li:last-child {
-    width: 50%;
-    margin: auto;
+  #access .intro .monorail .mini {
+    text-align: left;
+    line-height: 1.4;
   }
   #access .car {
+    text-align: left;
     margin-bottom: 60px;
   }
-  #access .car .text {
-    font-size: 20px;
-    line-height: 1.8;
-    margin-top: 40px;
-    margin-bottom: 20px;
+  #access .car .tit {
+    font-size: 22px;
+    line-height: 2;
+    margin: 30px auto 20px;
   }
   #access .car .lead {
     font-size: 16px;
     line-height: 2;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
   }
-  #access .car .column02 {
-    margin-bottom: 40px;
+  #access .car .column03 {
+    text-align: center;
+    margin-bottom: 20px;
   }
-  #access .car .column02 li {
-    width: 100%;
-    margin-bottom: 40px;
+  #access .car .column03 li {
+    display: inline-block;
+    width: 48%;
+    margin-right: 2%;
+    margin-bottom: 20px;
   }
-  #access .car .column02 li:last-child {
-    width: 100%;
+  #access .car .column03 li:nth-child(2n),
+  #access .car .column03 li:last-child {
+    margin-right: auto;
   }
-  #access .car .column02 .mini {
-    font-size: 10px;
-    margin-top: 30px;
+  #access .airport {
+    text-align: left;
+    margin-bottom: 60px;
   }
-  #access .car .column02 .image .leaflet-left {
-    left: auto;
-    right: 10px;
-    bottom: 30px;
+  #access .airport .tit {
+    font-size: 22px;
+    margin: 0 auto 20px;
   }
-  #access .car .tit01 {
-    font-size: 14px;
-    line-height: 1.4;
-    padding-bottom: 10px;
+  #access .airport .lead {
+    font-size: 16px;
+    line-height: 2;
+    margin-bottom: 20px;
   }
-  #access .car .tit01 span {
-    font-size: 21px;
+  #access .airport .box {
+    padding: 20px;
+    box-sizing: border-box;
   }
-}
-@media screen and (max-width: 550px) {
-  #access .network #wrap {
-    height: 65vw;
+  #access .airport .box .text {
+    font-size: 18px;
+    line-height: 1.6;
   }
-  #access .network #scrollimagebox .scrollimage_caption {
-    width: 15%;
-  }
-}
-@media screen and (max-width: 480px) {
-  #access .network #wrap {
-    height: 75vw;
-  }
-}
-@media screen and (max-width: 420px) {
-  #access .network #wrap {
-    height: 85vw;
-  }
-}
-@media screen and (max-width: 360px) {
-  #access .network #wrap {
-    height: 95vw;
+  #access .airport .box .mini {
+    text-align: left;
+    margin-top: 10px;
   }
 }/*# sourceMappingURL=access.css.map */
