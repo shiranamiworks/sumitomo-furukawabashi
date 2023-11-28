@@ -68,7 +68,7 @@
     color: #000;
   }
   main {
-    color: #3e3a39;
+    color: #231815;
     font-family: "RyuminPro", serif;
     line-height: 1;
   }
@@ -154,50 +154,48 @@
       line-height: 1.4;
     }
   } //intro
-  .areas {
-    margin-bottom: 120px;
-    .caps {
-      text-align: right;
-      margin-top: 10px;
-      font-size: 10px;
-      line-height: 1.6;
-      &.bottom {
-        margin-bottom: 80px;
-      }
-    }
-    .text {
-      font-size: 27px;
-      line-height: 1.6;
-      margin-bottom: 40px;
+  .area {
+    text-align: center;
+    margin-bottom: 100px;
+    .tit {
+      font-size: 30px;
+      line-height: 2;
+      margin-bottom: 30px;
+      color: #002d43;
     }
     .lead {
       font-size: 18px;
       line-height: 1.8;
-      margin-bottom: 80px;
+      margin-bottom: 60px;
+      color: #3e3a39;
     }
     .box {
-      background: #ddf0f3;
-      padding: 20px;
+      background: rgba(184, 226, 244, 0.3);
+      padding: 20px 30px;
       box-sizing: border-box;
-      margin-bottom: 40px;
-    }
-    .name {
-      text-align: center;
-      font-size: 24px;
-      line-height: 1.6;
-      padding-bottom: 10px;
-      margin-bottom: 20px;
-      border-bottom: 0.5px solid #231815;
-      span {
-        font-size: 18px;
+      margin-top: 100px;
+      .txt01 {
+        font-size: 22px;
+        margin-bottom: 20px;
+        border-bottom: 1px solid;
+        color: #2f5160;
+        padding-bottom: 10px;
+        span {
+          font-size: 10px;
+        }
       }
-    }
-    .info {
-      font-size: 18px;
-      line-height: 1.8;
-      margin-bottom: 20px;
-    }
-  } //areas
+      .lead {
+        text-align: left;
+        margin-bottom: 20px;
+      }
+      .caps {
+        text-align: right;
+        font-size: 10px;
+        line-height: 1.4;
+        margin-bottom: 20px;
+      }
+    } //box
+  } //area
   .area01 {
     .column02.bottom {
       margin-bottom: 20px;
