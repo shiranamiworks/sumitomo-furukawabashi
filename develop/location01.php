@@ -56,9 +56,31 @@
 
   <section class="sections area clearfix">
     <div class="inner">
-      <p class="text">マスタープランに基づいた、<br class="pc">数々の計画に期待が高まる門真市。</p>
+      <p class="tit">マスタープランに基づいた、<br class="pc">数々の計画に期待が高まる門真市。</p>
       <p class="lead">計画地のある「古川橋」駅周辺は、隣駅の「門真市」駅周辺と共に、市の賑わい拠点に位置付けられるエリア。<br>延伸予定の大阪モノレール新駅近くには、すでに複数の大規模商業施設が開業しており、<br class="pc">都市の利便性が向上しています。</p>
-
+      <div class="image" class="pc">
+          <figure>
+          <img src="./images/location01/area01.jpg" alt="" class="pc">
+          </figure>
+          <figure class="zoomImg tb">
+          <img src="./images/location01/area01.jpg" alt="" class="zoomImg tb">
+        </figure>
+        <p class="annotation">門真市都市計画マスタープラン概念図</p>
+      </div>
+      <div class="box">
+        <p class="txt01">門真市中町土地区画整理事業エリア内のまちづくり<br><span>〈2018年5月完了〉</span></p>
+        <p class="lead">中町地区では、質の高い都市デザインによる魅力的な都市景観の創造を通じた、美しく親しみのあるまちづくりを推進。世界的な建築家が設計した中学校や緑あふれる歩行者動線の整備を通じ、門真市をリードする先進的な街並が形成されています。</p>
+        <ul class="column03">
+          <li>
+            <div class="image">
+              <img src="./images/location01/area02.jpg" alt="">
+            </div>
+            <p class="caps">門真はすはな中学校（約520m／徒歩7分）<br>〈2012年竣工〉</p>
+            <p class="txt02">「エコ」に配慮した<br>門真はすはな中学校新校舎</p>
+            <p class="txt03">新しく生まれた門真はすはな中学校は、シンボリックな外観を設え、美しい街並みに寄与。「エコ」にも配慮し自然通風換気システムや太陽光発電装置を備えています。</p>
+          </li>
+        </ul>
+      </div><!-- box -->
     </div><!-- inner -->
   </section><!-- area -->
 
