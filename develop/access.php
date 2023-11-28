@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティテラス下丸子　トップ</a></li>
+      <li><a href="./index.html">シティタワー古川橋　トップ</a></li>
       <li><p>アクセス</p></li>
     </ul>
   </div>

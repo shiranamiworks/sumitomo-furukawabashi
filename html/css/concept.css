@@ -63,6 +63,7 @@
   right: 10px;
   text-align: right;
   font-size: 10px;
+  line-height: 1.4;
 }
 #concept .image .annotation.white {
   color: #fff;
@@ -99,12 +100,28 @@
   text-align: right;
 }
 #concept .intro {
-  padding: 140px 0 0;
+  text-align: center;
+  background: #ebfef4;
+  padding: 140px 0;
 }
 #concept .intro .text {
   font-size: 24px;
   line-height: 2.2;
-  margin-bottom: 180px;
+}
+#concept .images {
+  margin-bottom: 140px;
+}
+#concept .images .caps {
+  text-align: right;
+  font-size: 10px;
+  line-height: 1.5;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+#concept .btn {
+  text-align: center;
+  max-width: 320px;
+  margin: 0 auto 100px;
 }
 @media screen and (max-width: 768px) {
   #concept sp {
@@ -113,14 +130,32 @@
   #concept pc {
     display: none;
   }
-  #concept .main-visual .annotation {
-    bottom: 40px;
-  }
   #concept .intro {
-    padding: 60px 0 0;
+    text-align: left;
+    padding: 60px 0;
   }
   #concept .intro .text {
-    font-size: 16px;
+    font-size: 22px;
+    line-height: 1.8;
+  }
+  #concept .images {
     margin-bottom: 60px;
+  }
+  #concept .images .texts {
+    text-align: left;
+    background: #ebfef4;
+    padding: 60px 0;
+  }
+  #concept .images .texts .text {
+    font-size: 22px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+  }
+  #concept .images .texts .lead {
+    font-size: 16px;
+    line-height: 1.8;
+  }
+  #concept .btn {
+    margin: 0 auto 60px;
   }
 }/*# sourceMappingURL=concept.css.map */
