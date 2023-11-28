@@ -124,9 +124,8 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
           <li class="has-child">
             <p class="active"><span class="f-en">LOCATION</span><br>ロケーション</p>
             <div class="sub-menu">
-              <a href="<?= $page_settings["directory_pos"]  ?>location01.html">多彩な都市機能に近接</a>
-              <a href="<?= $page_settings["directory_pos"]  ?>location02.html">豊かな自然の潤いを身近に</a>
-              <a href="<?= $page_settings["directory_pos"]  ?>location03.html" class="finish">毎日を支える充実の利便施設</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>location01.html">「古川橋」駅前が生まれ変わる</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>location02.html">たしかな暮らしやすさがここにある</a>
             </div>
           </li>
           <li>
