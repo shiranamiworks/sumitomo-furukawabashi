@@ -68,7 +68,7 @@
   color: #000;
 }
 .location02 main {
-  color: #000;
+  color: #3e3a39;
   font-family: "RyuminPro", serif;
   line-height: 1;
 }
@@ -80,24 +80,8 @@
 }
 .location02 .main-visual {
   position: relative;
-  display: inline-block;
-  padding-bottom: 300px;
+  padding-bottom: 140px;
   border: none;
-}
-.location02 .main-visual .image {
-  position: relative;
-  display: inline-block;
-}
-.location02 .main-visual .image::after {
-  content: "";
-  position: absolute;
-  bottom: -217px;
-  left: 0;
-  right: 0;
-  width: 1px;
-  height: 220px;
-  margin: auto;
-  background-color: #000;
 }
 .location02 .sections .inner {
   margin: 0 auto;
@@ -278,7 +262,8 @@
 .location02 .area04 .annotation {
   bottom: -15px;
 }
-.location02 .area04 .list02 .annotation, .location02 .area04 .list03 .annotation {
+.location02 .area04 .list02 .annotation,
+.location02 .area04 .list03 .annotation {
   bottom: -30px;
 }
 .location02 .area04 .tit-img {

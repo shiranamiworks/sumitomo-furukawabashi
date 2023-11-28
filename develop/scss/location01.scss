@@ -68,7 +68,7 @@
     color: #000;
   }
   main {
-    color: #000;
+    color: #3e3a39;
     font-family: "RyuminPro", serif;
     line-height: 1;
   }
@@ -81,23 +81,9 @@
 
   .main-visual {
     position: relative;
-    display: inline-block;
-    padding-bottom: 300px;
     border: none;
-    .image {
-      position: relative;
-      display: inline-block;
-      &::after {
-        content: "";
-        position: absolute;
-        bottom: -217px;
-        left: 0;
-        right: 0;
-        width: 1px;
-        height: 220px;
-        margin: auto;
-        background-color: #000;
-      }
+    .annotation {
+      bottom: 10%;
     }
   }
   .sections {
@@ -140,26 +126,30 @@
   } //sections
   .intro {
     text-align: center;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
+    .en {
+      font-size: 38px;
+      letter-spacing: 0.2em;
+      margin-bottom: 50px;
+      color: #2c4a5f;
+    }
     .tit {
-      font-size: 36px;
+      font-size: 30px;
       line-height: 2;
-      margin-bottom: 80px;
+      margin-bottom: 30px;
+      color: #002d43;
     }
     .lead {
-      text-align: left;
       font-size: 18px;
       line-height: 1.8;
-      margin-bottom: 50px;
+      margin-bottom: 60px;
+      color: #002d43;
     }
     .img01 {
-      margin-bottom: 30px;
-      .annotation {
-        bottom: -10px;
-      }
+      margin-bottom: 10px;
     }
     .mini {
-      text-align: left;
+      text-align: right;
       font-size: 10px;
       line-height: 1.4;
     }
@@ -282,9 +272,9 @@
         margin-bottom: 10px;
         border-bottom: 0.5px solid #231815;
       }
-      .others li{
+      .others li {
         width: 100%;
-        &.tb{
+        &.tb {
           display: none;
         }
       }
@@ -346,7 +336,7 @@
           width: 48%;
           margin-bottom: 20px;
           margin-right: 0;
-          .annotation{
+          .annotation {
             bottom: 5px;
             right: 5px;
           }
@@ -355,9 +345,9 @@
           margin-bottom: auto;
           margin-right: auto;
         }
-        .txt{
+        .txt {
           margin-top: 25px;
-          .info{
+          .info {
             font-size: 14px;
             line-height: 1.6;
           }
@@ -379,8 +369,8 @@
     } //intro
     .areas {
       margin-bottom: 60px;
-      .img00 .annotation{
-        top:5px;
+      .img00 .annotation {
+        top: 5px;
       }
       .caps {
         &.bottom {
@@ -410,7 +400,7 @@
         font-size: 16px;
         line-height: 2;
       }
-      .box.box02{
+      .box.box02 {
         margin-bottom: 20px;
       }
     } //areas
@@ -439,7 +429,7 @@
       .column02.imgs {
         li {
           width: 100%;
-          .img01{
+          .img01 {
             margin-bottom: 20px;
           }
         }
@@ -448,7 +438,7 @@
           display: flex;
         }
       }
-      .box{
+      .box {
         margin-bottom: 20px;
       }
     } //area02
@@ -473,41 +463,41 @@
       .lead {
         margin-bottom: 20px;
       }
-      .caps.bottom{
+      .caps.bottom {
         margin-bottom: 40px;
       }
-      .column03 li{
+      .column03 li {
         width: 100%;
-        .others{
+        .others {
           margin-bottom: 10px;
-          li{
+          li {
             display: inline-block;
             vertical-align: bottom;
           }
         }
-        .image{
+        .image {
           width: 60%;
           // float: left;
           margin-right: 2%;
           margin-bottom: 0;
         }
-        .txt{
+        .txt {
           clear: both;
           margin-top: 0;
         }
-        .mini{
+        .mini {
           margin-top: 0;
           width: 36%;
-          &.tb{
+          &.tb {
             display: inline-block;
           }
         }
-        &:nth-child(2){
-          .mini{
+        &:nth-child(2) {
+          .mini {
             margin-right: 2%;
             margin-bottom: 0;
           }
-          .image{
+          .image {
             margin-right: auto;
           }
         }
