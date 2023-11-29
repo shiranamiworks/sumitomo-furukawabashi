@@ -44,240 +44,450 @@
       <p class="en">Shopping</p>
       <p class="tit">心満たされる充実のショッピング環境。</p>
       <p class="lead">近年、門真市内には、複数の大型商業施設が誕生。<br>日常から特別な日まで、心を満たす魅力的な買い物環境が整っています。</p>
+      <div class="image">
+        <img src="./images/location02/intro.jpg">
+        <p class="annotation">提供写真</p>
+      </div>
+      <p class="caps">ららぽーと門真／三井アウトレットパーク 大阪門真<br>（約1,470m／徒歩19分）</p>
+      <p class="text">ショッピングセンターとアウトレットの2業態が複合した<br class="pc">大型商業施設がいつもの場所に。</p>
+      <p class="lead01">「三井ショッピングパーク ららぽーと」と「三井アウトレットパーク」が複合したハイブリッド施設。<br>普段使いのファッションや大阪らしい上質な食との出会い、話題の映画や子供向けのエンターテインメント、<br class="pc">さらには、ちょっと特別なブランドショッピングまでをワンストップで楽しめます。</p>
     </div>
   </section><!-- intro -->
 
 
 
-  <section class="sections areas area01 clearfix">
-    <div class="image img00">
-      <img src="./images/location02/area01-00.jpg">
-      <p class="annotation">多摩川ガス橋緑地（A:徒歩5分／B:徒歩6分）</p>
-    </div>
+  <div class="sections shops clearfix">
     <div class="inner">
-      <p class="text">スポーツや散策を楽しむ人で賑わう、<br class="pc">緑豊かな多摩川河川敷。</p>
-      <p class="lead">「シティテラス下丸子」のすぐ傍に広がる多摩川河川敷の「多摩川ガス橋緑地」には、サイクリングロードや野球場、テニスコートなどが整備されています。天気のいい日には、散歩やジョギング、ピクニックを楽しむ地域の人々で賑わっています。</p>
-      <ul class="column02">
+      <ul class="column02 list01">
         <li>
+          <div class="image logo">
+          <img src="./images/location02/shops01-01.png">
+          </div>
+          <p class="txt01">三井ショッピングパーク ららぽーと門真</p>
+          <p class="txt02">ファストファッションの大型店舗をはじめとする専門店が充実。１階には、大阪の台所「黒門市場」が登場。その他にもレストラン、スーパー、食物販などを集めたグルメゾーンや、シネマコンプレックスも併設されています。</p>
           <div class="image">
-          <img src="./images/location02/area01-01.jpg">
+          <img src="./images/location02/shops01-04.svg">
           </div>
         </li>
         <li>
           <div class="image bottom">
-          <img src="./images/location02/area01-02.jpg">
+          <img src="./images/location02/shops01-02.jpg">
+          <p class="annotation">提供写真</p>
           </div>
           <div class="image">
-          <img src="./images/location02/area01-03.jpg">
+          <img src="./images/location02/shops01-03.jpg">
+          <p class="annotation white">提供写真</p>
           </div>
         </li>
       </ul>
-      <p class="caps">多摩川ガス橋緑地（A:徒歩5分／B:徒歩6分）</p>
-      <p class="txt01">120本を超える桜並木がつくる春の風景。</p>
-      <p class="txt02">花見の人気スポットでもある多摩川河川敷の「多摩川ガス橋緑地」は、毎年開花を心待ちにしていた人々で賑わいます。大田区が取り組んだ植樹事業によって植えられた桜の数は約120本。見頃の時期には春色に染まる多摩川沿いを楽しめます。</p>
-      <div class="image img04">
-        <img src="./images/location02/area01-04.jpg" class="pc"><img src="./images/location02/area01-04-sp.jpg" class="tb">
-        <p class="annotation">多摩川ガス橋緑地（A:徒歩5分／B:徒歩6分）</p>
-      </div>
-        <ul class="column02">
-          <li>
-            <p class="txt01">打ち上げ花火が彩る多摩川の夏。</p>
-            <p class="txt02 bottom">昭和62年に、平和を祈る想いからスタートした「花火の祭典」。多摩川の河川敷から打ち上げられる約4,000発の花火は、大田区の一大イベントです。毎年の夏の思い出に夜空に咲く大輪の華を、家族みんなで観るしあわせが、この場所にあります。</p>
-            <p class="mini">出典：大田区ホームページ 大田区平和都市宣言記念事業「花火の祭典」（2023年6月現在）<br>※開催内容は変更・中止になる場合があります。</p>
-          </li>
-          <li>
-          <div class="image">
-              <img src="./images/location02/area01-05.jpg">
-              <p class="annotation white">image photo</p>
-            </div>
-          </li>
-        </ul>
-    </div><!-- inner -->
-  </section><!-- areas area01 -->
-
-
-
-  <section class="sections areas area02 clearfix">
-    <div class="inner pc">
-      <p class="text">子どもたちがのびのびと遊べる、<br>さまざまな公園が身近に点在。</p>
-      <div class="image img01">
-        <img src="./images/location02/area02-01.jpg">
-        <p class="annotation white">image photo</p>
-      </div>
-    </div>
-    <div class="image img01 tb">
-        <img src="./images/location02/area02-01-sp.jpg">
-        <p class="annotation white">image photo</p>
-      </div>
-    <div class="inner">
-       <p class="text tb">子どもたちがのびのびと遊べる、さまざまな公園が身近に点在。</p>
-      <ul class="column02">
-        <li>
-          <div class="image">
-          <img src="./images/location02/area02-02.jpg">
-          </div>
-        </li>
-        <li>
-          <div class="image pc">
-          <img src="./images/location02/area02-03.jpg">
-          </div>
-        </li>
-      </ul>
-      <p class="txt01 mb20">下丸子公園<br><span>（A:徒歩3分／B:徒歩5分）</span></p>
-      <p class="txt02 bottom">昭和62年に、平和を祈る想いからスタートした「花火の祭典」。多摩川の河川敷から打ち上げられる約4,000発の花火は、大田区の一大イベントです。毎年の夏の思い出に夜空に咲く大輪の華を、家族みんなで観るしあわせが、この場所にあります。</p>
-      <ul class="column02">
-        <li>
-          <div class="image">
-          <img src="./images/location02/area02-04.jpg">
-          </div>
-          <p class="txt01">くすのき公園<br><span>（A:徒歩3分／B:徒歩2分）</span></p>
-        </li>
-        <li>
-          <div class="image">
-          <img src="./images/location02/area02-05.jpg">
-          </div>
-          <p class="txt01">下丸子余情公園<br><span>（A:徒歩3分／B:徒歩4分）</span></p>
-        </li>
-      </ul>
-      <ul class="column03">
-        <li>
-          <div class="image">
-          <img src="./images/location02/area02-06.jpg">
-          </div>
-          <p class="txt01">鵜の木二丁目児童公園<br><span>（A:徒歩4分／B:徒歩3分）</span></p>
-        </li>
-        <li>
-          <div class="image">
-          <img src="./images/location02/area02-07.jpg">
-          </div>
-          <p class="txt01">あおぞら児童公園<br><span>（A:徒歩6分／B:徒歩5分）</span></p>
-        </li>
-        <li>
-          <div class="image">
-          <img src="./images/location02/area02-08.jpg">
-          </div>
-          <p class="txt01">あけぼの児童公園<br><span>（A:徒歩5分／B:徒歩6分）</span></p>
-        </li>
-      </ul>
-      </div><!-- inner -->
-  </section><!-- areas area02 -->
-
-
-
-  <section class="sections areas area03 clearfix">
-    <div class="image img00">
-      <img src="./images/location02/area03-00.jpg">
-      <p class="annotation white">image photo</p>
-    </div>
-    <div class="inner">
-      <p class="text">子どもの成長をしっかりサポートする<br class="pc">充実した保育・教育環境。</p>
-      <p class="lead">身近に数多くの幼稚園・保育園が点在する「シティテラス下丸子」。小学校・中学校も通いやすい距離にあり、良好な子育て環境が整っています。</p>
-      <p class="line">幼稚園・保育園は徒歩10分圏内に<span>13</span>園</p>
-      <ul class="column03">
-        <li>
-          <div class="image">
-            <img src="./images/location02/area03-01.jpg">
-          </div>
-          <p class="name">キッズラボ下丸子園</p>
-          <div class="txt pc">
-            <img src="./images/location02/area03-01-txt.svg">
-          </div>
-        </li>
-        <li>
-          <div class="image">
-            <img src="./images/location02/area03-02.jpg">
-          </div>
-          <p class="name">グローバルキッズ鵜の木園</p>
-          <div class="txt mt pc">
-            <img src="./images/location02/area03-02-txt.svg">
-          </div>
-          <div class="txt mt tb">
-            <img src="./images/location02/area03-01-txt-sp.svg">
-          </div>
-        </li>
-        <li>
-          <div class="image">
-            <img src="./images/location02/area03-03.jpg">
-          </div>
-          <p class="name">嶺町幼稚園</p>
-          <div class="txt mt">
-            <img src="./images/location02/area03-03-txt.svg" class="pc">
-            <img src="./images/location02/area03-03-txt-sp.svg" class="tb">
-          </div>
-        </li>
-      </ul>
-      <p class="line line02">広い施設でのびのびと学べる通学校</p>
-      <ul class="column02">
-        <li>
-          <div class="image">
-            <img src="./images/location02/area03-04.jpg">
-          </div>
-          <p class="name">大田区立嶺町小学校（A:徒歩12分／B:徒歩11分）</p>
-        </li>
-        <li>
-          <div class="image">
-            <img src="./images/location02/area03-05.jpg">
-          </div>
-          <p class="name">大田区立矢口中学校（A:徒歩13分／B:徒歩14分）</p>
-        </li>
-      </ul>
-      </div><!-- inner -->
-  </section><!-- areas area03 -->
-
-
-
-  <section class="sections areas area04 clearfix">
-    <div class="inner">
-      <p class="point">TOPICS</p>
-      <p class="tit">住み続けたい街「大田区」は、子育てにも優しい街。</p>
-      <ul class="column02">
-        <li>
-          <p class="lead">2021年に実施した「大田区政に関する世論調査」によると、「あなたは大田区に住み続けたいと思いますか?」の質問に対して、半数以上の人が「ずっと住み続けたい」と回答し、「当分は住み続けたい」と回答した人を合わせると8割以上となる結果に。区民の定住意向の高さから、大田区住まいの魅力が伝わってきます。</p>
-        </li>
-        <li>
-          <div class="image">
-          <img src="./images/location02/area04-01.png">
-          <p class="annotation">出典：大田区政に関する世論調査（2021年7月実施）</p>
-          </div>
-        </li>
-      </ul>
-      <div class="image tit-img">
-        <img src="./images/location02/tit01.png" class="pc">
-        <img src="./images/location02/tit01-sp.png" class="tb">
-      </div>
       <ul class="column02 list02">
-      <li>
+        <li>
+          <div class="image bottom">
+          <img src="./images/location02/shops02-02.jpg">
+          <p class="annotation white">提供写真</p>
+          </div>
           <div class="image">
-          <img src="./images/location02/area04-02.png">
-          <p class="annotation">出典：東京都建設局ホームページ「東京都都市公園等区市町村別面積：人口比率表（2022年4月版）」</p>
+          <img src="./images/location02/shops02-03.jpg">
+          <p class="annotation">提供写真</p>
           </div>
         </li>
         <li>
-          <p class="lead">平成23年から緑地の保全や都市公園の整備を進めてきた大田区。その結果、東京23区内で都市公園数が最も多い区になりました。「シティテラス下丸子」のまわりにも多くの公園があり、子どもから大人まで公園でのひとときを楽しんでいます。</p>
+          <div class="image logo">
+          <img src="./images/location02/shops02-01.png">
+          </div>
+          <p class="txt01">三井アウトレットパーク 大阪門真</p>
+          <p class="txt02">国内外の有名メーカー＆ブランド・セレクトショップから選りすぐりの店舗が集結。スポーツアウトドア関連のショップも充実しています。</p>
+          <div class="image">
+          <img src="./images/location02/shops02-04.svg">
+          </div>
         </li>
       </ul>
-      <div class="image tit-img">
-        <img src="./images/location02/tit02.png" class="pc">
-        <img src="./images/location02/tit02-sp.png" class="tb">
-      </div>
       <ul class="column02 list03">
         <li>
-          <p class="lead">大田区は、私立保育園の開設支援を積極的に行った結果、2021年から3年連続で待機児童ゼロを実現しました。さらに区立保育園の民営化による保育サービスの充実や、保育園園長をメンバーとしたプロジェクトチームの発足など、区全体で保育水準の向上にも取り組んでいます。</p>
+          <div class="image logo">
+          <img src="./images/location02/shops03-01.png">
+          </div>
+          <p class="txt01">コストコ 門真倉庫店</p>
+          <p class="txt02">大容量でコストパフォーマンスに優れた商品を扱うアメリカ発の会員制スーパー。食品、家電、アウトドアグッズなど、世界中から厳選された多彩な商品に出会えます。</p>
         </li>
         <li>
           <div class="image">
-          <img src="./images/location02/area04-03.png">
-          <p class="annotation">出典：大田区ホームページ 「保育所等利用待機児童の状況」（2023年9月25日現在）</p>
+          <img src="./images/location02/shops03-02.jpg">
+          <p class="annotation">コストコ 門真倉庫店（約1,890m／徒歩24分）</p>
           </div>
         </li>
       </ul>
+
+      <div class="shops04">
+      <p class="text">約160店舗の専門店が集積する「イオンモール大日」。<img src="./images/location02/shops04-01.png" class="logo"></p>
+      <div class="blue-bg">
+      <p class="lead">スーパーマーケット「イオンスタイル大日」を核店舗とするショッピングモール。計４フロアに、ファッション、グッズ、グルメ＆フード、サービスなど、様々なジャンルの専門店が集まっています。</p>
+      <ul class="column02 list04">
+        <li>
+          <div class="image">
+          <img src="./images/location02/shops04-02.jpg">
+          <p class="annotation">提供写真</p>
+          </div>
+          <p class="caps">イオンモール大日（約1,450m／徒歩19分）</p>
+        </li>
+        <li>
+          <div class="image">
+          <img src="./images/location02/shops04-03.svg">
+          </div>
+        </li>
+      </ul>
+      </div>
+      </div>
     </div><!-- inner -->
-  </section><!-- areas area04 -->
+  </div><!-- shops -->
+
+
+
+  <div class="sections convenience clearfix">
+    <div class="inner">
+      <div class="image img01">
+        <img src="./images/location02/convenience01.png">
+        <p class="annotation">image photo</p>
+      </div>
+      <div class="texts">
+      <p class="tit">「古川橋」駅前にも、充実の生活利便。</p>
+      <p class="lead">新しい街区が誕生する古川橋の周辺には、複数のスーパーマーケットや駅ナカ商業施設が充実。<br>地元の商店街を中心に、多彩なジャンルの路面店も暮らしの良きパートナーとなります。</p>
+      </div>
+      <ul class="column02 list01">
+        <li>
+          <div class="image">
+          <img src="./images/location02/convenience02.jpg">
+          </div>
+        </li>
+        <li>
+          <p class="name">そよら古川橋駅前</p>
+          <p class="min garamond"><span>6</span>min</p>
+          <p class="distance">（約430m）</p>
+          <p class="txt01">暮らしを支える店舗が揃う、<br class="pc">普段使いの商業施設。</p>
+          <p class="txt02">「イオン古川橋駅前店」が大規模リニューアルされ、2023年11月に「そよら古川橋駅前」としてリニューアルオープン。「イオンスタイル古川橋」を中心に、ファッション、雑貨、飲食、サービスなど、日常を豊かに彩る店舗が揃っています。</p>
+        </li>
+      </ul>
+      <ul class="column02 list02">
+        <li>
+          <p class="name">ステーションモール<br>Core古川橋</p>
+          <p class="min garamond"><span>4</span>min</p>
+          <p class="distance">（約310m）</p>
+          <p class="txt01">仕事帰りの買い物に便利な<br class="pc">駅ナカショッピングモール。</p>
+          <p class="txt02">駅を利用した際のちょっとした買い物にも便利な駅ナカ商業施設。スーパーマーケットや100円ショップをはじめ、多彩な店舗が日々の暮らしに寄り添ってくれます。</p>
+        </li>
+        <li>
+          <div class="image">
+          <img src="./images/location02/convenience03.jpg">
+          </div>
+        </li>
+      </ul>
+      <ul class="column02 list03">
+        <li>
+          <p class="name">Foods Market satake</p>
+          <p class="txt03">ステーションモールCore古川橋の東館にあるスーパーマーケット。生鮮食品や日用品を中心とする充実した品揃えが魅力です。</p>
+        </li>
+        <li>
+          <div class="image">
+          <img src="./images/location02/convenience04.jpg">
+          </div>
+        </li>
+      </ul>
+      <ul class="column03">
+        <li>
+          <div class="image">
+          <img src="./images/location02/convenience05.png">
+          </div>
+        </li>
+        <li>
+          <div class="image">
+          <img src="./images/location02/convenience06.png">
+          </div>
+        </li>
+        <li>
+          <div class="image">
+          <img src="./images/location02/convenience07.png">
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div><!-- convenience -->
+
+
+
+  <div class="gourmet sections clearfix">
+    <div class="inner">
+      <p class="en">GOURMET</p>
+      <p class="tit">お気に入りの一皿と上質な時間が、<br class="pc">日々の暮らしに豊かな彩りを添えてくれる。</p>
+      <ul class="column02">
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet01.jpg" class="pc">
+            <img src="./images/location02/gourmet01-sp.jpg" class="sp">
+            <p class="annotation">提供写真</p>
+          </div>
+          <p class="genre">［ビストロ］</p>
+          <p class="name">Bistro.iro<span> （約250m／徒歩4分）</span></p>
+          <p class="info">気軽に楽しめる<br class="pc">カジュアルなビストロ料理とワイン。</p>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet02.jpg" class="pc">
+            <img src="./images/location02/gourmet02-sp.jpg" class="sp">
+            <p class="annotation">提供写真</p>
+          </div>
+          <p class="genre">［創作料理］</p>
+          <p class="name">il tempo<span> （約360m／徒歩5分）</span></p>
+          <p class="info">季節を感じるイタリアンベースの<br class="pc">創作料理とおいしいお酒。</p>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet03.jpg" class="pc">
+            <img src="./images/location02/gourmet03-sp.jpg" class="sp">
+            <p class="annotation">提供写真</p>
+          </div>
+          <p class="genre">［カフェ］</p>
+          <p class="name">PAJERO<span>（約470m／徒歩6分）</span></p>
+          <p class="info">良質なインド産珈琲豆にこだわり、<br class="pc">一杯一杯にまごころを込めて。</p>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet04.jpg" class="pc">
+            <img src="./images/location02/gourmet04-sp.jpg" class="sp">
+            <p class="annotation">提供写真</p>
+          </div>
+          <p class="genre">［洋菓子］</p>
+          <p class="name">パティスリーエルブランシュ<span>（約340m／徒歩5分）</span></p>
+          <p class="info">門真れんこんのスイーツを味わえる<br class="pc">地域密着のパティスリー。</p>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet05.jpg" class="pc">
+            <img src="./images/location02/gourmet05-sp.jpg" class="sp">
+            <p class="annotation">提供写真</p>
+          </div>
+          <p class="genre">［カフェ］</p>
+          <p class="name">ハレル食堂<span>（約380m／徒歩5分）</span></p>
+          <p class="info">週替わりで提供されるヘルシープレートランチ<br class="pc">やお弁当が人気。</p>
+        </li>
+        <li>
+          <div class="image">
+            <img src="./images/location02/gourmet06.jpg" class="pc">
+            <img src="./images/location02/gourmet06-sp.jpg" class="sp">
+            <p class="annotation">提供写真</p>
+          </div>
+          <p class="genre">［カフェ］</p>
+          <p class="name">スギハラコーヒーロースター<span>（約410m／徒歩6分）</span></p>
+          <p class="info">自家焙煎コーヒーとスイーツを<br class="pc">アットホームな雰囲気で。</p>
+        </li>
+    </div>
+  </div><!-- gourmet -->
+
+
+
+  <div class="sections child clearfix">
+    <div class="inner">
+      <div class="bg">
+        <div class="image">
+          <img src="./images/location02/child01.jpg">
+          <p class="annotation">image photo</p>
+        </div>
+        <div class="content">
+        <p class="tit">子育て家族に優しい街、門真。</p>
+        <p class="lead">新しい街区の周辺には、認定こども園や小・中学校が点在。<br>また、門真市保健福祉センターには子育て世帯に嬉しい施設も充実しています。</p>
+        <div class="box">
+          <p class="txt01">地域子育て支援センター ＜ひよこテラス・ひよこる～む＞</p>
+          <ul class="column02">
+            <li>
+              <p class="txt02">働きながら安心して子どもを育てられるまち</p>
+              <p class="txt03">門真市保健福祉センター（約500m／徒歩7分）にある「ひよこる～む」は、就学前の子どもとその保護者が、気軽に集まって、親子の交流・育児について話し合える地域子育て支援拠点。同じお部屋には、妊娠期から子育て期までの心配ごとや悩みごとについて相談できる「子育て世代包括支援センターひよこテラス」も併設されています。</p>
+            </li>
+            <li>
+              <div class="image">
+                <img src="./images/location02/child02.jpg">
+                <p class="annotation">提供写真</p>
+              </div>
+            </li>
+          </ul>
+          <p class="txt04">・子育て情報の発信　・親子の交流　・育児相談　・親子イベントの開催　・子どもの遊び場　など</p>
+        </div>
+        <ul class="column02 list">
+          <li>
+            <div class="image">
+              <img src="./images/location02/child03.jpg">
+            </div>
+            <p class="name">すえひろこども園【認定こども園】<span>（約440m／徒歩6分）</span></p>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/child04.jpg">
+            </div>
+            <p class="name">ふじ幼稚園【認定こども園】<span>（約810m／徒歩11分）</span></p>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/child05.jpg">
+            </div>
+            <p class="name">門真みらい小学校【通学区】<span>（約730m／徒歩10分）</span></p>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/child06.jpg">
+            </div>
+            <p class="name">門真はすはな中学校【通学区】<span>（約520m／徒歩7分）</span></p>
+          </li>
+        </ul>
+        </div><!-- content -->
+      </div><!-- bg -->
+    </div><!-- inner -->
+  </div><!-- child -->
+
+
+
+  <div class="sections park clearfix">
+    <div class="inner">
+      <p class="tit">コンビネーション遊具がある地域の遊び場。</p>
+      <div class="texts clearfix">
+        <p class="min"><span class="garamond"><span class="num">2</span>min</span>（約130m）</p>
+        <p class="name">幸福町公園</p>
+      </div>
+      <p class="lead">新しい街区と緩やかにつながる地域の公園。斜面に特徴のあるスライダーやクライムパネル、ゆらゆら揺れるステップなど、アスレチックの要素が詰まった遊具が設置されており、子どもがのびのびと遊ぶことができます。</p>
+      <ul class="column02">
+        <li>
+          <div class="image">
+          <img src="./images/location02/park01.jpg">
+          </div>
+        </li>
+        <li>
+          <div class="image bottom">
+          <img src="./images/location02/park02.jpg">
+          </div>
+          <div class="image">
+          <img src="./images/location02/park03.jpg">
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div><!-- park -->
+
+
+
+  <section class="life-info clearfix">
+    <div class="inner">
+      <div class="tit">LOCATION MAP</div>
+      <div class="image map">
+        <img src="./images/location02/info00.jpg">
+        <p class="annotation">エリアマップ</p>
+      </div>
+      <div class="tit">LIFE INFORMATION</div>
+
+      <ul class="change-buttons clearfix">
+        <li><span href="#" data-target="cond01" class="button current">買物施設<br><span class="mini">SHOPPING</span></span></li>
+        <li><span href="#" data-target="cond02" class="button">公園施設<br><span class="mini">PARK</span></span></li>
+        <li><span href="#" data-target="cond03" class="button">スポーツ&レジャー施設<br><span class="mini">SPORTS & LEIS</span></span></li>
+        <li><span href="#" data-target="cond04" class="button">教育施設<br><span class="mini">EDUCATION</span></span></li>
+        <li><span href="#" data-target="cond05" class="button">医療機関<br><span class="mini">MEDICAL</span></span></li>
+        <li><span href="#" data-target="cond06" class="button">公共・文化施設<br><span class="mini">PUBLIC & CULTURAL </span></span></li>
+        <li><span href="#" data-target="cond07" class="button">金融機関<br><span class="mini">FINANCIAL</span></span></li>
+      </ul>
+
+      <div class="tab-inner cond01 current clearfix">
+        <div class="image">
+          <img src="./images/location03/info01.svg" alt="" class="pc">
+          <img src="./images/location03/info01-sp.svg" alt="" class="tb">
+        </div>
+      </div><!-- tab-inner  -->
+      <div class="tab-inner cond02 clearfix">
+        <div class="image">
+          <img src="./images/location03/info02.svg" alt="" class="pc">
+          <img src="./images/location03/info02-sp.svg" alt="" class="tb">
+        </div>
+      </div><!-- tab-inner  -->
+      <div class="tab-inner cond03 clearfix">
+        <div class="image">
+          <img src="./images/location03/info03.svg" alt="" class="pc">
+          <img src="./images/location03/info03-sp.svg" alt="" class="tb">
+        </div>
+      </div><!-- tab-inner  -->
+      <div class="tab-inner cond04 clearfix">
+        <div class="image">
+          <img src="./images/location03/info04.svg" alt="" class="pc">
+          <img src="./images/location03/info04-sp.svg" alt="" class="tb">
+        </div>
+      </div><!-- tab-inner  -->
+      <div class="tab-inner cond05 clearfix">
+        <div class="image">
+          <img src="./images/location03/info05.svg" alt="" class="pc">
+          <img src="./images/location03/info05-sp.svg" alt="" class="tb">
+        </div>
+      </div><!-- tab-inner  -->
+    </div><!-- inner -->
+  </section><!-- life-info -->
+
+
+  <script>
+;(function($) {
+if($(window).width() < 641){
+ $(window).on("load", function() {
+ var $img = $(".zoomImg").imgViewer2({
+ onReady: function() {
+ this.setZoom(2);
+ this.setZoom(1);
+}
+}
+);
+});
+$(document).on("click", ".button02", function(){
+ var $img = $(".zoomImg2").imgViewer2({
+ onReady: function() {
+ this.setZoom(2);
+ this.setZoom(1);
+}
+}
+);   
+});
+$(document).on("click", ".button03", function(){
+ var $img = $(".zoomImg3").imgViewer2({
+ onReady: function() {
+ this.setZoom(2);
+ this.setZoom(1);
+}
+}
+);   
+});
+$(document).on("click", ".button04", function(){
+ var $img = $(".zoomImg4").imgViewer2({
+ onReady: function() {
+ this.setZoom(2);
+ this.setZoom(1);
+}
+}
+);   
+});
+$(document).on("click", ".button05", function(){
+ var $img = $(".zoomImg5").imgViewer2({
+ onReady: function() {
+ this.setZoom(2);
+ this.setZoom(1);
+}
+}
+);   
+});    
+}
+})(jQuery);
+</script>
+<style>
+.item03 {
+  /*height: 500px;*/
+  margin: 0;
+  overflow: hidden;
+  width: 100%;
+}
+</style>  
 
 
 
 <div class="annotation-area">
-<p class="page-annotation js-scroll wrap clearfix">凡例）A:エアーズコート（グランドエントランス）、B:ブリーズコート（ノースエントランス）<br>※徒歩分数表示については80mを1分として算出し、端数を切り上げたものです。<br>※掲載の環境写真は2022年4月&#x301c;2023年7月に撮影。<br>※施設の内容等は将来変わる場合があります。<br>※掲載の情報は2023年7月現在のものです。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※掲載の距離表示については地図上の概測距離を、徒歩分数表示については80mを１分として算出し、端数を切り上げたものです。自転車分数表示については実測（三井ショッピングパークららぽーと門真・三井アウトレットパーク大阪門真、コストコ門真倉庫店、イオンモール大日の起点：現地／三井ショッピングパークららぽーと門真・三井アウトレットパーク大阪門真、コストコ門真倉庫店、イオンモール大日の着点：各施設／計測：2023年9月4日AM10時～PM5時）によるものです。但し、天候不順、周辺の交通状況（朝・夕の混雑、交通事故等）等により大幅な遅延が生じる場合があります。<br>※掲載のエリアマップは一部道路・施設等を抜粋して表記しています。<br>※掲載の環境写真は2023年8月・10月に撮影。<br>※店舗・施設の内容等は将来変わる場合があります。<br>※掲載の情報は2023年8月現在のものです。<br>※エリアマップの徒歩ルート・掲載の徒歩分数・距離表示は2023年10月現在のものです。「門真市幸福東土地区画整理事業」（事業主：門真市）に伴う地区外道路4号線および交流広場・交通広場の整備（2026年度事業完了予定）により徒歩分数・ルートが変更になる予定です。また、地区外道路4号線および交流広場・交通広場は門真市の所有であり、「シティタワー古川橋」の竣工時に完成していない可能性があります。あらかじめご了承ください。</p></div>
 </main>
 
   <div class="location-link location-link--2">

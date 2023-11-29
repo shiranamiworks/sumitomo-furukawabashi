@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288.56 178.17">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .03em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.3em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-6 {
+        letter-spacing: .1em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-11 {
+        letter-spacing: .02em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        letter-spacing: .01em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.13em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-23 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-25 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-26 {
+        letter-spacing: .06em;
+      }
+
+      .cls-27 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-29 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-30 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-31 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-32 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-33 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-34 {
+        font-size: 13px;
+      }
+
+      .cls-34, .cls-35 {
+        fill: #3e3a39;
+        font-family: GothicMB101Pro-Regular-83pv-RKSJ-H, 'A-OTF Gothic MB101 Pro';
+      }
+
+      .cls-36 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-37 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-38 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-39 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-40 {
+        letter-spacing: 0em;
+      }
+
+      .cls-41 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-42 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-43 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-44 {
+        letter-spacing: -.19em;
+      }
+
+      .cls-45 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-46 {
+        letter-spacing: -.17em;
+      }
+
+      .cls-47 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-48 {
+        letter-spacing: -.17em;
+      }
+
+      .cls-49 {
+        letter-spacing: -.23em;
+      }
+
+      .cls-50 {
+        letter-spacing: .02em;
+      }
+
+      .cls-51 {
+        letter-spacing: .02em;
+      }
+
+      .cls-52 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-53 {
+        letter-spacing: -.21em;
+      }
+
+      .cls-54 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-55 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-56 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-57 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-58 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-59 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-60 {
+        letter-spacing: 0em;
+      }
+
+      .cls-61 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-62 {
+        letter-spacing: .03em;
+      }
+
+      .cls-63 {
+        letter-spacing: .02em;
+      }
+
+      .cls-64 {
+        letter-spacing: 0em;
+      }
+
+      .cls-65 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-66 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-35 {
+        font-size: 12px;
+      }
+
+      .cls-67 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-68 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-69 {
+        letter-spacing: -.2em;
+      }
+
+      .cls-70 {
+        letter-spacing: -.2em;
+      }
+
+      .cls-71 {
+        letter-spacing: .02em;
+      }
+
+      .cls-72 {
+        letter-spacing: 0em;
+      }
+
+      .cls-73 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-74 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-75 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-76 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-77 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-78 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-79 {
+        letter-spacing: 0em;
+      }
+
+      .cls-80 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-81 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-82 {
+        letter-spacing: .01em;
+      }
+
+      .cls-83 {
+        letter-spacing: -.22em;
+      }
+
+      .cls-84 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-85 {
+        letter-spacing: 0em;
+      }
+
+      .cls-86 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-87 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-88 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-89 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-90 {
+        fill: none;
+        stroke: #a13c75;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <text class="cls-35" transform="translate(.93 43.11)"><tspan class="cls-73" x="0" y="0">グ</tspan><tspan class="cls-56" x="11.54" y="0">ロ</tspan><tspan class="cls-51" x="23.38" y="0">ー</tspan><tspan class="cls-11" x="35.58" y="0">バ</tspan><tspan class="cls-10" x="47.88" y="0">ル</tspan><tspan class="cls-52" x="59.63" y="0">ワ</tspan><tspan class="cls-42" x="71.46" y="0">ー</tspan><tspan class="cls-9" x="82.88" y="0">ク</tspan><tspan class="cls-45" x=".44" y="19">ア</tspan><tspan class="cls-53" x="12" y="19">メ</tspan><tspan class="cls-89" x="21.52" y="19">リ</tspan><tspan class="cls-25" x="32.27" y="19">カ</tspan><tspan class="cls-14" x="43.45" y="19">ン</tspan><tspan class="cls-5" x="55.38" y="19">ホ</tspan><tspan class="cls-48" x="66.28" y="19">リ</tspan><tspan class="cls-22" x="76.25" y="19">ッ</tspan><tspan class="cls-9" x="86.54" y="19">ク</tspan><tspan class="cls-24" x=".44" y="38">ア</tspan><tspan class="cls-82" x="12.34" y="38">ズ</tspan><tspan class="cls-50" x="24.49" y="38">ー</tspan><tspan class="cls-1" x="36.7" y="38">ル </tspan><tspan class="cls-19" x="53.29" y="38">バ</tspan><tspan class="cls-17" x="65.39" y="38">イ</tspan><tspan class="cls-21" x="76.56" y="38"> </tspan><tspan class="cls-67" x="80.57" y="38">マ</tspan><tspan class="cls-3" x="92.03" y="38">ウ</tspan><tspan class="cls-13" x="103.48" y="38">ジ</tspan><tspan class="cls-51" x="115.61" y="38">ー</tspan><tspan class="cls-33" x=".44" y="57">ア</tspan><tspan class="cls-20" x="11.88" y="57">ン</tspan><tspan class="cls-8" x="23.52" y="57">カ</tspan><tspan class="cls-41" x="35.24" y="57">ー</tspan><tspan class="cls-7" x="46.67" y="57">ク</tspan><tspan class="cls-81" x="57.68" y="57">ラ</tspan><tspan class="cls-49" x="68.92" y="57">フ</tspan><tspan class="cls-78" x="78.16" y="57">ト</tspan><tspan class="cls-46" x=".49" y="76">イ</tspan><tspan class="cls-54" x="10.44" y="76">ッ</tspan><tspan class="cls-31" x="21.07" y="76">カ</tspan><tspan class="cls-11" x=".7" y="95">AB</tspan><tspan class="cls-21" x="19.51" y="95">C</tspan><tspan class="cls-29" x="28.63" y="95">マ</tspan><tspan class="cls-70" x="40.42" y="95">ー</tspan><tspan class="cls-78" x="49.99" y="95">ト</tspan><tspan class="cls-36" x=".24" y="114">ヴ</tspan><tspan class="cls-83" x="11.06" y="114">ィ</tspan><tspan class="cls-58" x="20.39" y="114">レ</tspan><tspan class="cls-16" x="31.03" y="114">ッ</tspan><tspan class="cls-55" x="41.47" y="114">ジ</tspan><tspan class="cls-38" x="53.28" y="114">ヴ</tspan><tspan class="cls-59" x="64.12" y="114">ァ</tspan><tspan class="cls-37" x="74.77" y="114">ン</tspan><tspan class="cls-19" x="86.48" y="114">ガ</tspan><tspan class="cls-69" x="98.58" y="114">ー</tspan><tspan class="cls-76" x="108.14" y="114">ド</tspan><tspan class="cls-31" x=".25" y="133">カ</tspan><tspan class="cls-19" x="12.11" y="133">ル</tspan><tspan class="cls-7" x="24.2" y="133">デ</tspan><tspan class="cls-44" x="35.22" y="133">ィ</tspan><tspan class="cls-80" x="44.89" y="133">コ</tspan><tspan class="cls-68" x="56.51" y="133">ー</tspan><tspan class="cls-42" x="67.9" y="133">ヒ</tspan><tspan class="cls-9" x="79.32" y="133">ー</tspan><tspan class="cls-87" x="90.84" y="133">フ</tspan><tspan class="cls-75" x="101.46" y="133">ァ</tspan><tspan class="cls-85" x="112.66" y="133">ー</tspan><tspan class="cls-15" x="124.67" y="133">ム</tspan></text>
+    <text class="cls-35" transform="translate(154.83 43.11)"><tspan class="cls-47" x="0" y="0">ス</tspan><tspan class="cls-81" x="11.12" y="0">タ</tspan><tspan class="cls-51" x="22.36" y="0">ー</tspan><tspan class="cls-74" x="34.56" y="0">バ</tspan><tspan class="cls-22" x="45.64" y="0">ッ</tspan><tspan class="cls-25" x="55.93" y="0">クス</tspan><tspan class="cls-80" x="78.3" y="0">コ</tspan><tspan class="cls-39" x="89.92" y="0">ー</tspan><tspan class="cls-41" x="101.3" y="0">ヒ</tspan><tspan class="cls-51" x="112.73" y="0">ー</tspan><tspan class="cls-11"><tspan x=".34" y="19">函館市場</tspan></tspan><tspan class="cls-8" x=".13" y="38">テ</tspan><tspan class="cls-66" x="11.86" y="38">キ</tspan><tspan class="cls-56" x="23.72" y="38">サ</tspan><tspan class="cls-28" x="35.56" y="38">ス</tspan><tspan class="cls-61" x="47.18" y="38">キ</tspan><tspan class="cls-68" x="58.48" y="38">ン</tspan><tspan class="cls-73" x="69.86" y="38">グ</tspan><tspan class="cls-12" x="81.41" y="38">ス</tspan><tspan class="cls-14" x="93.17" y="38">テ</tspan><tspan class="cls-66" x="105.1" y="38">ー</tspan><tspan class="cls-40" x="116.96" y="38">キ</tspan><tspan class="cls-11" x=".34" y="57">天麩</tspan><tspan class="cls-88" x="24.94" y="57">羅</tspan><tspan class="cls-84" x="36.62" y="57">え</tspan><tspan class="cls-63" x="48.42" y="57">び</tspan><tspan class="cls-85" x="60.6" y="57">の</tspan><tspan class="cls-71" x="72.61" y="57">や</tspan><tspan class="cls-74" x=".34" y="76">ペ</tspan><tspan class="cls-4" x="11.41" y="76">ッ</tspan><tspan class="cls-77" x="19.86" y="76">ト</tspan><tspan class="cls-84" x="31.01" y="76">パ</tspan><tspan class="cls-7" x="42.8" y="76">ラ</tspan><tspan class="cls-72" x="53.82" y="76">ダ</tspan><tspan class="cls-38" x="65.7" y="76">イ</tspan><tspan class="cls-40" x="76.54" y="76">ス</tspan><tspan class="cls-47" x="0" y="95">ス</tspan><tspan class="cls-86" x="11.12" y="95">タ</tspan><tspan class="cls-60" x="21.85" y="95">ジ</tspan><tspan class="cls-57" x="33.8" y="95">オ</tspan><tspan class="cls-65" x="45.46" y="95">マ</tspan><tspan class="cls-30" x="56.26" y="95">リ</tspan><tspan class="cls-79" x="67.14" y="95">オ</tspan><tspan class="cls-43" x=".13" y="114">イ</tspan><tspan class="cls-23" x="10.99" y="114">オ</tspan><tspan class="cls-2" x="22.26" y="114">ン</tspan><tspan class="cls-37" x="33.71" y="114">シ</tspan><tspan class="cls-3" x="45.42" y="114">ネ</tspan><tspan class="cls-64" x="56.87" y="114">マ</tspan><tspan class="cls-32" x="68.78" y="114">大日</tspan><tspan class="cls-11"><tspan x=".34" y="133">他</tspan></tspan></text>
+    <line class="cls-90" y1="21.69" x2="288.56" y2="21.69"/>
+    <text class="cls-34" transform="translate(.17 11.44)"><tspan class="cls-26" x="0" y="0">テ</tspan><tspan class="cls-62" x="13.74" y="0">ナ</tspan><tspan class="cls-27" x="27.13" y="0">ン</tspan><tspan class="cls-18" x="38.35" y="0">ト</tspan><tspan class="cls-6" x="51.4" y="0">約160店舗</tspan></text>
+  </g>
+</svg>
