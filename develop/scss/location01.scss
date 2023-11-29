@@ -359,7 +359,54 @@
         line-height: 2;
         margin-bottom: 20px;
       }
-    }
+      .caps {
+        text-align: right;
+        font-size: 10px;
+        line-height: 1.4;
+        margin-top: 10px;
+      }
+      .white-bg {
+        background: #fff;
+        padding: 40px;
+        box-sizing: border-box;
+      }
+      .column02 {
+        text-align: left;
+        .txt01 {
+          font-size: 18px;
+          color: #3b88a0;
+          line-height: 1.8;
+          margin-bottom: 20px;
+        }
+        .txt02 {
+          font-size: 14px;
+          line-height: 1.8;
+        }
+      }
+      .column02.list01 {
+        li {
+          vertical-align: bottom;
+          width: 30%;
+        }
+        li:last-child {
+          width: 66%;
+        }
+      }
+      .column02.list02 {
+        margin-top: 30px;
+        li {
+          background: #fff;
+          padding: 50px;
+          box-sizing: border-box;
+        }
+        .txt02 {
+          margin-bottom: 20px;
+        }
+        .annotation {
+          bottom: -10px;
+        }
+      }
+    } //content
   } //facility
 
   @media screen and (max-width: 1300px) {
@@ -373,15 +420,12 @@
     pc {
       display: none;
     }
+    main {
+      background: none;
+    }
 
     .main-visual {
       padding-bottom: 100px;
-      .image {
-        &::after {
-          bottom: -60px;
-          height: 60px;
-        }
-      }
     }
     .sections {
       .column02 {
@@ -397,7 +441,7 @@
       .column03 {
         li {
           display: inline-block;
-          width: 48%;
+          width: 100%;
           margin-bottom: 20px;
           margin-right: 0;
           .annotation {
@@ -420,6 +464,11 @@
     } //sections
     .intro {
       text-align: left;
+      margin-bottom: 60px;
+      .en {
+        font-size: 36px;
+        margin-bottom: 20px;
+      }
       .tit {
         font-size: 22px;
         margin-bottom: 20px;
@@ -430,143 +479,156 @@
         line-height: 2;
         margin-bottom: 0;
       }
+      .mini {
+        text-align: left;
+        width: 84%;
+        margin: auto;
+      }
     } //intro
-    .areas {
+    .area {
+      text-align: left;
       margin-bottom: 60px;
-      .img00 .annotation {
-        top: 5px;
+      .tit {
+        font-size: 22px;
+        margin-bottom: 20px;
+      }
+      .lead {
+        text-align: left;
+        font-size: 16px;
+        line-height: 2;
+        margin-bottom: 20px;
+      }
+      .box {
+        padding: 20px;
+        margin-top: 40px;
+        .txt01 {
+          font-size: 18px;
+          line-height: 1.4;
+          span {
+            font-size: 10px;
+          }
+        }
+        .lead {
+          text-align: left;
+          margin-bottom: 20px;
+        }
+        .caps {
+          text-align: left;
+        }
+        .txt02 {
+          font-size: 16px;
+        }
+        .txt03 {
+          font-size: 12px;
+        }
+      } //box
+      .mini {
+        text-align: left;
+      }
+    } //area
+    .project {
+      text-align: left;
+      margin-bottom: 60px;
+      .tit {
+        font-size: 22px;
+        margin-bottom: 20px;
+      }
+      .lead {
+        font-size: 16px;
+        margin-bottom: 20px;
       }
       .caps {
-        &.bottom {
-          text-align: left;
-          margin-top: 0;
-          margin-bottom: 0;
+        text-align: left;
+      }
+      .design {
+        margin-top: 60px;
+        .text {
+          font-size: 20px;
+          margin-bottom: 20px;
         }
-      }
-      .text {
-        font-size: 20px;
-        line-height: 1.8;
-        margin-top: 20px;
-        margin-bottom: 20px;
-      }
-      .lead {
-        font-size: 16px;
-        line-height: 2;
-        margin-bottom: 40px;
-      }
-      .name {
-        font-size: 18px;
-        span {
-          font-size: 13px;
-        }
-      }
-      .info {
-        font-size: 16px;
-        line-height: 2;
-      }
-      .box.box02 {
-        margin-bottom: 20px;
-      }
-    } //areas
-    .area01 {
-      .txt01 {
-        font-size: 16px;
-        margin: 10px 0;
-      }
-      .txt02 {
-        font-size: 12px;
-        line-height: 1.6;
-      }
-    } //area01
-    .area02 {
-      .column02 {
-        .name {
-          text-align: left;
-        }
-        li {
-          width: 100%;
-        }
-        li:last-child {
-          width: 100%;
-        }
-      }
-      .column02.imgs {
-        li {
-          width: 100%;
-          .img01 {
+        .column02.shaft {
+          max-width: 1000px;
+          margin: 0 auto 60px;
+          li {
+            width: 100%;
+          }
+          li:last-child {
+            width: 100%;
+            margin-top: 40px;
+          }
+          .texts {
+            margin-bottom: 30px;
+          } //texts
+        } //shaft
+        .column02.ring {
+          .txt01 {
+            font-size: 18px;
+          }
+          .txt02 {
+            font-size: 14px;
+          }
+          .txt03 {
+            font-size: 12px;
+          }
+          li {
             margin-bottom: 20px;
           }
+        } //ring
+        .caps {
+          max-width: 1000px;
+          margin: auto;
         }
-        li:last-child {
-          width: 100%;
-          display: flex;
+      } //design
+    } //project
+    .facility {
+      margin-bottom: 60px;
+      .tit {
+        font-size: 18px;
+        line-height: 1.4;
+        span {
+          font-size: 14px;
         }
       }
-      .box {
-        margin-bottom: 20px;
-      }
-    } //area02
-    .area03 {
-      .column02 {
-        .txt {
-          height: 48px;
-          margin-top: 10px;
+      .content {
+        text-align: left;
+        padding: 20px;
+        .text {
+          font-size: 18px;
         }
-      }
-      .box {
-        margin-top: 20px;
-        margin-bottom: 20px;
+        .lead {
+          font-size: 14px;
+        }
+        .caps {
+          text-align: left;
+        }
+        .white-bg {
+          padding: 20px;
+        }
         .column02 {
-          .info {
+          .txt01 {
+            font-size: 16px;
             margin-bottom: 10px;
           }
+          .txt02 {
+            font-size: 12px;
+          }
         }
-      }
-    } //area03
-    .area04 {
-      .lead {
-        margin-bottom: 20px;
-      }
-      .caps.bottom {
-        margin-bottom: 40px;
-      }
-      .column03 li {
-        width: 100%;
-        .others {
-          margin-bottom: 10px;
+        .column02.list01 {
           li {
-            display: inline-block;
-            vertical-align: bottom;
+            width: 100%;
+          }
+          li:last-child {
+            width: 100%;
           }
         }
-        .image {
-          width: 60%;
-          // float: left;
-          margin-right: 2%;
-          margin-bottom: 0;
-        }
-        .txt {
-          clear: both;
-          margin-top: 0;
-        }
-        .mini {
-          margin-top: 0;
-          width: 36%;
-          &.tb {
-            display: inline-block;
+        .column02.list02 {
+          margin-top: 20px;
+          li {
+            padding: 20px;
           }
         }
-        &:nth-child(2) {
-          .mini {
-            margin-right: 2%;
-            margin-bottom: 0;
-          }
-          .image {
-            margin-right: auto;
-          }
-        }
-      }
-    } //area04
+      } //content
+    } //facility
   } //sp
   @media screen and (max-width: 450px) {
   }
