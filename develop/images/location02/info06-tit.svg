@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 679.74 24.77">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .05em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.2em;
+      }
+
+      .cls-4 {
+        font-size: 8.31px;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: YuMinPr6N-Regular-83pv-RKSJ-H, 'Yu Mincho Pr6N';
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #11374c;
+      }
+
+      .cls-5 {
+        font-size: 16.8px;
+      }
+
+      .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke: #11374c;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <text class="cls-5" transform="translate(1.57 14.78)"><tspan class="cls-7" x="0" y="0">PUBLIC &amp; CU</tspan><tspan class="cls-2" x="113.05" y="0">L</tspan><tspan class="cls-7" x="122.44" y="0">TURAL </tspan></text>
+    <text class="cls-4" transform="translate(209.89 13.1)"><tspan class="cls-1" x="0" y="0">公</tspan><tspan class="cls-3" x="8.72" y="0">共・</tspan><tspan class="cls-1" x="22.02" y="0">文化施設</tspan></text>
+    <line class="cls-8" y1="22.06" x2="679.74" y2="22.06"/>
+    <rect class="cls-6" y="19.35" width="176.68" height="5.42"/>
+  </g>
+</svg>

@@ -392,34 +392,212 @@
 
       <div class="tab-inner cond01 current clearfix">
         <div class="image">
-          <img src="./images/location03/info01.svg" alt="" class="pc">
-          <img src="./images/location03/info01-sp.svg" alt="" class="tb">
+          <img src="./images/location02/info01-tit.svg" alt="" class="pc">
+          <img src="./images/location03/info01-tit-sp.svg" alt="" class="tb">
         </div>
-      </div><!-- tab-inner  -->
+        <ul class="list">
+          <li>
+            <div class="image">
+              <img src="./images/location02/info01-01.jpg" alt="">
+              <p class="annotation white">古川橋本通商店街</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info01-02.jpg" alt="">
+              <p class="annotation white">ステーションモールCore古川橋</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info01-03.jpg" alt="">
+              <p class="annotation white">マツモトキヨシ</p>
+            </div>
+          </li>
+        </ul>
+        <div class="image">
+          <img src="./images/location02/info01.svg" alt="" class="pc">
+          <img src="./images/location02/info01-sp.svg" alt="" class="sp">
+        </div>
+      </div><!-- tab-inner 01 -->
       <div class="tab-inner cond02 clearfix">
-        <div class="image">
-          <img src="./images/location03/info02.svg" alt="" class="pc">
-          <img src="./images/location03/info02-sp.svg" alt="" class="tb">
+      <div class="image">
+          <img src="./images/location02/info02-tit.svg" alt="" class="pc">
+          <img src="./images/location03/info02-tit-sp.svg" alt="" class="tb">
         </div>
-      </div><!-- tab-inner  -->
+        <ul class="list">
+          <li>
+            <div class="image">
+              <img src="./images/location02/info02-01.jpg" alt="">
+              <p class="annotation">幸福町公園</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info02-02.jpg" alt="">
+              <p class="annotation">浜町公園</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info02-03.jpg" alt="">
+              <p class="annotation">中町公園</p>
+            </div>
+          </li>
+        </ul>
+        <div class="image">
+          <img src="./images/location02/info02.svg" alt="" class="pc">
+          <img src="./images/location02/info02-sp.svg" alt="" class="sp">
+        </div>
+      </div><!-- tab-inner 02  -->
       <div class="tab-inner cond03 clearfix">
-        <div class="image">
-          <img src="./images/location03/info03.svg" alt="" class="pc">
-          <img src="./images/location03/info03-sp.svg" alt="" class="tb">
+      <div class="image">
+          <img src="./images/location02/info03-tit.svg" alt="" class="pc">
+          <img src="./images/location03/info03-tit-sp.svg" alt="" class="tb">
         </div>
-      </div><!-- tab-inner  -->
+        <ul class="list">
+          <li>
+            <div class="image">
+              <img src="./images/location02/info03-01.jpg" alt="">
+              <p class="annotation white">門真市立総合体育館</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info03-02.jpg" alt="">
+              <p class="annotation">旧第六中学校運動広場</p>
+            </div>
+          </li>
+          <li class="pc">
+            <div class="image">
+              <img src="./images/location02/empty.png" alt="">
+            </div>
+          </li>
+        </ul>
+        <div class="image">
+          <img src="./images/location02/info03.svg" alt="" class="pc">
+          <img src="./images/location02/info03-sp.svg" alt="" class="sp">
+        </div>
+      </div><!-- tab-inner 03 -->
       <div class="tab-inner cond04 clearfix">
-        <div class="image">
-          <img src="./images/location03/info04.svg" alt="" class="pc">
-          <img src="./images/location03/info04-sp.svg" alt="" class="tb">
+      <div class="image">
+          <img src="./images/location02/info04-tit.svg" alt="" class="pc">
+          <img src="./images/location03/info04-tit-sp.svg" alt="" class="tb">
         </div>
-      </div><!-- tab-inner  -->
+        <ul class="list">
+          <li>
+            <div class="image">
+              <img src="./images/location02/info04-01.jpg" alt="">
+              <p class="annotation white">市立門真はすはな中学校</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info04-02.jpg" alt="">
+              <p class="annotation">市立門真みらい小学校</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info04-03.jpg" alt="">
+              <p class="annotation white">すえひろこども</p>
+            </div>
+          </li>
+        </ul>
+        <div class="image">
+          <img src="./images/location02/info04.svg" alt="" class="pc">
+          <img src="./images/location02/info04-sp.svg" alt="" class="sp">
+        </div>
+      </div><!-- tab-inner 04 -->
       <div class="tab-inner cond05 clearfix">
-        <div class="image">
-          <img src="./images/location03/info05.svg" alt="" class="pc">
-          <img src="./images/location03/info05-sp.svg" alt="" class="tb">
+      <div class="image">
+          <img src="./images/location02/info05-tit.svg" alt="" class="pc">
+          <img src="./images/location03/info05-tit-sp.svg" alt="" class="tb">
         </div>
-      </div><!-- tab-inner  -->
+        <ul class="list">
+          <li>
+            <div class="image">
+              <img src="./images/location02/info05-01.jpg" alt="">
+              <p class="annotation white">正幸会病院</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info05-02.jpg" alt="">
+              <p class="annotation white">古川橋メディカルプラザ</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info05-03.jpg" alt="">
+              <p class="annotation white">摂南総合病院</p>
+            </div>
+          </li>
+        </ul>
+        <div class="image">
+          <img src="./images/location02/info05.svg" alt="" class="pc">
+          <img src="./images/location02/info05-sp.svg" alt="" class="sp">
+        </div>
+      </div><!-- tab-inner 05 -->
+      <div class="tab-inner cond06 clearfix">
+      <div class="image">
+          <img src="./images/location02/info06-tit.svg" alt="" class="pc">
+          <img src="./images/location03/info06-tit-sp.svg" alt="" class="tb">
+        </div>
+        <ul class="list">
+          <li>
+            <div class="image">
+              <img src="./images/location02/info06-01.jpg" alt="">
+              <p class="annotation white">ルミエールホール</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info06-02.jpg" alt="">
+              <p class="annotation white">門真市役所</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info06-03.jpg" alt="">
+              <p class="annotation">門真市保健福祉センター</p>
+            </div>
+          </li>
+        </ul>
+        <div class="image">
+          <img src="./images/location02/info06.svg" alt="" class="pc">
+          <img src="./images/location02/info06-sp.svg" alt="" class="sp">
+        </div>
+      </div><!-- tab-inner 06 -->
+      <div class="tab-inner cond07 clearfix">
+      <div class="image">
+          <img src="./images/location02/info07-tit.svg" alt="" class="pc">
+          <img src="./images/location03/info07-tit-sp.svg" alt="" class="tb">
+        </div>
+        <ul class="list">
+          <li>
+            <div class="image">
+              <img src="./images/location02/info07-01.jpg" alt="">
+              <p class="annotation white">門真古川橋郵便局</p>
+            </div>
+          </li>
+          <li>
+            <div class="image">
+              <img src="./images/location02/info07-02.jpg" alt="">
+              <p class="annotation white">三菱UFJ銀行門真支店・大和田支店</p>
+            </div>
+          </li>
+          <li class="pc">
+            <div class="image">
+              <img src="./images/location02/empty.png" alt="">
+            </div>
+          </li>
+        </ul>
+        <div class="image">
+          <img src="./images/location02/info07.svg" alt="" class="pc">
+          <img src="./images/location02/info07-sp.svg" alt="" class="sp">
+        </div>
+      </div><!-- tab-inner 07 -->
     </div><!-- inner -->
   </section><!-- life-info -->
 

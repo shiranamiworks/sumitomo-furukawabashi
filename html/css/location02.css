@@ -536,7 +536,6 @@
   margin-bottom: 20px;
 }
 .location02 .life-info {
-  display: none;
   text-align: center;
   margin-bottom: 100px;
 }
@@ -578,14 +577,14 @@
 .location02 .life-info .change-buttons .button {
   position: relative;
   display: block;
-  font-size: 14px;
+  font-size: 13px;
   padding: 20px 0;
   background: #11374c;
   color: #fff;
   box-sizing: border-box;
 }
 .location02 .life-info .change-buttons .button .mini {
-  font-size: 12px;
+  font-size: 10px;
 }
 .location02 .life-info .change-buttons .button.current {
   position: absolute;
@@ -606,7 +605,21 @@
   border-top: 1px solid #11374c;
   border-left: 1px solid #11374c;
   border-right: 1px solid #11374c;
-  transition: 0.3s;
+}
+.location02 .life-info .list {
+  margin: 30px auto;
+}
+.location02 .life-info .list li {
+  vertical-align: top;
+  display: inline-block;
+  width: 31%;
+  margin-right: 2%;
+}
+.location02 .life-info .list li:last-child {
+  margin-right: auto;
+}
+.location02 .life-info .image img {
+  width: 100%;
 }
 @media screen and (max-width: 768px) {
   .location02 sp {

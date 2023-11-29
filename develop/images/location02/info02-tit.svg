@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 679.74 24.77">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .05em;
+      }
+
+      .cls-2 {
+        font-size: 8.31px;
+        letter-spacing: .1em;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: YuMinPr6N-Regular-83pv-RKSJ-H, 'Yu Mincho Pr6N';
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #11374c;
+      }
+
+      .cls-5 {
+        stroke-width: .3px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+        stroke: #11374c;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-size: 16.8px;
+      }
+
+      .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-6 {
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <text class="cls-3" transform="translate(1.57 14.78)"><tspan class="cls-7" x="0" y="0">P</tspan><tspan class="cls-1" x="10.55" y="0">ARK</tspan></text>
+    <line class="cls-6" y1="22.06" x2="679.74" y2="22.06"/>
+    <rect class="cls-4" y="19.35" width="48.59" height="5.42"/>
+    <g>
+      <text class="cls-2" transform="translate(84.5 13.1)"><tspan x="0" y="0">公園施設</tspan></text>
+      <line class="cls-5" x1="79.41" y1="10.36" x2="69.91" y2="10.36"/>
+      <line class="cls-5" x1="125.3" y1="10.36" x2="134.81" y2="10.36"/>
+    </g>
+  </g>
+</svg>
