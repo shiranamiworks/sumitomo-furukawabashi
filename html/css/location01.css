@@ -86,7 +86,7 @@
   border: none;
 }
 .location01 .main-visual .annotation {
-  bottom: 10%;
+  bottom: 30%;
 }
 .location01 .sections .inner {
   margin: 0 auto;
@@ -123,6 +123,9 @@
 .location01 .intro {
   text-align: center;
   margin-bottom: 100px;
+  margin-top: -160px;
+  position: relative;
+  z-index: 1;
 }
 .location01 .intro .en {
   font-size: 38px;
@@ -597,11 +600,5 @@
   }
   .location01 .facility .content .column02.list02 li {
     padding: 20px;
-  }
-  .location01 .facility .content .column02.list02 .txt02 {
-    margin-bottom: 20px;
-  }
-  .location01 .facility .content .column02.list02 .annotation {
-    bottom: -10px;
   }
 }/*# sourceMappingURL=location01.css.map */

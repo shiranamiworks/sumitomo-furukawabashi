@@ -86,7 +86,7 @@
     position: relative;
     border: none;
     .annotation {
-      bottom: 10%;
+      bottom: 30%;
     }
   }
   .sections {
@@ -130,6 +130,9 @@
   .intro {
     text-align: center;
     margin-bottom: 100px;
+    margin-top: -160px;
+    position: relative;
+    z-index: 1;
     .en {
       font-size: 38px;
       letter-spacing: 0.2em;

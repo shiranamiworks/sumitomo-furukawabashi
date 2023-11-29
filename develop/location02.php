@@ -28,21 +28,22 @@
   </div>
 	<!--// パンくずリスト -->
 
-  <div class="location-link location-link--3">
-    <a href="location01.html"><p>多彩な都市機能に近接</p></a>
-    <a href="location02.html" class="current"><p>豊かな自然の潤いを身近に</p></a>
-    <a href="location03.html"><p>毎日を支える充実の利便施設</p></a>
+  <div class="location-link location-link--2">
+    <a href="location01.html"><p>「古川橋」駅前が生まれ変わる</p></a>
+    <a href="location02.html" class="current"><p>たしかな暮らしやすさがここにある</p></a>
   </div>
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/location02/mv.jpg" alt="" class="pc"><img src="./images/location02/mv-sp.jpg" alt="" class="tb"><p class="annotation white">多摩川ガス橋緑地（A:徒歩5分／B:徒歩6分）</p></div>
+   <div class="image"><img src="./images/location02/mv.png" alt="" class="pc"><img src="./images/location02/mv-sp.png" alt="" class="tb"><p class="annotation white">image photo</p></div>
   </header><!-- main-visual -->
 
 
   <section class="intro sections clearfix">
     <div class="inner">
-      <p class="tit">あふれる自然を感じながら、毎日を心地よく暮らす。</p>
+      <p class="en">Shopping</p>
+      <p class="tit">心満たされる充実のショッピング環境。</p>
+      <p class="lead">近年、門真市内には、複数の大型商業施設が誕生。<br>日常から特別な日まで、心を満たす魅力的な買い物環境が整っています。</p>
     </div>
   </section><!-- intro -->
 
@@ -279,10 +280,9 @@
 <p class="page-annotation js-scroll wrap clearfix">凡例）A:エアーズコート（グランドエントランス）、B:ブリーズコート（ノースエントランス）<br>※徒歩分数表示については80mを1分として算出し、端数を切り上げたものです。<br>※掲載の環境写真は2022年4月&#x301c;2023年7月に撮影。<br>※施設の内容等は将来変わる場合があります。<br>※掲載の情報は2023年7月現在のものです。</p></div>
 </main>
 
-  <div class="location-link location-link--3">
-    <a href="location01.html"><p>多彩な都市機能に近接</p></a>
-    <a href="location02.html" class="current"><p>豊かな自然の潤いを身近に</p></a>
-    <a href="location03.html"><p>毎日を支える充実の利便施設</p></a>
+  <div class="location-link location-link--2">
+    <a href="location01.html"><p>「古川橋」駅前が生まれ変わる</p></a>
+    <a href="location02.html" class="current"><p>たしかな暮らしやすさがここにある</p></a>
   </div>
 
 <?php require(INCLUDES."footer.php"); ?>

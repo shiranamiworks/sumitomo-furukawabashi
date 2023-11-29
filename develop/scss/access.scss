@@ -282,6 +282,9 @@
     pc {
       display: none;
     }
+    main {
+      background: none;
+    }
 
     @media screen and (max-width: 768px) {
       .swipe-img {

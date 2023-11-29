@@ -71,17 +71,22 @@
   color: #3e3a39;
   font-family: "RyuminPro", serif;
   line-height: 1;
+  background: url(../images/common/bg.png);
+  background-size: contain;
 }
 .location02 sup {
-  vertical-align: text-top;
+  font-size: 10px;
+  vertical-align: super;
 }
 .location02 .page-annotation {
   font-family: "Noto Sans JP", sans-serif;
 }
 .location02 .main-visual {
   position: relative;
-  padding-bottom: 140px;
   border: none;
+}
+.location02 .main-visual .annotation {
+  bottom: 30%;
 }
 .location02 .sections .inner {
   margin: 0 auto;
@@ -118,188 +123,55 @@
 .location02 .intro {
   text-align: center;
   margin-bottom: 100px;
+  margin-top: -160px;
+  position: relative;
+  z-index: 1;
+}
+.location02 .intro .en {
+  font-size: 38px;
+  letter-spacing: 0.2em;
+  margin-bottom: 50px;
+  color: #2c4a5f;
 }
 .location02 .intro .tit {
-  font-size: 36px;
+  font-size: 30px;
   line-height: 2;
+  margin-bottom: 30px;
+  color: #002d43;
 }
-.location02 .areas {
+.location02 .intro .lead {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 60px;
+  color: #002d43;
+}
+.location02 .area {
   margin-bottom: 120px;
 }
-.location02 .areas .caps {
+.location02 .area .caps {
   text-align: right;
   margin-top: 10px;
   font-size: 10px;
   line-height: 1.6;
 }
-.location02 .areas .img00 {
+.location02 .area .img00 {
   margin-bottom: 80px;
 }
-.location02 .areas .text {
+.location02 .area .text {
   font-size: 27px;
   line-height: 1.6;
   margin-bottom: 40px;
 }
-.location02 .areas .lead {
+.location02 .area .lead {
   font-size: 18px;
   line-height: 1.8;
   margin-bottom: 40px;
 }
-.location02 .areas .box {
+.location02 .area .box {
   background: #ddf0f3;
   padding: 20px;
   box-sizing: border-box;
   margin-bottom: 40px;
-}
-.location02 .area01 .column02 .bottom {
-  margin-bottom: 25px;
-}
-.location02 .area01 .txt01 {
-  font-size: 24px;
-  margin: 20px 0;
-  padding-left: 10px;
-  border-left: 5px solid #1c2c5a;
-}
-.location02 .area01 .txt02 {
-  font-size: 18px;
-  line-height: 1.8;
-  margin-bottom: 10px;
-}
-.location02 .area01 .txt02 .bottom {
-  margin-bottom: 20px;
-}
-.location02 .area01 .mini {
-  font-size: 10px;
-  line-height: 1.4;
-}
-.location02 .area01 .img04 {
-  margin-bottom: 50px;
-}
-.location02 .area01 .img04 .annotation {
-  bottom: -15px;
-}
-.location02 .area02 .text {
-  margin-bottom: 20px;
-}
-.location02 .area02 .img01 {
-  margin-bottom: 40px;
-}
-.location02 .area02 .txt01 {
-  font-size: 24px;
-  margin: 20px 0;
-  padding-left: 10px;
-  border-left: 5px solid #1c2c5a;
-}
-.location02 .area02 .txt01 span {
-  font-size: 16px;
-}
-.location02 .area02 .txt02 {
-  font-size: 18px;
-  line-height: 1.8;
-  margin-bottom: 20px;
-}
-.location02 .area02 .column02 {
-  margin-bottom: 20px;
-}
-.location02 .area03 .line {
-  font-size: 24px;
-  line-height: 1.4;
-  color: #fff;
-  padding-left: 20px;
-  box-sizing: border-box;
-  background: #1c2c5a;
-  margin-bottom: 20px;
-}
-.location02 .area03 .line span {
-  font-size: 40px;
-}
-.location02 .area03 .line02 {
-  padding: 6px 0 6px 20px;
-}
-.location02 .area03 .column03 {
-  margin-bottom: 60px;
-}
-.location02 .area03 .column03 .txt {
-  margin-top: 20px;
-}
-.location02 .area03 .column03 .txt.mt {
-  margin-top: 8.5%;
-}
-.location02 .area03 .name {
-  font-size: 17px;
-  margin-top: 6px;
-}
-.location02 .area04 {
-  background: #ddf0f3;
-  padding-bottom: 100px;
-  margin-bottom: 0;
-}
-.location02 .area04 .point {
-  position: relative;
-  display: inline-block;
-  font-size: 40px;
-  padding-top: 120px;
-  margin-bottom: 80px;
-}
-.location02 .area04 .point:before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: 1px;
-  height: 104px;
-  margin: auto;
-  background-color: #000;
-}
-.location02 .area04 .tit {
-  font-size: 27px;
-  line-height: 1.8;
-  padding-bottom: 10px;
-  margin-bottom: 20px;
-  border-bottom: 0.5px solid #000;
-}
-.location02 .area04 .annotation {
-  bottom: -15px;
-}
-.location02 .area04 .list02 .annotation,
-.location02 .area04 .list03 .annotation {
-  bottom: -30px;
-}
-.location02 .area04 .tit-img {
-  margin-top: 40px;
-  margin-bottom: 20px;
-}
-.location02 .area04 .column02 li {
-  vertical-align: middle;
-  display: inline-block;
-  width: 50%;
-  margin-right: 8%;
-}
-.location02 .area04 .column02 li .lead {
-  font-size: 16px;
-  margin-bottom: 0;
-}
-.location02 .area04 .column02 li:nth-child(2n),
-.location02 .area04 .column02 li:last-child {
-  width: 40%;
-  margin-right: auto;
-}
-.location02 .area04 .column02.list02 li {
-  width: 50%;
-  margin-right: 3%;
-}
-.location02 .area04 .column02.list02 li:last-child {
-  width: 45%;
-  margin-right: auto;
-}
-.location02 .area04 .column02.list03 li {
-  width: 50%;
-  margin-right: 3%;
-}
-.location02 .area04 .column02.list03 li:last-child {
-  width: 45%;
-  margin-right: auto;
 }
 @media screen and (max-width: 768px) {
   .location02 sp {
@@ -310,10 +182,6 @@
   }
   .location02 .main-visual {
     padding-bottom: 100px;
-  }
-  .location02 .main-visual .image::after {
-    bottom: -60px;
-    height: 60px;
   }
   .location02 .sections .column02 li {
     display: block;
@@ -333,121 +201,39 @@
   }
   .location02 .intro {
     text-align: left;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
+  }
+  .location02 .intro .en {
+    font-size: 36px;
+    margin-bottom: 20px;
   }
   .location02 .intro .tit {
     font-size: 22px;
+    margin-bottom: 20px;
   }
-  .location02 .areas {
+  .location02 .intro .lead {
+    text-align: left;
+    font-size: 16px;
+    line-height: 2;
+    margin-bottom: 0;
+  }
+  .location02 .area {
     margin-bottom: 60px;
   }
-  .location02 .areas .img00 {
+  .location02 .area .img00 {
     margin-bottom: 30px;
   }
-  .location02 .areas .img00 .annotation {
+  .location02 .area .img00 .annotation {
     bottom: -15px;
   }
-  .location02 .areas .text {
+  .location02 .area .text {
     font-size: 20px;
     line-height: 1.8;
     margin-bottom: 20px;
   }
-  .location02 .areas .lead {
+  .location02 .area .lead {
     font-size: 16px;
     line-height: 2;
     margin-bottom: 20px;
-  }
-  .location02 .area01 .column02 .bottom {
-    margin-bottom: 20px;
-  }
-  .location02 .area01 .txt01 {
-    font-size: 20px;
-    line-height: 1.5;
-  }
-  .location02 .area02 .img01 {
-    margin-bottom: 20px;
-  }
-  .location02 .area02 .column02 {
-    margin-bottom: 0;
-  }
-  .location02 .area02 .column02 li {
-    margin-bottom: 0;
-  }
-  .location02 .area02 .txt01 {
-    font-size: 20px;
-    margin: 10px 0 40px;
-  }
-  .location02 .area02 .txt01 span {
-    font-size: 14px;
-  }
-  .location02 .area02 .txt01.mb20 {
-    margin-bottom: 10px;
-  }
-  .location02 .area02 .txt02 {
-    font-size: 16px;
-    line-height: 2;
-  }
-  .location02 .area03 .line {
-    font-size: 14px;
-    padding: 10px;
-    margin-bottom: 10px;
-  }
-  .location02 .area03 .line span {
-    font-size: 22px;
-  }
-  .location02 .area03 .line02 {
-    padding: 10px;
-  }
-  .location02 .area03 .column03 {
-    margin-bottom: 40px;
-  }
-  .location02 .area03 .column03 .txt {
-    margin-top: 10px;
-  }
-  .location02 .area03 .column03 .txt.mt {
-    margin-top: 20px;
-  }
-  .location02 .area03 .name {
-    font-size: 16px;
-  }
-  .location02 .area04 {
-    padding-bottom: 60px;
-    margin-bottom: 0;
-  }
-  .location02 .area04 .point {
-    font-size: 30px;
-    padding-top: 60px;
-    margin-bottom: 20px;
-  }
-  .location02 .area04 .point:before {
-    height: 50px;
-  }
-  .location02 .area04 .tit {
-    font-size: 20px;
-  }
-  .location02 .area04 .column02 li {
-    display: block;
-    width: 100%;
-    margin-bottom: 20px;
-  }
-  .location02 .area04 .column02 li:last-child {
-    width: 100%;
-  }
-  .location02 .area04 .column02.list02 li, .location02 .area04 .column02.list03 li {
-    width: 100%;
-  }
-  .location02 .area04 .column02.list02 li:last-child, .location02 .area04 .column02.list03 li:last-child {
-    width: 100%;
-  }
-  .location02 .area04 .list02 li:last-child {
-    margin-top: 50px;
-  }
-  .location02 .area04 .list02 .annotation {
-    line-height: 1.2;
-    bottom: -30px;
-  }
-  .location02 .area04 .list03 .annotation {
-    line-height: 1.2;
-    bottom: -30px;
   }
 }/*# sourceMappingURL=location02.css.map */
