@@ -555,6 +555,7 @@
     }
   } //park
   .life-info {
+    display: none;
     text-align: center;
     margin-bottom: 100px;
     .inner {
@@ -592,6 +593,7 @@
         width: 13%;
       }
       .button {
+        position: relative;
         display: block;
         font-size: 14px;
         padding: 20px 0;
@@ -603,7 +605,7 @@
         }
       }
       .button.current {
-        position: relative;
+        position: absolute;
         pointer-events: none;
         background: #fff;
         color: #11374c;
@@ -611,6 +613,7 @@
         border-left: 1px solid #11374c;
         border-right: 1px solid #11374c;
         box-sizing: border-box;
+        width: 10.8%;
       }
       .button:hover {
         cursor: pointer;
