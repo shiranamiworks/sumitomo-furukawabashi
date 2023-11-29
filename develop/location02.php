@@ -5,13 +5,13 @@
   "gnav_set" => "location",
   "page_class" => "location02",
   "url" => "location02.html",
-  "title" => "豊かな自然の潤いを身近に｜",
-  "keywords" => "豊かな自然の潤いを身近に,",
-  "description" => "豊かな自然の潤いを身近にページ。",
+  "title" => "たしかな暮らしやすさがここにある｜",
+  "keywords" => "たしかな暮らしやすさがここにある,",
+  "description" => "たしかな暮らしやすさがここにあるページ。",
   "add_stylesheet" => ["css/location.css","css/location02.css"],
   "add_script" =>  ["js/location.js"],
   "canonical_page_id" => "location", 
-  "logo_text" => "豊かな自然の潤いを身近に｜"
+  "logo_text" => "たしかな暮らしやすさがここにある｜"
 );
 ?>
 
@@ -21,9 +21,9 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティテラス下丸子　トップ</a></li>
+      <li><a href="./index.html">シティタワー古川橋｜古川橋 新築分譲マンション｜トップ</a></li>
       <li><a href="./location01.html">ロケーション</a></li>
-      <li><p>豊かな自然の潤いを身近に</p></li>
+      <li><p>たしかな暮らしやすさがここにある</p></li>
     </ul>
   </div>
 	<!--// パンくずリスト -->

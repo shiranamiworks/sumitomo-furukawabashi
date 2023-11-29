@@ -40,6 +40,7 @@
     <div class="container">
       <ul class="footer-recommend__menu f-min">
         <li>古川橋 新築分譲マンション</li>
+        <li>門真市 新築マンション</li>
         <li>シティタワー古川橋</li>
         <li>大阪府門真市</li>
         <li>京阪本線</li>

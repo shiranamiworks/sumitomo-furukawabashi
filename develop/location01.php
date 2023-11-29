@@ -21,7 +21,7 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティタワー古川橋　トップ</a></li>
+      <li><a href="./index.html">シティタワー古川橋｜古川橋 新築分譲マンション｜トップ</a></li>
       <li><a href="./location01.html">ロケーション</a></li>
       <li><p>「古川橋」駅前が生まれ変わる</p></li>
     </ul>
