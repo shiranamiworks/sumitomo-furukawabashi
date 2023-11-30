@@ -35,7 +35,7 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/location02/mv.png" alt="" class="pc"><img src="./images/location02/mv-sp.png" alt="" class="tb"><p class="annotation white">image photo</p></div>
+   <div class="image"><img src="./images/location02/mv.png" alt=""><p class="annotation white">image photo</p></div>
   </header><!-- main-visual -->
 
 
@@ -175,7 +175,7 @@
           <p class="distance">（約430m）</p>
           <p class="txt01">暮らしを支える店舗が揃う、<br class="pc">普段使いの商業施設。</p>
           <p class="txt02">「イオン古川橋駅前店」が大規模リニューアルされ、2023年11月に「そよら古川橋駅前」としてリニューアルオープン。「イオンスタイル古川橋」を中心に、ファッション、雑貨、飲食、サービスなど、日常を豊かに彩る店舗が揃っています。</p>
-          <div class="image sp">
+          <div class="image tb">
           <img src="./images/location02/convenience02.jpg">
           </div>
         </li>
@@ -235,7 +235,7 @@
         <li>
           <div class="image">
             <img src="./images/location02/gourmet01.jpg" class="pc">
-            <img src="./images/location02/gourmet01-sp.jpg" class="sp">
+            <img src="./images/location02/gourmet01-sp.jpg" class="tb">
             <p class="annotation">提供写真</p>
           </div>
           <p class="genre">［ビストロ］</p>
@@ -245,7 +245,7 @@
         <li>
           <div class="image">
             <img src="./images/location02/gourmet02.jpg" class="pc">
-            <img src="./images/location02/gourmet02-sp.jpg" class="sp">
+            <img src="./images/location02/gourmet02-sp.jpg" class="tb">
             <p class="annotation">提供写真</p>
           </div>
           <p class="genre">［創作料理］</p>
@@ -255,7 +255,7 @@
         <li>
           <div class="image">
             <img src="./images/location02/gourmet03.jpg" class="pc">
-            <img src="./images/location02/gourmet03-sp.jpg" class="sp">
+            <img src="./images/location02/gourmet03-sp.jpg" class="tb">
             <p class="annotation white">提供写真</p>
           </div>
           <p class="genre">［カフェ］</p>
@@ -265,7 +265,7 @@
         <li>
           <div class="image">
             <img src="./images/location02/gourmet04.jpg" class="pc">
-            <img src="./images/location02/gourmet04-sp.jpg" class="sp">
+            <img src="./images/location02/gourmet04-sp.jpg" class="tb">
             <p class="annotation">提供写真</p>
           </div>
           <p class="genre">［洋菓子］</p>
@@ -275,7 +275,7 @@
         <li>
           <div class="image">
             <img src="./images/location02/gourmet05.jpg" class="pc">
-            <img src="./images/location02/gourmet05-sp.jpg" class="sp">
+            <img src="./images/location02/gourmet05-sp.jpg" class="tb">
             <p class="annotation">提供写真</p>
           </div>
           <p class="genre">［カフェ］</p>
@@ -285,7 +285,7 @@
         <li>
           <div class="image">
             <img src="./images/location02/gourmet06.jpg" class="pc">
-            <img src="./images/location02/gourmet06-sp.jpg" class="sp">
+            <img src="./images/location02/gourmet06-sp.jpg" class="tb">
             <p class="annotation">提供写真</p>
           </div>
           <p class="genre">［カフェ］</p>
@@ -430,7 +430,7 @@
         </ul>
         <div class="image">
           <img src="./images/location02/info01.svg" alt="" class="pc">
-          <img src="./images/location02/info01-sp.svg" alt="" class="sp">
+          <img src="./images/location02/info01-sp.svg" alt="" class="tb">
         </div>
       </div><!-- tab-inner 01 -->
       <div class="tab-inner cond02 clearfix">
@@ -460,7 +460,7 @@
         </ul>
         <div class="image">
           <img src="./images/location02/info02.svg" alt="" class="pc">
-          <img src="./images/location02/info02-sp.svg" alt="" class="sp">
+          <img src="./images/location02/info02-sp.svg" alt="" class="tb">
         </div>
       </div><!-- tab-inner 02  -->
       <div class="tab-inner cond03 clearfix">
@@ -489,7 +489,7 @@
         </ul>
         <div class="image">
           <img src="./images/location02/info03.svg" alt="" class="pc">
-          <img src="./images/location02/info03-sp.svg" alt="" class="sp">
+          <img src="./images/location02/info03-sp.svg" alt="" class="tb">
         </div>
       </div><!-- tab-inner 03 -->
       <div class="tab-inner cond04 clearfix">
@@ -519,7 +519,7 @@
         </ul>
         <div class="image">
           <img src="./images/location02/info04.svg" alt="" class="pc">
-          <img src="./images/location02/info04-sp.svg" alt="" class="sp">
+          <img src="./images/location02/info04-sp.svg" alt="" class="tb">
         </div>
       </div><!-- tab-inner 04 -->
       <div class="tab-inner cond05 clearfix">
@@ -549,7 +549,7 @@
         </ul>
         <div class="image">
           <img src="./images/location02/info05.svg" alt="" class="pc">
-          <img src="./images/location02/info05-sp.svg" alt="" class="sp">
+          <img src="./images/location02/info05-sp.svg" alt="" class="tb">
         </div>
       </div><!-- tab-inner 05 -->
       <div class="tab-inner cond06 clearfix">
@@ -579,7 +579,7 @@
         </ul>
         <div class="image">
           <img src="./images/location02/info06.svg" alt="" class="pc">
-          <img src="./images/location02/info06-sp.svg" alt="" class="sp">
+          <img src="./images/location02/info06-sp.svg" alt="" class="tb">
         </div>
       </div><!-- tab-inner 06 -->
       <div class="tab-inner cond07 clearfix">
@@ -608,7 +608,7 @@
         </ul>
         <div class="image">
           <img src="./images/location02/info07.svg" alt="" class="pc">
-          <img src="./images/location02/info07-sp.svg" alt="" class="sp">
+          <img src="./images/location02/info07-sp.svg" alt="" class="tb">
         </div>
       </div><!-- tab-inner 07 -->
     </div><!-- inner -->
