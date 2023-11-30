@@ -9,7 +9,7 @@
   "keywords" => "アクセス,",
   "description" => "アクセスページ。",
   "add_stylesheet" => ["css/access.css"],
-  "add_script" =>  [],
+  "add_script" =>  ["js/access.js"],
   "canonical_page_id" => "access", 
   "logo_text" => "アクセス｜"
 );
@@ -39,7 +39,7 @@
       <p class="tit">「京橋」「淀屋橋」「大阪」へ、<br class="pc">スムーズにつながる日常。</p>
       <p class="lead">徒歩4分の「古川橋」駅より「京橋」や「淀屋橋」、「大阪」などの主要駅へスピーディーにアクセス。<br>また、「古川橋」駅から1駅の「門真市」駅利用で国内各地をつなぐ大阪国際空港へもスムーズに移動が可能です。</p>
 				<div class="image img01">
-					<div class="swipe-img">
+					<div class="swipe-img right-start modify-starts">
 						<img src="images/access/intro01.png" alt="路線図">
           </div>
           <p class="annotation">路線図</p>
@@ -109,6 +109,7 @@
         </figure>
           <p class="annotation">カーアクセス図</p>
       </div>
+      <p class="caps">カーアクセス図</p>
     </div>
   </section>
 

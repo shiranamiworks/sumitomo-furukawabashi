@@ -121,8 +121,8 @@
   text-align: right;
   font-size: 10px;
   line-height: 1.5;
-  margin-top: 10px;
-  margin-right: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
 }
 #concept .btn {
   text-align: center;
@@ -163,7 +163,10 @@
   }
   #concept .images .caps {
     text-align: left;
-    margin-left: 10px;
+    padding-left: 10px;
+  }
+  #concept .images .caps.sp {
+    background: rgba(168, 217, 214, 0.3);
   }
   #concept .btn {
     margin: 0 auto 60px;

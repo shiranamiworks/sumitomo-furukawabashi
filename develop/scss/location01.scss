@@ -140,8 +140,9 @@
       color: #2c4a5f;
     }
     .tit {
-      font-size: 30px;
+      font-size: 34px;
       line-height: 2;
+      letter-spacing: 0.12em;
       margin-bottom: 30px;
       color: #002d43;
     }
@@ -164,8 +165,9 @@
     text-align: center;
     margin-bottom: 100px;
     .tit {
-      font-size: 30px;
+      font-size: 34px;
       line-height: 2;
+      letter-spacing: 0.12em;
       margin-bottom: 30px;
       color: #002d43;
     }
@@ -187,7 +189,7 @@
         color: #2f5160;
         padding-bottom: 10px;
         span {
-          font-size: 10px;
+          font-size: 14px;
         }
       }
       .lead {
@@ -207,6 +209,7 @@
         margin-bottom: 10px;
       }
       .txt03 {
+        display: none;
         text-align: left;
         font-size: 14px;
         line-height: 1.6;
@@ -223,8 +226,9 @@
     text-align: center;
     margin-bottom: 100px;
     .tit {
-      font-size: 30px;
+      font-size: 34px;
       line-height: 2;
+      letter-spacing: 0.12em;
       margin-bottom: 30px;
       color: #002d43;
     }
@@ -242,8 +246,9 @@
     .design {
       margin-top: 60px;
       .text {
-        font-size: 24px;
+        font-size: 28px;
         line-height: 1.8;
+        letter-spacing: 0.12em;
         color: #002d43;
         margin-bottom: 60px;
       }
@@ -361,6 +366,11 @@
         font-size: 16px;
         line-height: 2;
         margin-bottom: 20px;
+      }
+      .img01 {
+        .annotation {
+          bottom: -24px;
+        }
       }
       .caps {
         text-align: right;
@@ -501,6 +511,11 @@
         line-height: 2;
         margin-bottom: 20px;
       }
+      .leaflet-top.leaflet-left {
+        left: auto;
+        right: 0;
+        bottom: 14%;
+      }
       .box {
         padding: 20px;
         margin-top: 40px;
@@ -514,9 +529,6 @@
         .lead {
           text-align: left;
           margin-bottom: 20px;
-        }
-        .caps {
-          text-align: left;
         }
         .txt02 {
           font-size: 16px;
@@ -605,7 +617,7 @@
           text-align: left;
         }
         .white-bg {
-          padding: 20px;
+          padding: 40px 20px 20px;
         }
         .column02 {
           .txt01 {

@@ -134,8 +134,9 @@
   color: #2c4a5f;
 }
 .location01 .intro .tit {
-  font-size: 30px;
+  font-size: 34px;
   line-height: 2;
+  letter-spacing: 0.12em;
   margin-bottom: 30px;
   color: #002d43;
 }
@@ -158,8 +159,9 @@
   margin-bottom: 100px;
 }
 .location01 .area .tit {
-  font-size: 30px;
+  font-size: 34px;
   line-height: 2;
+  letter-spacing: 0.12em;
   margin-bottom: 30px;
   color: #002d43;
 }
@@ -183,7 +185,7 @@
   padding-bottom: 10px;
 }
 .location01 .area .box .txt01 span {
-  font-size: 10px;
+  font-size: 14px;
 }
 .location01 .area .box .lead {
   text-align: left;
@@ -202,6 +204,7 @@
   margin-bottom: 10px;
 }
 .location01 .area .box .txt03 {
+  display: none;
   text-align: left;
   font-size: 14px;
   line-height: 1.6;
@@ -217,8 +220,9 @@
   margin-bottom: 100px;
 }
 .location01 .project .tit {
-  font-size: 30px;
+  font-size: 34px;
   line-height: 2;
+  letter-spacing: 0.12em;
   margin-bottom: 30px;
   color: #002d43;
 }
@@ -237,8 +241,9 @@
   margin-top: 60px;
 }
 .location01 .project .design .text {
-  font-size: 24px;
+  font-size: 28px;
   line-height: 1.8;
+  letter-spacing: 0.12em;
   color: #002d43;
   margin-bottom: 60px;
 }
@@ -352,6 +357,9 @@
   font-size: 16px;
   line-height: 2;
   margin-bottom: 20px;
+}
+.location01 .facility .content .img01 .annotation {
+  bottom: -24px;
 }
 .location01 .facility .content .caps {
   text-align: right;
@@ -477,6 +485,11 @@
     line-height: 2;
     margin-bottom: 20px;
   }
+  .location01 .area .leaflet-top.leaflet-left {
+    left: auto;
+    right: 0;
+    bottom: 14%;
+  }
   .location01 .area .box {
     padding: 20px;
     margin-top: 40px;
@@ -491,9 +504,6 @@
   .location01 .area .box .lead {
     text-align: left;
     margin-bottom: 20px;
-  }
-  .location01 .area .box .caps {
-    text-align: left;
   }
   .location01 .area .box .txt02 {
     font-size: 16px;
@@ -580,7 +590,7 @@
     text-align: left;
   }
   .location01 .facility .content .white-bg {
-    padding: 20px;
+    padding: 40px 20px 20px;
   }
   .location01 .facility .content .column02 .txt01 {
     font-size: 16px;

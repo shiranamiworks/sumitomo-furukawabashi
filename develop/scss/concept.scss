@@ -122,8 +122,8 @@
       text-align: right;
       font-size: 10px;
       line-height: 1.5;
-      margin-top: 10px;
-      margin-right: 10px;
+      padding-top: 10px;
+      padding-right: 10px;
     }
   } //images
   .btn {
@@ -170,7 +170,10 @@
       }
       .caps {
         text-align: left;
-        margin-left: 10px;
+        padding-left: 10px;
+        &.sp {
+          background: rgba(168, 217, 214, 0.3);
+        }
       }
     } //images
     .btn {

@@ -57,10 +57,10 @@
   <section class="sections area clearfix">
     <div class="inner">
       <p class="tit">マスタープランに基づいた、<br class="pc">数々の計画に期待が高まる門真市。</p>
-      <p class="lead">計画地のある「古川橋」駅周辺は、隣駅の「門真市」駅周辺と共に、市の賑わい拠点に位置付けられるエリア。<br>延伸予定の大阪モノレール新駅近くには、すでに複数の大規模商業施設が開業しており、<br class="pc">都市の利便性が向上しています。</p>
+      <p class="lead">計画地のある「古川橋」駅周辺は、隣駅の「門真市」駅周辺と共に、市の賑わい拠点に位置付けられるエリア。<br>延伸予定の大阪モノレール新駅<sup>※1</sup>近くには、すでに複数の大規模商業施設が開業しており、<br class="pc">都市の利便性が向上しています。</p>
       <div class="image" class="pc">
           <figure>
-          <img src="./images/location01/area01.jpg" alt="" class="pc">
+          <img src="./images/location01/area01.png" alt="" class="pc">
           </figure>
           <figure class="zoomImg tb">
           <img src="./images/location01/area01.jpg" alt="" class="zoomImg tb">
@@ -76,7 +76,7 @@
               <img src="./images/location01/area02.jpg" alt="">
             </div>
             <p class="caps">門真はすはな中学校（約520m／徒歩7分）<br>〈2012年竣工〉</p>
-            <p class="txt02">「エコ」に配慮した<br>門真はすはな中学校新校舎</p>
+            <p class="txt02">「エコ」に配慮した<br class="pc">門真はすはな中学校新校舎</p>
             <p class="txt03">新しく生まれた門真はすはな中学校は、シンボリックな外観を設え、美しい街並みに寄与。「エコ」にも配慮し自然通風換気システムや太陽光発電装置を備えています。</p>
           </li>
           <li>
@@ -84,7 +84,7 @@
               <img src="./images/location01/area03.jpg" alt="">
             </div>
             <p class="caps">門真はすはな中学校周辺（約510m／徒歩7分）<br>　</p>
-            <p class="txt02">「居心地が良く歩きたくなる」<br>まちづくり・景観づくり推進</p>
+            <p class="txt02">「居心地が良く歩きたくなる」<br class="pc">まちづくり・景観づくり推進</p>
             <p class="txt03">中町地区および本計画地を含む「古川橋」駅周辺では、エリア価値の向上を目的とし、ひと中心の空間や魅力的なパブリックスペースの整備を行っています。</p>
           </li>
           <li>
@@ -92,7 +92,7 @@
               <img src="./images/location01/area04.jpg" alt="">
             </div>
             <p class="caps">門真市立総合体育館（約400m／徒歩5分）<br>〈2016年竣工〉</p>
-            <p class="txt02">幅広く交流を育む<br>市立総合体育館</p>
+            <p class="txt02">幅広く交流を育む<br class="pc">市立総合体育館</p>
             <p class="txt03">「誰もが身近に利用しやすい生涯スポーツ推進拠点」をコンセプトにした体育館。幼児体育室や室内ランニングコースなど、多様な世代がスポーツに親しめる環境が整っています。</p>
           </li>
         </ul>
@@ -105,11 +105,12 @@
 
   <section class="sections project clearfix">
     <div class="inner">
-      <p class="tit">門真市内最大・最高層タワーをシンボルとして、<br class="pc">生まれ変わる駅前街づくりプロジェクト。</p>
+      <p class="tit">門真市内最大・最高層<sup>※2</sup>タワーをシンボルとして、<br class="pc">生まれ変わる駅前街づくりプロジェクト。</p>
       <p class="lead">門真市のビジョンに呼応する一大プロジェクトが動きはじめた「古川橋」駅前に誕生するのは、<br class="pc">地上41階・総戸数648戸のタワーをシンボルとする壮大な駅前街区。<br>（仮称）門真市立生涯学習複合施設や多彩な交流の場を複合した街区から、あたらしい日々が幕を開けます。</p>
     </div><!-- inner -->
     <div class="image">
       <img src="./images/location01/project01.jpg" alt="">
+      <p class="annotation white">航空写真（2023年10月撮影）</p>
     </div>
     <div class="inner">
     <p class="caps">※2. 1995年1月～2023年6月までに門真市内で新規供給された分譲マンションのうち、本プロジェクトの総戸数648戸は過去最大規模の戸数であり、41階建ては過去最高層となります。（有）MRC調べ（2023年8月現在）</p>
@@ -196,13 +197,13 @@
 
   <section class="sections facility clearfix">
     <div class="inner">
-    <p class="tit">（仮称）門真市立生涯学習複合施設 <span>【2025年度完成予定】</span></p>
+    <p class="tit">（仮称）門真市立生涯学習複合施設 <br class="sp tb"><span>【2025年度完成予定】</span></p>
     <div class="content">
       <p class="text">地域一体のコミュニティを育む文化と学びの交流拠点。</p>
       <p class="lead">タワーマンションの南東側には、屋上へ人を引き込むスパイラルガーデンと<br class="pc">内部の吹き抜けが立体的なつながりを生み出す生涯学習施設が誕生予定。<br>図書館と文化会館の機能を併せ持つこの施設から市民活動と緑が溢れ出し、<br class="pc">街区全体に心地よい賑わいと潤いをもたらします。</p>
-      <div class="image">
+      <div class="image img01">
       <img src="./images/location01/facility01.jpg" alt="">
-      <p class="annotation white">外観イメージ<br>（株式会社遠藤克彦建築研究所提供）</p>
+      <p class="annotation">外観イメージ<br>（株式会社遠藤克彦建築研究所提供）</p>
       </div>
       <div class="white-bg">
         <ul class="column02 list01">
