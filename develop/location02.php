@@ -406,7 +406,7 @@
       <div class="tab-inner cond01 current clearfix">
         <div class="image">
           <img src="./images/location02/info01-tit.svg" alt="" class="pc">
-          <img src="./images/location03/info01-tit-sp.svg" alt="" class="tb">
+          <img src="./images/location02/info01-tit-sp.svg" alt="" class="tb sp">
         </div>
         <ul class="list">
           <li>
@@ -436,7 +436,7 @@
       <div class="tab-inner cond02 clearfix">
       <div class="image">
           <img src="./images/location02/info02-tit.svg" alt="" class="pc">
-          <img src="./images/location03/info02-tit-sp.svg" alt="" class="tb">
+          <img src="./images/location02/info02-tit-sp.svg" alt="" class="tb">
         </div>
         <ul class="list">
           <li>
@@ -466,7 +466,7 @@
       <div class="tab-inner cond03 clearfix">
       <div class="image">
           <img src="./images/location02/info03-tit.svg" alt="" class="pc">
-          <img src="./images/location03/info03-tit-sp.svg" alt="" class="tb">
+          <img src="./images/location02/info03-tit-sp.svg" alt="" class="tb">
         </div>
         <ul class="list">
           <li>
@@ -495,7 +495,7 @@
       <div class="tab-inner cond04 clearfix">
       <div class="image">
           <img src="./images/location02/info04-tit.svg" alt="" class="pc">
-          <img src="./images/location03/info04-tit-sp.svg" alt="" class="tb">
+          <img src="./images/location02/info04-tit-sp.svg" alt="" class="tb">
         </div>
         <ul class="list">
           <li>
@@ -525,7 +525,7 @@
       <div class="tab-inner cond05 clearfix">
       <div class="image">
           <img src="./images/location02/info05-tit.svg" alt="" class="pc">
-          <img src="./images/location03/info05-tit-sp.svg" alt="" class="tb">
+          <img src="./images/location02/info05-tit-sp.svg" alt="" class="tb">
         </div>
         <ul class="list">
           <li>
@@ -555,7 +555,7 @@
       <div class="tab-inner cond06 clearfix">
       <div class="image">
           <img src="./images/location02/info06-tit.svg" alt="" class="pc">
-          <img src="./images/location03/info06-tit-sp.svg" alt="" class="tb">
+          <img src="./images/location02/info06-tit-sp.svg" alt="" class="tb">
         </div>
         <ul class="list">
           <li>
@@ -585,7 +585,7 @@
       <div class="tab-inner cond07 clearfix">
       <div class="image">
           <img src="./images/location02/info07-tit.svg" alt="" class="pc">
-          <img src="./images/location03/info07-tit-sp.svg" alt="" class="tb">
+          <img src="./images/location02/info07-tit-sp.svg" alt="" class="tb">
         </div>
         <ul class="list">
           <li>
