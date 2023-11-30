@@ -51,8 +51,8 @@
       </ul>
 
       <!-- おススメ物件 -->
-      <p class="footer-recommend__ttl">おすすめ物件</p>
-      <script type="text/javascript" src="/bukken_manage/bukken_manage_recommend.cgi?AREA_CD=kansai&PROP_CD=furukawabashi"></script>
+      <!-- <p class="footer-recommend__ttl">おすすめ物件</p>
+      <script type="text/javascript" src="/bukken_manage/bukken_manage_recommend.cgi?AREA_CD=kansai&PROP_CD=furukawabashi"></script> -->
 			<!-- //おススメ物件 -->
     </div>
   </div>
