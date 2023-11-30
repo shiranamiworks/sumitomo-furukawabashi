@@ -136,7 +136,7 @@
         <li>
           <div class="image">
           <img src="./images/location02/shops04-02.jpg">
-          <p class="annotation">提供写真</p>
+          <p class="annotation white">提供写真</p>
           </div>
           <p class="caps">イオンモール大日（約1,450m／徒歩19分）</p>
         </li>
@@ -236,7 +236,7 @@
           <div class="image">
             <img src="./images/location02/gourmet01.jpg" class="pc">
             <img src="./images/location02/gourmet01-sp.jpg" class="tb">
-            <p class="annotation">提供写真</p>
+            <p class="annotation white">提供写真</p>
           </div>
           <p class="genre">［ビストロ］</p>
           <p class="name">Bistro.iro<span> （約250m／徒歩4分）</span></p>
@@ -246,7 +246,7 @@
           <div class="image">
             <img src="./images/location02/gourmet02.jpg" class="pc">
             <img src="./images/location02/gourmet02-sp.jpg" class="tb">
-            <p class="annotation">提供写真</p>
+            <p class="annotation white">提供写真</p>
           </div>
           <p class="genre">［創作料理］</p>
           <p class="name">il tempo<span> （約360m／徒歩5分）</span></p>
@@ -276,7 +276,7 @@
           <div class="image">
             <img src="./images/location02/gourmet05.jpg" class="pc">
             <img src="./images/location02/gourmet05-sp.jpg" class="tb">
-            <p class="annotation">提供写真</p>
+            <p class="annotation white">提供写真</p>
           </div>
           <p class="genre">［カフェ］</p>
           <p class="name">ハレル食堂<span>（約380m／徒歩5分）</span></p>
@@ -678,7 +678,7 @@ $(document).on("click", ".button05", function(){
 
 
 <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix">※掲載の距離表示については地図上の概測距離を、徒歩分数表示については80mを１分として算出し、端数を切り上げたものです。自転車分数表示については実測（三井ショッピングパークららぽーと門真・三井アウトレットパーク大阪門真、コストコ門真倉庫店、イオンモール大日の起点：現地／三井ショッピングパークららぽーと門真・三井アウトレットパーク大阪門真、コストコ門真倉庫店、イオンモール大日の着点：各施設／計測：2023年9月4日AM10時～PM5時）によるものです。但し、天候不順、周辺の交通状況（朝・夕の混雑、交通事故等）等により大幅な遅延が生じる場合があります。<br>※掲載のエリアマップは一部道路・施設等を抜粋して表記しています。<br>※掲載の環境写真は2023年8月・10月に撮影。<br>※店舗・施設の内容等は将来変わる場合があります。<br>※掲載の情報は2023年8月現在のものです。<br>※エリアマップの徒歩ルート・掲載の徒歩分数・距離表示は2023年10月現在のものです。「門真市幸福東土地区画整理事業」（事業主：門真市）に伴う地区外道路4号線および交流広場・交通広場の整備（2026年度事業完了予定）により徒歩分数・ルートが変更になる予定です。また、地区外道路4号線および交流広場・交通広場は門真市の所有であり、「シティタワー古川橋」の竣工時に完成していない可能性があります。あらかじめご了承ください。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※掲載の距離表示については地図上の概測距離を、徒歩分数表示については80mを１分として算出し、端数を切り上げたものです。自転車分数表示については実測（三井ショッピングパークららぽーと門真・三井アウトレットパーク大阪門真、コストコ門真倉庫店、イオンモール大日の起点：現地／三井ショッピングパークららぽーと門真・三井アウトレットパーク大阪門真、コストコ門真倉庫店、イオンモール大日の着点：各施設／計測：2023年9月4日AM10時～PM5時）によるものです。但し、天候不順、周辺の交通状況（朝・夕の混雑、交通事故等）等により大幅な遅延が生じる場合があります。<br>※掲載のエリアマップは一部道路・施設等を抜粋して表記しています。<br>※掲載の環境写真は2023年8月・10月に撮影。<br>※店舗・施設の内容等は将来変わる場合があります。<br>※掲載の情報は2023年8月現在のものです。<br>※エリアマップの徒歩ルート・掲載の徒歩分数・距離表示は2023年10月現在のものです。「門真市幸福東土地区画整理事業」(事業主：門真市幸福東土地区画整理組合)に伴う地区外道路4号線および交流広場・交通広場の整備（2026年度事業完了予定）により徒歩分数・ルートが変更になる予定です。また、地区外道路4号線および交流広場・交通広場は門真市の所有であり、「シティタワー古川橋」の竣工時に完成していない可能性があります。あらかじめご了承ください。</p></div>
 </main>
 
   <div class="location-link location-link--2">
