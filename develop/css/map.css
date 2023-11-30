@@ -32,6 +32,7 @@
 
   header {
     display: block;
+    border-bottom: none;
   }
   h2.ttl {
     margin: -4mm 0 0 !important;
