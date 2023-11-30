@@ -701,6 +701,7 @@ div.header-btn.bg_btn {
 }
 .header-sns {
     display: flex;
+    display: none;
     align-items: center;
     padding: 5px 0 0 5px;
 }
@@ -931,6 +932,7 @@ div.header-btn.bg_btn {
     }
     .sp-menu-sns a {
         display: block;
+        display: none;
         margin: 0 20px;
         line-height: 0;
     }

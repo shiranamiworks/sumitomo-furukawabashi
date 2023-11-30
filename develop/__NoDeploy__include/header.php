@@ -147,7 +147,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
           </ul>
           <div class="header-sns">
             <a href="https://twitter.com/furukawabashi" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
-            <!-- <a href="https://www.instagram.com/furukawabashi" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a> -->
+            <a href="https://www.instagram.com/furukawabashi" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
           </div>
         </div>
       </div>
@@ -175,7 +175,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
     </nav>
     <div class="sp-menu-sns d-flex justify-content-center align-items-center">
       <a href="https://twitter.com/furukawabashi" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
-       <!-- <a href="https://www.instagram.com/furukawabashi" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a> -->
+       <a href="https://www.instagram.com/furukawabashi" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
     </div>
   </div><!--//sp-menu -->
 </header>
