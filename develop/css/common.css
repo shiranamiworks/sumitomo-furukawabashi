@@ -1130,7 +1130,14 @@ div.header-btn.bg_btn {
 	width:137px;
 	margin:10px;
 }
-
+.footer-wrapper__logo_jv li:nth-child(2){
+	width:116px;
+	margin:10px;
+}
+.footer-wrapper__logo_jv li:last-child{
+	width:150px;
+	margin:10px;
+}
 
 .footer-wrapper nav ul {
     display: flex;
@@ -1318,7 +1325,15 @@ div.header-btn.bg_btn {
         flex-wrap: wrap;
     }
     .footer-wrapper__logo_jv li{
-    	width:130px;
+    	width:137px;
+        margin: 5vw auto 0;
+    }
+    .footer-wrapper__logo_jv li:nth-child(2){
+    	width:116px;
+        margin: 5vw auto 0;
+    }
+    .footer-wrapper__logo_jv li:last-child{
+    	width:150px;
         margin: 5vw auto 0;
     }
 
