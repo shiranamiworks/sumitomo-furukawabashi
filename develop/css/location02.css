@@ -147,8 +147,9 @@
   color: #2c4a5f;
 }
 .location02 .intro .tit {
-  font-size: 30px;
+  font-size: 34px;
   line-height: 2;
+  letter-spacing: 0.12em;
   margin-bottom: 30px;
   color: #002d43;
 }
@@ -159,8 +160,9 @@
   color: #002d43;
 }
 .location02 .intro .text {
-  font-size: 24px;
+  font-size: 28px;
   line-height: 2;
+  letter-spacing: 0.12em;
   color: #002d43;
   margin: 40px auto;
 }
@@ -179,9 +181,12 @@
 }
 .location02 .shops .column02 .txt01 {
   font-size: 24px;
-  background: #a7dcf7;
+  background: rgba(167, 220, 247, 0.4);
   padding: 10px 0 10px 10px;
   margin-bottom: 20px;
+}
+.location02 .shops .column02 .txt01.color {
+  background: rgba(254, 230, 125, 0.3);
 }
 .location02 .shops .column02 .txt02 {
   font-size: 16px;
@@ -254,7 +259,7 @@
   width: 12%;
 }
 .location02 .shops .shops04 .blue-bg {
-  background: rgba(168, 217, 214, 0.3);
+  background: rgba(184, 226, 244, 0.3);
   padding: 20px 30px;
   box-sizing: border-box;
 }
@@ -280,7 +285,8 @@
   margin-top: -200px;
 }
 .location02 .convenience .tit {
-  font-size: 30px;
+  font-size: 34px;
+  letter-spacing: 0.12em;
   margin-bottom: 40px;
   color: #002d43;
 }
@@ -382,8 +388,9 @@
   color: #2c4a5f;
 }
 .location02 .gourmet .tit {
-  font-size: 30px;
+  font-size: 34px;
   line-height: 2;
+  letter-spacing: 0.12em;
   margin-bottom: 30px;
   color: #002d43;
 }
@@ -400,9 +407,9 @@
   margin: 20px 0 10px;
 }
 .location02 .gourmet .column02 .name {
-  font-size: 24px;
-  padding-bottom: 20px;
-  margin-bottom: 20px;
+  font-size: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
   border-bottom: 1px solid;
   letter-spacing: 0.08em;
 }
@@ -410,7 +417,7 @@
   font-size: 14px;
 }
 .location02 .gourmet .column02 .info {
-  font-size: 22px;
+  font-size: 16px;
   line-height: 1.8;
 }
 .location02 .child {
@@ -425,8 +432,9 @@
   box-sizing: border-box;
 }
 .location02 .child .content .tit {
-  font-size: 30px;
+  font-size: 34px;
   line-height: 1.8;
+  letter-spacing: 0.12em;
   margin-bottom: 30px;
   color: #002d43;
 }
@@ -472,6 +480,12 @@
   font-size: 20px;
   line-height: 1.6;
 }
+.location02 .child .box .column02 li {
+  width: 57%;
+}
+.location02 .child .box .column02 li:last-child {
+  width: 40%;
+}
 .location02 .child .column02.list {
   margin-top: 60px;
 }
@@ -483,20 +497,21 @@
   margin-right: auto;
 }
 .location02 .child .column02.list .name {
-  font-size: 22px;
+  font-size: 18px;
   line-height: 1.6;
   margin: 10px 0 40px;
 }
 .location02 .child .column02.list .name span {
-  font-size: 16px;
+  font-size: 12px;
 }
 .location02 .park {
   text-align: center;
   margin-bottom: 140px;
 }
 .location02 .park .tit {
-  font-size: 30px;
+  font-size: 34px;
   line-height: 1.8;
+  letter-spacing: 0.12em;
   margin-bottom: 50px;
   color: #002d43;
 }
@@ -577,8 +592,9 @@
 .location02 .life-info .change-buttons .button {
   position: relative;
   display: block;
-  font-size: 13px;
-  padding: 20px 0;
+  font-size: 10px;
+  line-height: 1.3;
+  padding: 15px 0;
   background: #11374c;
   color: #fff;
   box-sizing: border-box;
@@ -621,12 +637,42 @@
 .location02 .life-info .image img {
   width: 100%;
 }
+@media screen and (max-width: 1024px) {
+  .location02 .life-info .change-buttons {
+    text-align: center;
+    margin: 20px auto;
+    border: none;
+  }
+  .location02 .life-info .change-buttons li {
+    display: inline-block;
+    width: 48%;
+    margin-bottom: 10px;
+  }
+  .location02 .life-info .change-buttons .button {
+    font-size: 12px;
+    padding: 10px 0;
+  }
+  .location02 .life-info .change-buttons .button.current {
+    position: inherit;
+    pointer-events: none;
+    background: #fff;
+    color: #11374c;
+    border: 1px solid #11374c;
+    width: 100%;
+  }
+  .location02 .life-info .change-buttons .button:hover {
+    border: 1px solid #11374c;
+  }
+}
 @media screen and (max-width: 768px) {
   .location02 sp {
     display: block;
   }
   .location02 pc {
     display: none;
+  }
+  .location02 main {
+    background: none;
   }
   .location02 .main-visual {
     padding-bottom: 100px;
@@ -649,7 +695,7 @@
   }
   .location02 .intro {
     text-align: left;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
   }
   .location02 .intro .en {
     font-size: 36px;
@@ -663,30 +709,327 @@
     text-align: left;
     font-size: 16px;
     line-height: 2;
+    margin-bottom: 20px;
+  }
+  .location02 .intro .text {
+    font-size: 18px;
+    line-height: 1.8;
+    letter-spacing: 0;
+    margin: 20px auto;
+  }
+  .location02 .intro .lead01 {
+    font-size: 14px;
+    line-height: 1.8;
+    margin-bottom: 0;
+  }
+  .location02 .shops {
+    margin-bottom: 60px;
+  }
+  .location02 .shops .column02 {
+    text-align: left;
+  }
+  .location02 .shops .column02 .txt01 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .location02 .shops .column02 .txt02 {
+    font-size: 14px;
+    line-height: 2;
+    margin-bottom: 20px;
+  }
+  .location02 .shops .column02.list01 {
+    margin-bottom: 40px;
+  }
+  .location02 .shops .column02.list01 li {
+    width: 100%;
+  }
+  .location02 .shops .column02.list01 li:last-child {
+    width: 100%;
+  }
+  .location02 .shops .column02.list01 li:last-child .image {
+    display: inline-block;
+    width: 49%;
+  }
+  .location02 .shops .column02.list02 {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+  }
+  .location02 .shops .column02.list02 .logo {
+    width: 60%;
+    margin: 0 0 10px;
+  }
+  .location02 .shops .column02.list02 li {
+    width: 100%;
+  }
+  .location02 .shops .column02.list02 li:last-child {
+    width: 100%;
+  }
+  .location02 .shops .column02.list02 .bottom {
+    margin-bottom: 10px;
+  }
+  .location02 .shops .column02.list02 .imgs {
+    margin-top: 20px;
+  }
+  .location02 .shops .column02.list02 .imgs .image {
+    display: inline-block;
+    width: 49%;
+  }
+  .location02 .shops .column02.list03 {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+  }
+  .location02 .shops .column02.list03 .logo {
+    margin: 0 0 10px auto;
+  }
+  .location02 .shops .column02.list03 li {
+    width: 100%;
+  }
+  .location02 .shops .column02.list03 li:last-child {
+    width: 100%;
+  }
+  .location02 .shops .shops04 .text {
+    text-align: left;
+    font-size: 22px;
+  }
+  .location02 .shops .shops04 .text .logo {
+    float: right;
+    text-align: right;
+    width: 23%;
+    margin-bottom: 10px;
+  }
+  .location02 .shops .shops04 .blue-bg .lead {
+    font-size: 14px;
+  }
+  .location02 .shops .shops04 .blue-bg .caps {
+    text-align: right;
+  }
+  .location02 .convenience {
+    text-align: left;
+    margin-bottom: 60px;
+  }
+  .location02 .convenience .texts {
+    margin-top: -40px;
+  }
+  .location02 .convenience .tit {
+    font-size: 22px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+  }
+  .location02 .convenience .lead {
+    font-size: 14px;
+    line-height: 2;
+    margin-bottom: 40px;
+  }
+  .location02 .convenience .column02 .name {
+    font-size: 24px;
+    padding-top: 0;
+  }
+  .location02 .convenience .column02 .min {
+    float: right;
+    font-size: 30px;
+  }
+  .location02 .convenience .column02 .min span {
+    font-size: 60px;
+  }
+  .location02 .convenience .column02 .distance {
+    clear: both;
+    text-align: right;
+    font-size: 10px;
+  }
+  .location02 .convenience .column02 .txt01 {
+    text-align: left;
+    font-size: 18px;
+    padding: 10px 0;
+  }
+  .location02 .convenience .column02 .txt02 {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .location02 .convenience .column02 .txt03 {
+    clear: both;
+    text-align: left;
+    font-size: 16px;
+    line-height: 2;
+    padding-top: 20px;
+    border-top: 1px solid;
+  }
+  .location02 .convenience .column02.list01 li {
+    width: 100%;
+  }
+  .location02 .convenience .column02.list01 li:last-child {
+    width: 100%;
+  }
+  .location02 .convenience .column02.list02 {
+    margin-top: 40px;
+  }
+  .location02 .convenience .column02.list02 li {
+    width: 100%;
+  }
+  .location02 .convenience .column02.list02 li:last-child {
+    width: 100%;
+  }
+  .location02 .convenience .column02.list02 .name {
+    font-size: 24px;
+  }
+  .location02 .convenience .column02.list03 li {
+    vertical-align: middle;
+    width: 100%;
+  }
+  .location02 .convenience .column02.list03 li:last-child {
+    width: 100%;
+  }
+  .location02 .convenience .column02.list03 .name {
+    font-size: 24px;
+  }
+  .location02 .gourmet {
+    text-align: left;
+    margin-bottom: 60px;
+  }
+  .location02 .gourmet .en {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .location02 .gourmet .tit {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .location02 .gourmet .column02 li {
+    margin-bottom: 30px;
+  }
+  .location02 .gourmet .column02 .genre {
+    font-size: 12px;
+    margin: 10px 0 10px;
+  }
+  .location02 .gourmet .column02 .name {
+    font-size: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  .location02 .gourmet .column02 .name span {
+    font-size: 12px;
+  }
+  .location02 .gourmet .column02 .info {
+    font-size: 16px;
+  }
+  .location02 .child {
+    text-align: left;
+    margin-bottom: 60px;
+  }
+  .location02 .child .content {
+    padding: 20px;
+  }
+  .location02 .child .content .tit {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .location02 .child .content .lead {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .location02 .child .box .column02 {
+    width: 90%;
+  }
+  .location02 .child .box .txt01 {
+    font-size: 18px;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  .location02 .child .box .txt02 {
+    font-size: 18px;
+  }
+  .location02 .child .box .txt03 {
+    font-size: 14px;
+  }
+  .location02 .child .box .txt04 {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  .location02 .child .box .column02 li {
+    width: 100%;
+  }
+  .location02 .child .box .column02 li:last-child {
+    width: 100%;
+  }
+  .location02 .child .column02.list {
+    margin-top: 40px;
+  }
+  .location02 .child .column02.list li {
+    width: 100%;
+  }
+  .location02 .child .column02.list li:nth-child(2n) {
+    margin-right: auto;
+  }
+  .location02 .child .column02.list .name {
+    font-size: 18px;
+    margin: 10px 0 20px;
+  }
+  .location02 .child .column02.list .name span {
+    font-size: 14px;
+  }
+  .location02 .park {
+    text-align: left;
+    margin-bottom: 60px;
+  }
+  .location02 .park .tit {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .location02 .park .texts {
+    margin: 0 auto 20px;
+  }
+  .location02 .park .texts .min {
+    float: right;
+    font-size: 16px;
+  }
+  .location02 .park .texts .min .garamond {
+    font-size: 26px;
+  }
+  .location02 .park .texts .min .num {
+    font-size: 50px;
+  }
+  .location02 .park .texts .name {
+    float: left;
+    font-size: 22px;
+    padding-top: 20px;
+  }
+  .location02 .park .lead {
+    font-size: 14px;
+  }
+  .location02 .park .column02 li {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .location02 .park .column02 li:last-child {
+    width: 100%;
+  }
+  .location02 .park .column02 li:last-child .image {
+    display: inline-block;
+    width: 49%;
+  }
+  .location02 .park .column02 .bottom {
     margin-bottom: 0;
   }
   .location02 .life-info {
     margin-bottom: 40px;
   }
-  .location02 .life-info .title {
-    font-size: 20px;
+  .location02 .life-info .tit {
+    font-size: 22px;
+    margin-bottom: 20px;
   }
-  .location02 .life-info .text {
-    text-align: left;
-    font-size: 16px;
-    margin: 20px 0 10px;
+  .location02 .life-info .map {
+    margin-bottom: 60px;
   }
-  .location02 .life-info .change-buttons {
-    text-align: center;
-    margin: 20px auto;
+  .location02 .life-info .list {
+    margin: 0 auto 20px;
   }
-  .location02 .life-info .change-buttons li {
-    display: block;
+  .location02 .life-info .list li {
     width: 100%;
     margin-bottom: 10px;
   }
-  .location02 .life-info .change-buttons .button {
-    font-size: 14px;
-    padding: 10px 0;
+  .location02 .life-info .list li.pc {
+    display: none;
+  }
+  .location02 .life-info .list li:last-child {
+    margin-right: auto;
   }
 }/*# sourceMappingURL=location02.css.map */

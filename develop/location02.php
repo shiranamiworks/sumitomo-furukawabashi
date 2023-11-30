@@ -82,11 +82,11 @@
       </ul>
       <ul class="column02 list02">
         <li>
-          <div class="image bottom">
+          <div class="image bottom pc">
           <img src="./images/location02/shops02-02.jpg">
           <p class="annotation white">提供写真</p>
           </div>
-          <div class="image">
+          <div class="image pc">
           <img src="./images/location02/shops02-03.jpg">
           <p class="annotation">提供写真</p>
           </div>
@@ -95,10 +95,20 @@
           <div class="image logo">
           <img src="./images/location02/shops02-01.png">
           </div>
-          <p class="txt01">三井アウトレットパーク 大阪門真</p>
+          <p class="txt01 color">三井アウトレットパーク 大阪門真</p>
           <p class="txt02">国内外の有名メーカー＆ブランド・セレクトショップから選りすぐりの店舗が集結。スポーツアウトドア関連のショップも充実しています。</p>
           <div class="image">
           <img src="./images/location02/shops02-04.svg">
+          </div>
+          <div class="imgs sp">
+          <div class="image bottom">
+          <img src="./images/location02/shops02-02.jpg">
+          <p class="annotation white">提供写真</p>
+          </div>
+          <div class="image">
+          <img src="./images/location02/shops02-03.jpg">
+          <p class="annotation">提供写真</p>
+          </div>
           </div>
         </li>
       </ul>
@@ -120,7 +130,7 @@
 
       <div class="shops04">
       <p class="text">約160店舗の専門店が集積する「イオンモール大日」。<img src="./images/location02/shops04-01.png" class="logo"></p>
-      <div class="blue-bg">
+      <div class="blue-bg clearfix">
       <p class="lead">スーパーマーケット「イオンスタイル大日」を核店舗とするショッピングモール。計４フロアに、ファッション、グッズ、グルメ＆フード、サービスなど、様々なジャンルの専門店が集まっています。</p>
       <ul class="column02 list04">
         <li>
@@ -155,7 +165,7 @@
       </div>
       <ul class="column02 list01">
         <li>
-          <div class="image">
+          <div class="image pc">
           <img src="./images/location02/convenience02.jpg">
           </div>
         </li>
@@ -165,6 +175,9 @@
           <p class="distance">（約430m）</p>
           <p class="txt01">暮らしを支える店舗が揃う、<br class="pc">普段使いの商業施設。</p>
           <p class="txt02">「イオン古川橋駅前店」が大規模リニューアルされ、2023年11月に「そよら古川橋駅前」としてリニューアルオープン。「イオンスタイル古川橋」を中心に、ファッション、雑貨、飲食、サービスなど、日常を豊かに彩る店舗が揃っています。</p>
+          <div class="image sp">
+          <img src="./images/location02/convenience02.jpg">
+          </div>
         </li>
       </ul>
       <ul class="column02 list02">
@@ -243,7 +256,7 @@
           <div class="image">
             <img src="./images/location02/gourmet03.jpg" class="pc">
             <img src="./images/location02/gourmet03-sp.jpg" class="sp">
-            <p class="annotation">提供写真</p>
+            <p class="annotation white">提供写真</p>
           </div>
           <p class="genre">［カフェ］</p>
           <p class="name">PAJERO<span>（約470m／徒歩6分）</span></p>
