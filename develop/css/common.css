@@ -1313,12 +1313,13 @@ div.header-btn.bg_btn {
     .footer-wrapper__logo_jv {
         width:95%;
         margin-top: 10vw;
-        display:flex;
+        display:block;
         justify-content:center;
         flex-wrap: wrap;
     }
     .footer-wrapper__logo_jv li{
     	width:130px;
+        margin: 5vw auto 0;
     }
 
     .copyright {

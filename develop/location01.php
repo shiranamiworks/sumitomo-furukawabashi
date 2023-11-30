@@ -47,7 +47,7 @@
     </div>
       <div class="image img01">
         <img src="./images/location01/intro01.jpg" alt="" class="pc">
-        <img src="./images/location01/intro01-sp.jpg" alt="" class="sp">
+        <img src="./images/location01/intro01-sp.jpg" alt="" class="tb">
       </div>
       <p class="mini">1.三井ショッピングパーク ららぽーと門真・三井アウトレットパーク 大阪門真（約1,470m／徒歩19分）　2.門真はすはな中学校周辺（約510m／徒歩7分）　3.門真市立総合体育館（約400m／徒歩5分）</p>
   </section><!-- intro -->
@@ -69,7 +69,7 @@
       </div>
       <div class="box">
         <p class="txt01">門真市中町土地区画整理事業エリア内のまちづくり<br class="pc"><span>〈2018年5月完了〉</span></p>
-        <p class="lead">中町地区では、質の高い都市デザインによる魅力的な都市景観の創造を通じた、美しく親しみのあるまちづくりを推進。。シンボリックな外観を設えた中学校や緑あふれる歩行者動線の整備を通じ、門真市をリードする先進的な街並が形成されています。</p>
+        <p class="lead">中町地区では、質の高い都市デザインによる魅力的な都市景観の創造を通じた、美しく親しみのあるまちづくりを推進。シンボリックな外観を設えた中学校や緑あふれる歩行者動線の整備を通じ、門真市をリードする先進的な街並が形成されています。</p>
         <ul class="column03">
           <li>
             <div class="image">
