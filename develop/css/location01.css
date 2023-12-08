@@ -392,6 +392,9 @@
 .location01 .facility .content .column02.list01 li:last-child {
   width: 66%;
 }
+.location01 .facility .content .column02.list01 li:last-child .annotation {
+  bottom: -14px;
+}
 .location01 .facility .content .column02.list02 {
   margin-top: 30px;
 }

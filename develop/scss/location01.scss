@@ -403,6 +403,9 @@
         }
         li:last-child {
           width: 66%;
+          .annotation{
+            bottom: -14px;
+          }
         }
       }
       .column02.list02 {

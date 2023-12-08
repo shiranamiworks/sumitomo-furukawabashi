@@ -35,7 +35,7 @@
 
   <header class="main-visual clearfix">
     <!-- <h2 class="page-lead gothic">Hello New World.</h2> -->
-   <div class="image"><img src="./images/location01/mv.png" alt="" class="pc"><img src="./images/location01/mv-sp.png" alt="" class="tb"><p class="annotation">門真はすはな中学校周辺（約510m／徒歩7分）</p></div>
+   <div class="image"><img src="./images/location01/mv.png" alt="" class="pc"><img src="./images/location01/mv-sp.png" alt="" class="tb"><p class="annotation">門真市総合体育館（約510m／徒歩7分）</p></div>
   </header><!-- main-visual -->
 
 
@@ -91,7 +91,7 @@
             <div class="image">
               <img src="./images/location01/area04.jpg" alt="">
             </div>
-            <p class="caps">門真市立総合体育館（約400m／徒歩5分）<br>〈2016年竣工〉</p>
+            <p class="caps">門真市立総合体育館（約400m／徒歩5分）<br>〈2017年竣工〉</p>
             <p class="txt02">幅広く交流を育む<br class="pc">市立総合体育館</p>
             <p class="txt03">「誰もが身近に利用しやすい生涯スポーツ推進拠点」をコンセプトにした体育館。幼児体育室や室内ランニングコースなど、多様な世代がスポーツに親しめる環境が整っています。</p>
           </li>
@@ -165,7 +165,7 @@
           <p class="txt02">子供たちの健やかな成長を育む、<br class="pc">緑豊かな学びの空間。</p>
           <div class="image">
             <img src="./images/location01/ring02.jpg" alt="">
-            <p class="annotation">image photo</p>
+            <p class="annotation white">学びの輪完成予想CG【提供画像】※3</p>
           </div>
           <p class="txt03">緑の中で、子どもたちが自由に走り回れる広場。身近な自然や地域のイベントを通じ、学びを深められる空間です。タワーマンション内にも子どもたちの交流の場となるキッズコミュニティスペースを計画しています。</p>
         </li>
@@ -188,7 +188,7 @@
           <p class="txt03">街区の入り口に広がる広場。エリアマネジメント活動の中心として活気と開放感あふれる空間が、住まう方、訪れる方を優しく出迎えます。</p>
         </li>
       </ul>
-      <p class="caps">※3. 出典：門真市ホームページ（門真市幸福町・垣内町地区まちづくり用地活用事業）提案概要書<br>※掲載の完成予想CGは計画段階の図面を基に描き起こしたものに人物をCG合成したもので、実際とは多少異なります。また、形状の細部および設備機器等については省略しております。</p>
+      <p class="caps">※3. 出典：門真市ホームページ（門真市幸福町・垣内町地区まちづくり用地活用事業）提案概要書<br>※掲載の完成予想CGは計画段階の図面を基に描き起こしたものに人物をCG合成したもので、実際とは多少異なります。また、形状の細部および設備機器等については省略しております。<br>※外構・植栽計画、家具・調度品の形状・色等は今後変更される場合がありますので、あらかじめご了承ください。</p>
       </div><!-- inner -->
     </div><!-- design -->
   </section><!-- project -->
@@ -200,7 +200,7 @@
     <p class="tit">（仮称）門真市立生涯学習複合施設 <br class="sp tb"><span>【2025年度完成予定】</span></p>
     <div class="content">
       <p class="text">地域一体のコミュニティを育む文化と学びの交流拠点。</p>
-      <p class="lead">タワーマンションの南東側には、屋上へ人を引き込むスパイラルガーデンと<br class="pc">内部の吹き抜けが立体的なつながりを生み出す生涯学習施設が誕生予定。<br>図書館と文化会館の機能を併せ持つこの施設から市民活動と緑が溢れ出し、<br class="pc">街区全体に心地よい賑わいと潤いをもたらします。</p>
+      <p class="lead">タワーマンションの南東側には、屋上へ人を引き込むスパイラルガーデンと<br class="pc">内部の吹き抜けが立体的なつながりを生み出す生涯学習複合施設が誕生予定。<br>図書館と文化会館の機能を併せ持つこの施設から市民活動と緑が溢れ出し、<br class="pc">街区全体に心地よい賑わいと潤いをもたらします。</p>
       <div class="image img01">
       <img src="./images/location01/facility01.jpg" alt="">
       <p class="annotation">外観イメージ<br>（株式会社遠藤克彦建築研究所提供）</p>
@@ -209,7 +209,7 @@
         <ul class="column02 list01">
           <li>
             <p class="txt01">周辺環境と呼応した<br class="pc">プログラム配置</p>
-            <p class="txt02">建物の西側には、街に開かれたカフェテリアが入居予定。また、多様な利用シーンに適切に対応するべく、各階で明快に機能を区分したフロアごとのゾーニングを採用し、来館者が快適に過ごせる施設づくりを目指しています。</p>
+            <p class="txt02">建物の西側には、街に開かれたカフェが入居予定。また、多様な利用シーンに適切に対応するべく、各階で明快に機能を区分したフロアごとのゾーニングを採用し、来館者が快適に過ごせる施設づくりを目指しています。</p>
           </li>
           <li>
             <div class="image">
@@ -232,7 +232,7 @@
           </li>
           <li>
             <p class="txt01">歩行者中心のまちづくりに寄与する<br class="pc">歩車分離の計画</p>
-            <p class="txt02">建物１階をセットバックし、地上レベルに軒下の歩行空間を創出。 また、歩車分離の動線によって、歩行者中心のウォーカブルな街づくりに寄与します。 </p>
+            <p class="txt02">建物の軒下に歩行空間を創出。 また、歩車分離の動線によって、歩行者中心のウォーカブルな街づくりに寄与します。 </p>
             <div class="image">
             <img src="./images/location01/facility04.jpg" alt="">
             <p class="annotation">概念図（門真市提供）</p>
