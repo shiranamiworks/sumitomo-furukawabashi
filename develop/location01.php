@@ -165,7 +165,7 @@
           <p class="txt02">子供たちの健やかな成長を育む、<br class="pc">緑豊かな学びの空間。</p>
           <div class="image">
             <img src="./images/location01/ring02.jpg" alt="">
-            <p class="annotation white">学びの輪完成予想CG【提供画像】※3</p>
+            <p class="annotation white">学びの輪完成予想CG</p>
           </div>
           <p class="txt03">緑の中で、子どもたちが自由に走り回れる広場。身近な自然や地域のイベントを通じ、学びを深められる空間です。タワーマンション内にも子どもたちの交流の場となるキッズコミュニティスペースを計画しています。</p>
         </li>
@@ -188,7 +188,7 @@
           <p class="txt03">街区の入り口に広がる広場。エリアマネジメント活動の中心として活気と開放感あふれる空間が、住まう方、訪れる方を優しく出迎えます。</p>
         </li>
       </ul>
-      <p class="caps">※3. 出典：門真市ホームページ（門真市幸福町・垣内町地区まちづくり用地活用事業）提案概要書<br>※掲載の完成予想CGは計画段階の図面を基に描き起こしたものに人物をCG合成したもので、実際とは多少異なります。また、形状の細部および設備機器等については省略しております。<br>※外構・植栽計画、家具・調度品の形状・色等は今後変更される場合がありますので、あらかじめご了承ください。</p>
+      <p class="caps">※3. 出典：門真市ホームページ（門真市幸福町・垣内町地区まちづくり用地活用事業）提案概要書<br>※賑わいの輪・学びの輪完成予想CGは計画段階の図面を基に描き起こしたものに人物等をCG合成したもので、実際とは多少異なります。また、形状の細部および設備機器等については省略しております。<br>※外構・植栽計画、家具・調度品の形状・色等は今後変更される場合がありますので、あらかじめご了承ください。</p>
       </div><!-- inner -->
     </div><!-- design -->
   </section><!-- project -->
@@ -197,7 +197,7 @@
 
   <section class="sections facility clearfix">
     <div class="inner">
-    <p class="tit">（仮称）門真市立生涯学習複合施設 <br class="sp tb"><span>【2025年度完成予定】</span></p>
+    <p class="tit">（仮称）門真市立生涯学習複合施設 <br class="sp tb"><span>【2025年度竣工予定】</span></p>
     <div class="content">
       <p class="text">地域一体のコミュニティを育む文化と学びの交流拠点。</p>
       <p class="lead">タワーマンションの南東側には、屋上へ人を引き込むスパイラルガーデンと<br class="pc">内部の吹き抜けが立体的なつながりを生み出す生涯学習複合施設が誕生予定。<br>図書館と文化会館の機能を併せ持つこの施設から市民活動と緑が溢れ出し、<br class="pc">街区全体に心地よい賑わいと潤いをもたらします。</p>
@@ -214,12 +214,12 @@
           <li>
             <div class="image">
             <img src="./images/location01/facility02.jpg" alt="">
-            <p class="annotation">ギャラリーウォークイメージ（門真市提供）</p>
+            <p class="annotation">ギャラリーウォークイメージ<br>（株式会社遠藤克彦建築研究所提供）</p>
             </div>
           </li>
         </ul>
         </div><!-- white-bg -->
-        <p class="caps">※基本設計のイメージであるため、実施設計より変更になる可能性があります。</p>
+        <p class="caps">※画像については実施設計中に詳細を検討していくため、実際のイメージとは異なります。</p>
 
         <ul class="column02 list02">
           <li>
@@ -227,7 +227,7 @@
             <p class="txt02">建物周囲をらせん状に取り囲むテラス空間を設置。屋上には、読書の合間の休憩や子どもの遊び場として機能する屋上デッキが整備される予定です。</p>
             <div class="image">
             <img src="./images/location01/facility03.jpg" alt="">
-            <p class="annotation">概念図（門真市提供）</p>
+            <p class="annotation">概念図</p>
             </div>
           </li>
           <li>
@@ -235,7 +235,7 @@
             <p class="txt02">建物の軒下に歩行空間を創出。 また、歩車分離の動線によって、歩行者中心のウォーカブルな街づくりに寄与します。 </p>
             <div class="image">
             <img src="./images/location01/facility04.jpg" alt="">
-            <p class="annotation">概念図（門真市提供）</p>
+            <p class="annotation">概念図</p>
             </div>
           </li>
         </ul>
