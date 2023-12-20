@@ -60,18 +60,17 @@
       <img src="./images/concept/img04.jpg" alt="">
       <p class="annotation white">学びの輪完成予想CG</p>
     </div>
-    <div class="image img03">
-      <img src="./images/concept/img03.jpg" alt="" class="pc">
-      <img src="./images/concept/img03-sp.jpg" alt="" class="tb">
-    </div>
-    <p class="caps tb">（仮称）門真市立生涯学習複合施設外観イメージ（株式会社遠藤克彦建築研究所提供）<br>※画像については実施設計中に詳細を検討していくため、実際のイメージとは異なります。<br>（仮称）門真市立生涯学習複合施設（事業主：門真市）は本物件敷地外の施設となります。</p>
-    <div class="texts tb">
+    <div class="texts">
       <div class="inner">
         <p class="text">新しいコミュニティを育む、文化と学びの交流拠点。</p>
         <p class="lead">この街での暮らしにさらなる豊かさをもたらすのが、（仮称）門真市立生涯学習複合施設<sup>※4</sup>です。立体的な緑に包まれた建物には図書館と文化会館などを集約。洗練された文化と学びの交流拠点として、住む人と訪れる人の心地よいコミュニティを育んでいきます。</p>
       </div>
     </div>
-    <p class="caps pc">（仮称）門真市立生涯学習複合施設外観イメージ（株式会社遠藤克彦建築研究所提供）<br>※画像については実施設計中に詳細を検討していくため、実際のイメージとは異なります。<br>（仮称）門真市立生涯学習複合施設（事業主：門真市）は本物件敷地外の施設となります。</p>
+    <div class="image img03">
+      <img src="./images/concept/img03.jpg" alt="" class="pc">
+      <img src="./images/concept/img03-sp.jpg" alt="" class="tb">
+    </div>
+    <p class="caps">（仮称）門真市立生涯学習複合施設外観イメージ（株式会社遠藤克彦建築研究所提供）<br>※画像については実施設計中に詳細を検討していくため、実際のイメージとは異なります。<br>（仮称）門真市立生涯学習複合施設（事業主：門真市）は本物件敷地外の施設となります。</p>
   </div>
 
 
