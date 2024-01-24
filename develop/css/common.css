@@ -1078,6 +1078,7 @@ div.header-btn.bg_btn {
 /*//Ç®Ç∑Ç∑Çﬂï®åè */
 
 .footer-logo {
+    display: none;
     margin-top: 260px;
     padding: 25px 0;
     background-color: #fefcf7;
@@ -1110,6 +1111,8 @@ div.header-btn.bg_btn {
 
 .footer-wrapper {
     padding: 25px 15px;
+    margin-top: 260px;
+    border-top: solid 1px #D2D2D2;
     font-size: 1.2rem;
     letter-spacing: .05em;
 }
@@ -1149,6 +1152,24 @@ div.header-btn.bg_btn {
 
 .footer-wrapper nav ul li {
     margin: 0 25px 15px 0;
+}
+
+.footer-wrapper nav #fs_privacy li:not(:first-child){
+   border-left: 1px solid #999;
+   padding-left: 15px;
+   margin-right: 15px;
+}
+
+.footer-wrapper nav #fs_privacy li{
+  text-align: center;
+ }
+
+.footer-wrapper nav #fs_privacy li:first-child i{
+    padding-right: 7px;
+ }
+
+.footer-wrapper nav #fs_privacy li:first-child,.footer-wrapper nav #fs_privacy li:nth-child(2){
+   border-left: none;
 }
 
 .footer-wrapper nav ul li a i {
@@ -1202,7 +1223,7 @@ div.header-btn.bg_btn {
 /* footer 1400 */
 /* ---------------------------------------------------------------------------------------------------------------------------------------- */
 @media screen and (max-width: 1400px) {
-    .footer-logo {
+    .footer-wrapper{
         margin-top: 140px;
     }
 }
@@ -1305,6 +1326,13 @@ div.header-btn.bg_btn {
     .footer-wrapper nav ul li {
         width: 100%;
         margin: 0 0 1em;
+    }
+    .footer-wrapper nav #fs_privacy li:not(:first-child) {
+        width: 50%;
+        margin-right: 0;
+    }
+    .footer-wrapper nav #fs_privacy li:last-child {
+        border-left: none;
     }
     .footer-wrapper nav ul li a {
         display: block;

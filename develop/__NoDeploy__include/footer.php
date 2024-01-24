@@ -99,10 +99,19 @@
   <div class="footer-wrapper f-min">
     <div class="position-relative">
       <nav>
-        <ul>
+        <ul id="fs_privacy">
+          <li><i class="fa-solid fa-angle-right"></i>個人情報保護方針・個人情報のお取り扱い</li>
           <li>
-            <a href="http://www.sumitomo-rd.co.jp/privacy_policy/" target="_blank"><i class="fa-solid fa-angle-right"></i>個人情報保護方針・個人情報のお取り扱い</a>
+            <a href="http://www.sumitomo-rd.co.jp/privacy_policy/" target="_blank">住友不動産株式会社</a>
           </li>
+          <li>
+            <a href="https://www.keihan-kiss.co.jp/privacypolicy/policy/" target="_blank">京阪電鉄不動産株式会社</a>
+          </li>
+          <li>
+            <a href="https://www.misawa.co.jp/legal/privacy1.html?_fsi=tNLLcfIe" target="_blank">ミサワホーム株式会社</a>
+          </li>
+        </ul>
+        <ul>
           <li>
             <a href="https://www.sumitomo-rd.co.jp/security_policy/" target="_blank"><i class="fa-solid fa-angle-right"></i>情報セキュリティ基本方針</a>
           </li>
