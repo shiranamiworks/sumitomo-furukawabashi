@@ -1147,7 +1147,7 @@ div.header-btn.bg_btn {
 .footer-wrapper nav ul {
     display: flex;
     flex-wrap: wrap;
-    padding-right: 160px;
+    /* padding-right: 160px; */
 }
 
 .footer-wrapper nav ul li {
