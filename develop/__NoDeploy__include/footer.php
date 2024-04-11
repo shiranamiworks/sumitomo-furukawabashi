@@ -5,7 +5,7 @@
     <script type="text/javascript" src="/bukken_manage/bukken_manage_link.cgi?AREA_CD=kansai&PROP_CD=furukawabashi"></script>
       <div class="entry-tel">
         <p>お問い合わせは住友不動産<br class="sp">「シティタワー古川橋販売センター」</p>
-        <a href="<?= $site_setting["tel_link"]?>" class="entry-tel__num"><img src="./images/common/icn_entry-tel.png" alt=""><span class="f-en">0120-330-648</span></a><br>
+        <a href="<?= $site_setting["tel_link"]?>" class="entry-tel__num"><span class="f-en">0120-330-648</span></a><br>
         <a href="mailto:ct-furukawabashi@j.sumitomo-rd.co.jp" class="disabled">ct-furukawabashi@j.sumitomo-rd.co.jp</a>
       </div>
       <p class="entry-info">営業時間／平日 午前11時～午後7時／土・日・祝日 午前10時～午後6時<br class="sp">（火曜・水曜定休・年末年始は休業）</p>
