@@ -73,3 +73,19 @@ $(window).on("load resize", function () {
 $(window).one("load resize", function () {
   $("#wrap .box").scrollLeft(688);
 });
+
+jQuery(document).ready(function($) {
+
+    // SP用 MVスライド
+    $('.image__slide').slick({
+        infinite: true,
+        dots: true,
+        arrows: false,
+        speed: 1000,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 4000,
+    });
+
+})

@@ -403,6 +403,49 @@
   padding: 50px;
   box-sizing: border-box;
 }
+.location01 .facility .content .column02.list02 li:nth-child(3) {
+  width: 100%;
+  margin-top: 30px;
+  display: inline-flex;
+}
+.location01 .facility .content .column02.list02 li:nth-child(3) .text {
+  width: 35%;
+  margin-right: 5%;
+}
+.location01 .facility .content .column02.list02 li:nth-child(3) .image {
+  width: 60%;
+}
+.location01 .facility .content .column02.list02 li:last-child {
+  width: 100%;
+  margin-top: 30px;
+}
+.location01 .facility .content .column02.list02 li:last-child .annotation {
+  bottom: auto;
+  line-height: 1.4;
+}
+.location01 .facility .content .column02.list02 li:last-child .image__slide {
+  background: #F1E9DC;
+  position: relative;
+}
+.location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li {
+  width: 10px;
+  height: 10px;
+  padding: 0;
+  margin: 0 5px;
+}
+.location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li button {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border-radius: 50%;
+  background-color: #707070;
+}
+.location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li.slick-active button {
+  background-color: rgb(80, 50, 30);
+}
+.location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li button:before {
+  display: none;
+}
 .location01 .facility .content .column02.list02 .txt02 {
   margin-bottom: 20px;
 }
@@ -613,5 +656,17 @@
   }
   .location01 .facility .content .column02.list02 li {
     padding: 20px;
+  }
+  .location01 .facility .content .column02.list02 li:nth-child(3) {
+    display: block;
+  }
+  .location01 .facility .content .column02.list02 li:nth-child(3) .text, .location01 .facility .content .column02.list02 li:nth-child(3) .image {
+    width: 100%;
+  }
+  .location01 .facility .content .column02.list02 li:last-child {
+    padding-bottom: 80px;
+  }
+  .location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li {
+    display: inline-block;
   }
 }/*# sourceMappingURL=location01.css.map */
