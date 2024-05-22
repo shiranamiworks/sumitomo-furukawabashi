@@ -255,10 +255,10 @@
             </div>
             <div class="image">
             <div class="image__slide">
-              <figure><img src="./images/location01/facility06-01.jpg" alt="" class="w_100 pc"></figure>
-              <figure><img src="./images/location01/facility06-02.jpg" alt="" class="w_100 pc"></figure>
-              <figure><img src="./images/location01/facility06-03.jpg" alt="" class="w_100 pc"></figure>
-              <figure><img src="./images/location01/facility06-04.jpg" alt="" class="w_100 pc"></figure>
+              <figure><img src="./images/location01/facility06-01.jpg" alt="" class="w_100 pc"><p class="annotation white">武雄市図書館</p></figure>
+              <figure><img src="./images/location01/facility06-02.jpg" alt="" class="w_100 pc"><p class="annotation white">武雄市図書館</p></figure>
+              <figure><img src="./images/location01/facility06-03.jpg" alt="" class="w_100 pc"><p class="annotation white">武雄市図書館</p></figure>
+              <figure><img src="./images/location01/facility06-04.jpg" alt="" class="w_100 pc"><p class="annotation white">武雄市図書館</p></figure>
               <p class="annotation">※出典：武雄市図書館HP（2024年3月現在）<br>※掲載の写真は武雄市図書館のものです。（仮称）生涯学習複合施設のものではございませんのであらかじめご了承ください。</p>
             </div><!--//image__slide -->
             <p class="annotation">※出典：武雄市図書館HP（2024年3月現在）<br>※掲載の写真は武雄市図書館のものです。（仮称）生涯学習複合施設のものではございませんのであらかじめご了承ください。</p>

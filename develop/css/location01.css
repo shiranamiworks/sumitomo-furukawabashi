@@ -427,11 +427,21 @@
   background: #F1E9DC;
   position: relative;
 }
+.location01 .facility .content .column02.list02 li:last-child .image__slide figure {
+  position: relative;
+}
+.location01 .facility .content .column02.list02 li:last-child .image__slide figure .annotation {
+  bottom: 2%;
+  right: 2%;
+}
 .location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li {
   width: 10px;
   height: 10px;
   padding: 0;
   margin: 0 5px;
+}
+.location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li:last-child {
+  display: none;
 }
 .location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li button {
   width: 100%;
