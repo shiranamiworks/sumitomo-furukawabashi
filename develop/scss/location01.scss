@@ -481,6 +481,12 @@
   @media screen and (max-width: 1300px) {
   }
   @media screen and (max-width: 1024px) {
+    .facility .content .column02.list02 li:nth-child(3){
+      display: block;
+      .text,.image{
+        width: 100%;
+      }
+    }
   } //tb
   @media screen and (max-width: 768px) {
     sp {

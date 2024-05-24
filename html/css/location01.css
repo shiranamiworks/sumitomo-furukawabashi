@@ -462,6 +462,14 @@
 .location01 .facility .content .column02.list02 .annotation {
   bottom: -10px;
 }
+@media screen and (max-width: 1024px) {
+  .location01 .facility .content .column02.list02 li:nth-child(3) {
+    display: block;
+  }
+  .location01 .facility .content .column02.list02 li:nth-child(3) .text, .location01 .facility .content .column02.list02 li:nth-child(3) .image {
+    width: 100%;
+  }
+}
 @media screen and (max-width: 768px) {
   .location01 sp {
     display: block;
