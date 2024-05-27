@@ -467,6 +467,9 @@
   .location01 .facility .content .column02.list02 li:nth-child(3) .text, .location01 .facility .content .column02.list02 li:nth-child(3) .image {
     width: 100%;
   }
+  .location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li {
+    display: inline-block;
+  }
 }
 @media screen and (max-width: 768px) {
   .location01 sp {

@@ -485,6 +485,9 @@
         width: 100%;
       }
     }
+     .facility .content .column02.list02 li:last-child .image__slide .slick-dots li{
+      display: inline-block;
+     }
   } //tb
   @media screen and (max-width: 768px) {
     sp {
