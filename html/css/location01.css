@@ -406,14 +406,14 @@
 .location01 .facility .content .column02.list02 li:nth-child(3) {
   width: 100%;
   margin-top: 30px;
-  display: inline-flex;
+  display: block;
 }
 .location01 .facility .content .column02.list02 li:nth-child(3) .text {
-  width: 35%;
-  margin-right: 5%;
+  width: 100%;
 }
 .location01 .facility .content .column02.list02 li:nth-child(3) .image {
-  width: 60%;
+  width: 80%;
+  margin: auto;
 }
 .location01 .facility .content .column02.list02 li:last-child {
   width: 100%;
@@ -440,6 +440,9 @@
   height: 10px;
   padding: 0;
   margin: 0 5px;
+}
+.location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li:nth-child(3) {
+  display: inline-block;
 }
 .location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li button {
   width: 100%;

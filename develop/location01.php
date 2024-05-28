@@ -260,7 +260,7 @@
               <figure><img src="./images/location01/facility06-03.jpg" alt="" class="w_100 pc"><p class="annotation white">提供写真</p></figure>
               <figure><img src="./images/location01/facility06-04.jpg" alt="" class="w_100 pc"><p class="annotation white">提供写真</p></figure>
             </div><!--//image__slide -->
-            <p class="annotation">※出典：武雄市図書館HP（2024年3月現在）<br>※掲載の写真は武雄市図書館のもので、（仮称）生涯学習複合施設のものではございません。あらかじめご了承ください。</p>
+            <p class="annotation">※出典：武雄市図書館HP（2024年5月現在）<br>※掲載の写真は武雄市図書館のもので、（仮称）生涯学習複合施設のものではございません。あらかじめご了承ください。</p>
             </div>
           </li>
         </ul>
