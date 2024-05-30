@@ -412,8 +412,40 @@
   width: 100%;
 }
 .location01 .facility .content .column02.list02 li:nth-child(3) .image {
-  width: 80%;
+  width: 94%;
   margin: auto;
+}
+.location01 .facility .content .column02.list02 li:nth-child(3) .modal {
+  display: none;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 3;
+}
+.location01 .facility .content .column02.list02 li:nth-child(3) .modal .modal__bg {
+  background: rgba(0, 0, 0, 0.8);
+  height: 100vh;
+  position: absolute;
+  width: 100%;
+}
+.location01 .facility .content .column02.list02 li:nth-child(3) .modal .modal__content {
+  background: #fff;
+  left: 50%;
+  padding: 10px;
+  padding-bottom: 30px;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 90%;
+}
+.location01 .facility .content .column02.list02 li:nth-child(3) .modal .modal__content .popup {
+  margin: 30px auto;
+}
+.location01 .facility .content .column02.list02 li:nth-child(3) .modal .modal__content a {
+  display: block;
+  text-align: center;
 }
 .location01 .facility .content .column02.list02 li:last-child {
   width: 100%;
@@ -684,6 +716,28 @@
   }
   .location01 .facility .content .column02.list02 li:nth-child(3) .text, .location01 .facility .content .column02.list02 li:nth-child(3) .image {
     width: 100%;
+  }
+  .location01 .facility .content .column02.list02 li:nth-child(3) .text .swipe-img, .location01 .facility .content .column02.list02 li:nth-child(3) .image .swipe-img {
+    overflow-x: scroll;
+  }
+  .location01 .facility .content .column02.list02 li:nth-child(3) .text .swipe-img img, .location01 .facility .content .column02.list02 li:nth-child(3) .image .swipe-img img {
+    width: 835px !important;
+    max-width: none;
+  }
+  .location01 .facility .content .column02.list02 li:nth-child(3) .text .annotation, .location01 .facility .content .column02.list02 li:nth-child(3) .image .annotation {
+    bottom: -15px;
+  }
+  .location01 .facility .content .column02.list02 li:nth-child(3) .swipe {
+    display: block;
+    text-align: center;
+    margin: 20px auto 40px;
+  }
+  .location01 .facility .content .column02.list02 li:nth-child(3) .swipe img {
+    max-width: 75px;
+    width: 20%;
+    height: auto;
+    margin: auto;
+    pointer-events: none;
   }
   .location01 .facility .content .column02.list02 li:last-child {
     padding-bottom: 80px;
