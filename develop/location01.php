@@ -259,7 +259,7 @@
                 <a class="js-modal-close" href="">Å~ close</a>
               </div><!--modal__inner-->
             </div><!--modal-->    
-            <div class="image sp">
+            <div class="image tb">
 					    <div class="swipe-img modify-starts">
 						    <img src="images/location01/facility05.jpg" alt="äTîOê}">
               </div>
