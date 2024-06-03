@@ -462,6 +462,15 @@
             width: 100%;
             margin-top: 30px;
             background-color: #e9e7df;
+            .text,.image{
+              width: 48%;
+              display: inline-block;;
+              vertical-align: top;
+            }
+            .text{
+              margin-right: 2%;
+              margin-bottom: 0;
+            }
             .annotation {
               bottom: auto;
               line-height: 1.4;
@@ -757,7 +766,7 @@
             .swipe{
               display: block;
               text-align: center;
-              margin: 20px auto 40px;
+              margin: 20px auto;
               img{
                 max-width: 75px;
                 width: 20%;
@@ -768,9 +777,14 @@
           }
         }
           li:last-child{
-            padding-bottom: 80px;
+              .text,.image{
+                width: 100%;
+              }
              .image__slide .slick-dots li{
               display: inline-block;
+             }
+             .annotation{
+              text-align: left;
              }
           }
         }

@@ -452,6 +452,15 @@
   margin-top: 30px;
   background-color: #e9e7df;
 }
+.location01 .facility .content .column02.list02 li:last-child .text, .location01 .facility .content .column02.list02 li:last-child .image {
+  width: 48%;
+  display: inline-block;
+  vertical-align: top;
+}
+.location01 .facility .content .column02.list02 li:last-child .text {
+  margin-right: 2%;
+  margin-bottom: 0;
+}
 .location01 .facility .content .column02.list02 li:last-child .annotation {
   bottom: auto;
   line-height: 1.4;
@@ -730,7 +739,7 @@
   .location01 .facility .content .column02.list02 li:nth-child(3) .swipe {
     display: block;
     text-align: center;
-    margin: 20px auto 40px;
+    margin: 20px auto;
   }
   .location01 .facility .content .column02.list02 li:nth-child(3) .swipe img {
     max-width: 75px;
@@ -739,10 +748,13 @@
     margin: auto;
     pointer-events: none;
   }
-  .location01 .facility .content .column02.list02 li:last-child {
-    padding-bottom: 80px;
+  .location01 .facility .content .column02.list02 li:last-child .text, .location01 .facility .content .column02.list02 li:last-child .image {
+    width: 100%;
   }
   .location01 .facility .content .column02.list02 li:last-child .image__slide .slick-dots li {
     display: inline-block;
+  }
+  .location01 .facility .content .column02.list02 li:last-child .annotation {
+    text-align: left;
   }
 }/*# sourceMappingURL=location01.css.map */
