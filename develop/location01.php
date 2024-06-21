@@ -280,7 +280,7 @@
               <figure><img src="./images/location01/facility06-04.jpg" alt="" class="w_100 pc"><p class="annotation white">提供写真</p></figure>
             </div><!--//image__slide -->
             </div>
-            <p class="annotation">※出典：武雄市図書館HP（2024年6月現在）<br>※掲載の写真は武雄市図書館のもので、（仮称）生涯学習複合施設のものではございません。あらかじめご了承ください。</p>
+            <p class="annotation">※出典：武雄市図書館HP（2024年6月現在）<br>※掲載の写真は武雄市図書館のもので、（仮称）門真市立生涯学習複合施設のものではございません。あらかじめご了承ください。</p>
           </li>
         </ul>
         <p class="caps">出典：門真市ホームページ（2024年6月現在）</p>
