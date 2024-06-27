@@ -1,0 +1,253 @@
+@charset "UTF-8";
+/* 
+  css設定 @charsetが消されるsass仕様へのハック用コメントです。削除しないでください。新規作成時も必須！
+ */
+#adtag {
+  opacity: 0;
+}
+
+.breadcrumb {
+  padding: 20px 2%;
+  border-top: 1px solid #f1e9dc;
+  border-bottom: 1px solid #f1e9dc;
+  background: #fff;
+  color: #000;
+}
+
+.breadcrumb ul {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1.4rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  color: #888;
+}
+
+.breadcrumb ul li a {
+  color: #000;
+}
+
+.breadcrumb ul li:not(:last-child) a::after,
+.breadcrumb ul li:not(:last-child) p::after {
+  content: " ＞ ";
+  display: inline-block;
+}
+
+.annotation-area {
+  background: #fff;
+  color: #797979;
+  padding: 40px 0;
+}
+
+.page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 10px;
+  line-height: 1.8;
+}
+
+.wrap {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1200px;
+}
+
+#design main img {
+  max-width: 100%;
+}
+#design .image {
+  position: relative;
+}
+#design .image .annotation {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  text-align: right;
+  font-size: 10px;
+  line-height: 1.4;
+}
+#design .image .annotation.white {
+  color: #fff;
+  text-shadow: 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000;
+}
+#design main {
+  color: #3e3a39;
+  font-family: "RyuminPro", serif;
+  line-height: 1;
+}
+#design sup {
+  font-size: 10px;
+  vertical-align: super;
+}
+#design sp {
+  display: none;
+}
+#design pc {
+  display: block;
+}
+#design .page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+}
+#design .main-visual {
+  position: relative;
+  border: none;
+}
+#design .sections .inner {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1000px;
+}
+#design .sections .image {
+  position: relative;
+}
+#design .sections .annotation {
+  font-size: 10px;
+  text-align: right;
+}
+#design .intro {
+  text-align: center;
+  padding: 100px 0;
+}
+#design .intro .text {
+  font-size: 40px;
+  line-height: 1.8;
+  letter-spacing: 0.12em;
+  margin-bottom: 40px;
+  color: #002d43;
+}
+#design .intro .lead {
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.12em;
+}
+#design .bg {
+  background: rgba(168, 217, 214, 0.3);
+}
+#design .inners {
+  text-align: center;
+}
+#design .inners .tit {
+  font-size: 42px;
+  background: #5b7b90;
+  padding: 20px 0;
+  letter-spacing: 0.2em;
+  color: #fff;
+}
+#design .inners .texts {
+  padding: 100px 0;
+}
+#design .inners .texts .text {
+  font-size: 40px;
+  line-height: 1.8;
+  letter-spacing: 0.12em;
+  margin-bottom: 40px;
+  color: #002d43;
+}
+#design .inners .texts .lead {
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.12em;
+}
+#design .inners .img01 {
+  max-width: 1000px;
+  margin: 0 auto 100px;
+}
+#design .inner03 {
+  background: #5b7b90;
+  padding: 80px 0;
+}
+#design .inner03 .list {
+  max-width: 1000px;
+  width: 90%;
+  margin: auto;
+  color: #fff;
+}
+#design .inner03 .list li {
+  text-align: left;
+  vertical-align: top;
+  display: inline-block;
+  width: 60%;
+  margin-right: 2%;
+}
+#design .inner03 .list li:last-child {
+  width: 37%;
+  margin-right: auto;
+}
+#design .inner03 .list .txt01 {
+  font-size: 28px;
+  line-height: 2;
+  margin-bottom: 20px;
+}
+#design .inner03 .list .txt02 {
+  font-size: 16px;
+  line-height: 2;
+  margin-bottom: 20px;
+}
+#design .inner03 .list .mini {
+  font-size: 11px;
+  line-height: 1.4;
+}
+@media screen and (max-width: 768px) {
+  #design sp {
+    display: block;
+  }
+  #design pc {
+    display: none;
+  }
+  #design .intro {
+    text-align: left;
+    padding: 60px 0;
+  }
+  #design .intro .text {
+    font-size: 22px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+  }
+  #design .bg.wrap {
+    width: 100%;
+  }
+  #design .inners .tit {
+    font-size: 30px;
+    padding: 20px 0;
+  }
+  #design .inners .texts {
+    width: 90%;
+    margin: auto;
+    padding: 60px 0;
+    text-align: left;
+  }
+  #design .inners .texts .text {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  #design .inners .texts .lead {
+    font-size: 16px;
+  }
+  #design .inners .img01 {
+    margin: 0 auto 60px;
+  }
+  #design .inner03 {
+    padding: 60px 0;
+  }
+  #design .inner03 .list li {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  #design .inner03 .list li:last-child {
+    width: 100%;
+    margin: auto;
+  }
+  #design .inner03 .list .txt01 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  #design .inner03 .list .txt02 {
+    font-size: 16px;
+    line-height: 2;
+    margin-bottom: 20px;
+  }
+  #design .inner03 .list .mini {
+    font-size: 11px;
+    line-height: 1.4;
+  }
+}/*# sourceMappingURL=design.css.map */
