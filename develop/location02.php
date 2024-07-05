@@ -558,6 +558,12 @@
           <img src="./images/location02/info06-tit-sp.svg" alt="" class="tb">
         </div>
         <ul class="list">
+        <li>
+            <div class="image">
+              <img src="./images/location02/info06-03.jpg" alt="">
+              <p class="annotation">門真市保健福祉センター</p>
+            </div>
+          </li>
           <li>
             <div class="image">
               <img src="./images/location02/info06-01.jpg" alt="">
@@ -568,12 +574,6 @@
             <div class="image">
               <img src="./images/location02/info06-02.jpg" alt="">
               <p class="annotation white">門真市役所</p>
-            </div>
-          </li>
-          <li>
-            <div class="image">
-              <img src="./images/location02/info06-03.jpg" alt="">
-              <p class="annotation">門真市保健福祉センター</p>
             </div>
           </li>
         </ul>
