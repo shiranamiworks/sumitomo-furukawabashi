@@ -106,6 +106,8 @@ body {
 
 h2.ttl {
   margin: 190px 0 75px 0;
+  font-size: 22px;
+  font-family: "RyuminPro", "GaramondPro", serif;
   text-align: center;
 }
 
@@ -581,10 +583,15 @@ html, body{
     width: 92%;
   }
   #submaincontainer .ttl {
-    width: 60%;
+    width: 100%;
     height: auto;
-    margin: 40px 0 40px 20px;
-    font-size: 30px;
+    margin: 40px auto;
+    font-size: 18px;
+  }
+  #submaincontainer .ttl img{
+    width: 60%;
+    display: block;
+    margin: 0 auto 20px;
   }
   #submaincontainer .zip {
     font-size: 22px;
