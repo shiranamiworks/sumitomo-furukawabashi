@@ -21,7 +21,7 @@
 <section id="submaincontainer">
             	<h2 class="ttl"><img src="images/map/ttl01.jpg" alt="現地案内図">マンションギャラリー・現地案内図</h2>
             	<div class="mapArea"><img src="images/map/map.jpg" alt="現地案内図" id="map1"></div>
-				<p class="zip">［現地所在地］<br>門真市幸福町2024番3<br>［門真市幸福東土地区画整理事業仮換地2街区1画地］（地番）<br>［マンションギャラリー住所］<br>門真市垣内町2-9<br><span>※住居表示ではありません。</span></p>
+				<p class="zip">［マンションギャラリー住所］<br>門真市垣内町2-9<br><br>［現地所在地］<br>門真市幸福町2024番3<br>［門真市幸福東土地区画整理事業仮換地2街区1画地］（地番）<span>※住居表示ではありません。</span></p>
 				<div id="btnArea">
 					<div id="GoogleMap"><a href="https://maps.app.goo.gl/sqgwfyZbneVG6nvH6" target="_blank"><img src="images/map/btn_googlemap.jpg" alt="Google Map"></a></div>
 					<div id="PrintMap"><a href="JavaScript:;" onclick="print_out(); return false;"><img src="images/map/btn_print.jpg" alt="印刷" class="pc"></a></div>
