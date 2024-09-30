@@ -145,8 +145,8 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
             <li><a href="javascript:blog();">マンション情報ブログ</a></li>
           </ul>
           <div class="header-sns">
-            <a href="https://twitter.com/furukawabashi" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
-            <a href="https://www.instagram.com/furukawabashi" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
+            <a href="https://x.com/ct_f_kawabashi" target="_blank"><img src="./images/common/icn_x.png" alt="X"></a>
+            <a href="https://www.instagram.com/ct_furukawabashi/" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
           </div>
         </div>
       </div>
@@ -173,8 +173,8 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
       </ul>
     </nav>
     <div class="sp-menu-sns d-flex justify-content-center align-items-center">
-      <a href="https://twitter.com/furukawabashi" target="_blank"><img src="./images/common/icn_twitter.png" alt="Twitter"></a>
-       <a href="https://www.instagram.com/furukawabashi" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
+      <a href="https://x.com/ct_f_kawabashi" target="_blank"><img src="./images/common/icn_x-black.png" alt="X"></a>
+       <a href="https://www.instagram.com/ct_furukawabashi/" target="_blank"><img src="./images/common/icn_instagram.png" alt="Instagram"></a>
     </div>
   </div><!--//sp-menu -->
 </header>

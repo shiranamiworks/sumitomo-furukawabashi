@@ -1,0 +1,1035 @@
+@charset "UTF-8";
+/* 
+  css設定 @charsetが消されるsass仕様へのハック用コメントです。削除しないでください。新規作成時も必須！
+ */
+.garamond {
+  font-family: "adobe-garamond-pro", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.breadcrumb {
+  padding: 20px 2%;
+  border-top: 1px solid #f1e9dc;
+  border-bottom: 1px solid #f1e9dc;
+  background: #fff;
+  color: #000;
+}
+
+.breadcrumb ul {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1.4rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  color: #888;
+}
+
+.breadcrumb ul li a {
+  color: #000;
+}
+
+.breadcrumb ul li:not(:last-child) a::after,
+.breadcrumb ul li:not(:last-child) p::after {
+  content: " ＞ ";
+  display: inline-block;
+}
+
+.annotation-area {
+  background: #fff;
+  color: #797979;
+  padding: 40px 0;
+}
+
+.page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 10px;
+  line-height: 1.8;
+}
+
+.wrap {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1200px;
+}
+
+.location02 main img {
+  max-width: 100%;
+}
+.location02 .image {
+  position: relative;
+}
+.location02 .image .annotation {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  text-align: right;
+  font-size: 10px;
+}
+.location02 .image .annotation.white {
+  color: #fff;
+  text-shadow: 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000;
+}
+.location02 .location-link {
+  color: #000;
+}
+.location02 main {
+  color: #3e3a39;
+  font-family: "RyuminPro", serif;
+  line-height: 1;
+  background: url(../images/common/bg.png);
+  background-size: contain;
+  background-position: right;
+  background-repeat: repeat-y;
+}
+.location02 sup {
+  font-size: 10px;
+  vertical-align: super;
+}
+.location02 .page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+}
+.location02 .main-visual {
+  position: relative;
+  border: none;
+}
+.location02 .main-visual .annotation {
+  bottom: 30%;
+}
+.location02 .sections .inner {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1200px;
+}
+.location02 .sections .image {
+  position: relative;
+}
+.location02 .sections .annotation {
+  font-size: 10px;
+  text-align: right;
+}
+.location02 .sections .column02 li {
+  vertical-align: top;
+  display: inline-block;
+  width: 48.5%;
+  margin-right: 2%;
+}
+.location02 .sections .column02 li:nth-child(2n),
+.location02 .sections .column02 li:last-child {
+  margin-right: auto;
+}
+.location02 .sections .column03 li {
+  vertical-align: top;
+  display: inline-block;
+  width: 32%;
+  margin-right: 1%;
+}
+.location02 .sections .column03 li:nth-child(3n),
+.location02 .sections .column03 li:last-child {
+  margin-right: auto;
+}
+.location02 .sections .caps {
+  text-align: right;
+  font-size: 10px;
+  line-height: 1.4;
+  margin-top: 10px;
+}
+.location02 .intro {
+  text-align: center;
+  margin-top: -160px;
+  position: relative;
+  z-index: 1;
+}
+.location02 .intro .en {
+  font-size: 38px;
+  letter-spacing: 0.2em;
+  margin-bottom: 50px;
+  color: #2c4a5f;
+}
+.location02 .intro .tit {
+  font-size: 34px;
+  line-height: 2;
+  letter-spacing: 0.12em;
+  margin-bottom: 30px;
+  color: #002d43;
+}
+.location02 .intro .lead {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 60px;
+  color: #002d43;
+}
+.location02 .intro .text {
+  font-size: 28px;
+  line-height: 2;
+  letter-spacing: 0.12em;
+  color: #002d43;
+  margin: 40px auto;
+}
+.location02 .intro .lead01 {
+  font-size: 16px;
+  line-height: 2.2;
+  margin-bottom: 60px;
+  color: #3e3a39;
+}
+.location02 .shops {
+  text-align: center;
+  margin-bottom: 120px;
+}
+.location02 .shops .column02 {
+  text-align: left;
+}
+.location02 .shops .column02 .txt01 {
+  font-size: 24px;
+  background: rgba(167, 220, 247, 0.4);
+  padding: 10px 0 10px 10px;
+  margin-bottom: 20px;
+}
+.location02 .shops .column02 .txt01.color {
+  background: rgba(254, 230, 125, 0.3);
+}
+.location02 .shops .column02 .txt02 {
+  font-size: 16px;
+  line-height: 2;
+  margin-bottom: 20px;
+}
+.location02 .shops .column02.list01 {
+  margin-bottom: 60px;
+}
+.location02 .shops .column02.list01 .logo {
+  margin-bottom: 10px;
+}
+.location02 .shops .column02.list01 li {
+  width: 55%;
+}
+.location02 .shops .column02.list01 li:last-child {
+  width: 42%;
+}
+.location02 .shops .column02.list01 .bottom {
+  margin-bottom: 10px;
+}
+.location02 .shops .column02.list02 {
+  margin-bottom: 40px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid;
+}
+.location02 .shops .column02.list02 .logo {
+  width: 50%;
+  margin: 0 0 20px;
+}
+.location02 .shops .column02.list02 li {
+  width: 42%;
+}
+.location02 .shops .column02.list02 li:last-child {
+  width: 55%;
+}
+.location02 .shops .column02.list02 .bottom {
+  margin-bottom: 10px;
+}
+.location02 .shops .column02.list03 {
+  margin-bottom: 50px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid;
+}
+.location02 .shops .column02.list03 .logo {
+  width: 23%;
+  margin: 0 0 20px auto;
+}
+.location02 .shops .column02.list03 li {
+  width: 52%;
+}
+.location02 .shops .column02.list03 li:last-child {
+  width: 45%;
+}
+.location02 .shops .column02.list03 .bottom {
+  margin-bottom: 10px;
+}
+.location02 .shops .column02.list03 .annotation {
+  bottom: -10px;
+}
+.location02 .shops .shops04 .text {
+  text-align: right;
+  font-size: 30px;
+  line-height: 1.6;
+  letter-spacing: 0.12em;
+  margin-bottom: 20px;
+  color: #002d43;
+}
+.location02 .shops .shops04 .text .logo {
+  width: 12%;
+}
+.location02 .shops .shops04 .blue-bg {
+  background: rgba(184, 226, 244, 0.3);
+  padding: 20px 30px;
+  box-sizing: border-box;
+}
+.location02 .shops .shops04 .blue-bg .lead {
+  text-align: left;
+  font-size: 16px;
+  line-height: 2;
+  margin-bottom: 20px;
+}
+.location02 .shops .shops04 .blue-bg .caps {
+  text-align: left;
+}
+.location02 .convenience {
+  text-align: center;
+  margin-bottom: 140px;
+}
+.location02 .convenience .img01 .annotation {
+  bottom: 30%;
+}
+.location02 .convenience .texts {
+  position: relative;
+  z-index: 1;
+  margin-top: -200px;
+}
+.location02 .convenience .tit {
+  font-size: 34px;
+  letter-spacing: 0.12em;
+  margin-bottom: 40px;
+  color: #002d43;
+}
+.location02 .convenience .lead {
+  font-size: 16px;
+  line-height: 2;
+  margin-bottom: 60px;
+}
+.location02 .convenience .column02 .name {
+  float: left;
+  text-align: left;
+  font-size: 30px;
+  padding-top: 40px;
+}
+.location02 .convenience .column02 .min {
+  float: right;
+  font-size: 40px;
+  color: #ea5514;
+}
+.location02 .convenience .column02 .min span {
+  font-size: 80px;
+}
+.location02 .convenience .column02 .distance {
+  clear: both;
+  text-align: right;
+  font-size: 10px;
+}
+.location02 .convenience .column02 .txt01 {
+  text-align: left;
+  font-size: 24px;
+  line-height: 2;
+  padding: 20px 0;
+  margin: 20px 0;
+  color: #2f5160;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+.location02 .convenience .column02 .txt02 {
+  text-align: left;
+  font-size: 16px;
+  line-height: 2;
+}
+.location02 .convenience .column02 .txt03 {
+  clear: both;
+  text-align: left;
+  font-size: 16px;
+  line-height: 2;
+  padding-top: 20px;
+  border-top: 1px solid;
+}
+.location02 .convenience .column02.list01 li {
+  width: 54%;
+}
+.location02 .convenience .column02.list01 li:last-child {
+  width: 43%;
+}
+.location02 .convenience .column02.list02 {
+  margin-top: 60px;
+}
+.location02 .convenience .column02.list02 li {
+  width: 43%;
+}
+.location02 .convenience .column02.list02 li:last-child {
+  width: 54%;
+}
+.location02 .convenience .column02.list02 .name {
+  float: left;
+  text-align: left;
+  font-size: 30px;
+  line-height: 1.4;
+  padding-top: 0;
+}
+.location02 .convenience .column02.list03 {
+  margin: 20px auto 60px;
+}
+.location02 .convenience .column02.list03 li {
+  vertical-align: middle;
+  width: 43%;
+}
+.location02 .convenience .column02.list03 li:last-child {
+  width: 54%;
+}
+.location02 .convenience .column02.list03 .name {
+  float: left;
+  text-align: left;
+  font-size: 30px;
+  line-height: 1.4;
+  padding-top: 0;
+  padding-bottom: 10px;
+}
+.location02 .gourmet {
+  text-align: center;
+  margin-bottom: 140px;
+}
+.location02 .gourmet .en {
+  font-size: 38px;
+  letter-spacing: 0.2em;
+  margin-bottom: 50px;
+  color: #2c4a5f;
+}
+.location02 .gourmet .tit {
+  font-size: 34px;
+  line-height: 2;
+  letter-spacing: 0.12em;
+  margin-bottom: 30px;
+  color: #002d43;
+}
+.location02 .gourmet .column02 li {
+  text-align: left;
+  float: left;
+  margin-bottom: 60px;
+}
+.location02 .gourmet .column02 li:nth-child(2n) {
+  float: right;
+}
+.location02 .gourmet .column02 .genre {
+  font-size: 14px;
+  margin: 20px 0 10px;
+}
+.location02 .gourmet .column02 .name {
+  font-size: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid;
+  letter-spacing: 0.08em;
+}
+.location02 .gourmet .column02 .name span {
+  font-size: 14px;
+}
+.location02 .gourmet .column02 .info {
+  font-size: 16px;
+  line-height: 1.8;
+}
+.location02 .child {
+  text-align: center;
+  margin-bottom: 100px;
+}
+.location02 .child .bg {
+  background: rgba(235, 236, 224, 0.6);
+}
+.location02 .child .content {
+  padding: 50px 50px 0;
+  box-sizing: border-box;
+}
+.location02 .child .content .tit {
+  font-size: 34px;
+  line-height: 1.8;
+  letter-spacing: 0.12em;
+  margin-bottom: 30px;
+  color: #002d43;
+}
+.location02 .child .content .lead {
+  font-size: 18px;
+  line-height: 2;
+  margin-bottom: 40px;
+}
+.location02 .child .box {
+  background: #fff;
+  border-bottom: 10px solid #f9f5c3;
+}
+.location02 .child .box .column02 {
+  width: 90%;
+  margin: 30px auto;
+}
+.location02 .child .box .txt01 {
+  font-size: 30px;
+  line-height: 1.6;
+  background: #f9f5c3;
+  padding: 10px 0;
+}
+.location02 .child .box .txt02 {
+  text-align: left;
+  font-size: 24px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #7a6a56;
+}
+.location02 .child .box .txt03 {
+  text-align: left;
+  font-size: 18px;
+  line-height: 2;
+  color: #7a6a56;
+}
+.location02 .child .box .txt04 {
+  width: 90%;
+  margin: 0 auto 30px;
+  background: #94856d;
+  padding: 10px;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 20px;
+  line-height: 1.6;
+}
+.location02 .child .box .column02 li {
+  width: 57%;
+}
+.location02 .child .box .column02 li:last-child {
+  width: 40%;
+}
+.location02 .child .column02.list {
+  margin-top: 60px;
+}
+.location02 .child .column02.list li {
+  width: 46.5%;
+  margin-right: 6%;
+}
+.location02 .child .column02.list li:nth-child(2n) {
+  margin-right: auto;
+}
+.location02 .child .column02.list .name {
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 10px 0 40px;
+}
+.location02 .child .column02.list .name span {
+  font-size: 12px;
+}
+.location02 .park {
+  text-align: center;
+  margin-bottom: 140px;
+}
+.location02 .park .tit {
+  font-size: 34px;
+  line-height: 1.8;
+  letter-spacing: 0.12em;
+  margin-bottom: 50px;
+  color: #002d43;
+}
+.location02 .park .texts {
+  max-width: 400px;
+  margin: 0 auto 50px;
+}
+.location02 .park .texts .min {
+  float: left;
+  font-size: 18px;
+}
+.location02 .park .texts .min .garamond {
+  font-size: 34px;
+  color: #ea5514;
+}
+.location02 .park .texts .min .num {
+  font-size: 80px;
+}
+.location02 .park .texts .name {
+  float: right;
+  font-size: 30px;
+  padding-top: 20px;
+}
+.location02 .park .lead {
+  text-align: left;
+  font-size: 18px;
+  line-height: 2;
+  margin-bottom: 20px;
+}
+.location02 .park .column02 li {
+  width: 62.5%;
+}
+.location02 .park .column02 li:last-child {
+  width: 34.5%;
+}
+.location02 .park .column02 .bottom {
+  margin-bottom: 20px;
+}
+.location02 .life-info {
+  text-align: center;
+  margin-bottom: 100px;
+}
+.location02 .life-info .inner {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1200px;
+}
+.location02 .life-info .tit {
+  font-size: 30px;
+  letter-spacing: 0.15em;
+  color: #2c4a5f;
+  margin-bottom: 50px;
+}
+.location02 .life-info .map {
+  margin-bottom: 140px;
+}
+.location02 .life-info .map .annotation {
+  bottom: -10px;
+}
+.location02 .life-info .tab-inner {
+  display: none;
+}
+.location02 .life-info .tab-inner.current {
+  display: inherit;
+}
+.location02 .life-info .change-buttons {
+  text-align: center;
+  margin: 0 auto 40px;
+  color: #11374c;
+  border-bottom: 1px solid;
+}
+.location02 .life-info .change-buttons li {
+  vertical-align: top;
+  text-align: center;
+  display: inline-block;
+  width: 13%;
+}
+.location02 .life-info .change-buttons .button {
+  position: relative;
+  display: block;
+  font-size: 10px;
+  line-height: 1.3;
+  padding: 15px 0;
+  background: #11374c;
+  color: #fff;
+  box-sizing: border-box;
+}
+.location02 .life-info .change-buttons .button .mini {
+  font-size: 10px;
+}
+.location02 .life-info .change-buttons .button.current {
+  position: absolute;
+  pointer-events: none;
+  background: #fff;
+  color: #11374c;
+  border-top: 1px solid #11374c;
+  border-left: 1px solid #11374c;
+  border-right: 1px solid #11374c;
+  box-sizing: border-box;
+  width: 10.8%;
+}
+.location02 .life-info .change-buttons .button:hover {
+  cursor: pointer;
+  opacity: 1;
+  background: #fff;
+  color: #11374c;
+  border-top: 1px solid #11374c;
+  border-left: 1px solid #11374c;
+  border-right: 1px solid #11374c;
+}
+.location02 .life-info .list {
+  margin: 30px auto;
+}
+.location02 .life-info .list li {
+  vertical-align: top;
+  display: inline-block;
+  width: 31%;
+  margin-right: 2%;
+}
+.location02 .life-info .list li:last-child {
+  margin-right: auto;
+}
+.location02 .life-info .image img {
+  width: 100%;
+}
+@media screen and (max-width: 1024px) {
+  .location02 .life-info .change-buttons {
+    text-align: center;
+    margin: 20px auto;
+    border: none;
+  }
+  .location02 .life-info .change-buttons li {
+    display: inline-block;
+    width: 48%;
+    margin-bottom: 10px;
+  }
+  .location02 .life-info .change-buttons .button {
+    font-size: 12px;
+    padding: 10px 0;
+  }
+  .location02 .life-info .change-buttons .button.current {
+    position: inherit;
+    pointer-events: none;
+    background: #fff;
+    color: #11374c;
+    border: 1px solid #11374c;
+    width: 100%;
+  }
+  .location02 .life-info .change-buttons .button:hover {
+    border: 1px solid #11374c;
+  }
+}
+@media screen and (max-width: 768px) {
+  .location02 sp {
+    display: block;
+  }
+  .location02 pc {
+    display: none;
+  }
+  .location02 main {
+    background: none;
+  }
+  .location02 .main-visual {
+    padding-bottom: 100px;
+  }
+  .location02 .sections .column02 li {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .location02 .sections .column02 li:last-child {
+    margin-bottom: auto;
+  }
+  .location02 .sections .column03 li {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .location02 .sections .column03 li:last-child {
+    margin-bottom: auto;
+  }
+  .location02 .intro {
+    text-align: left;
+    margin-bottom: 40px;
+  }
+  .location02 .intro .en {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .location02 .intro .tit {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .location02 .intro .lead {
+    text-align: left;
+    font-size: 16px;
+    line-height: 2;
+    margin-bottom: 20px;
+  }
+  .location02 .intro .text {
+    font-size: 18px;
+    line-height: 1.8;
+    letter-spacing: 0;
+    margin: 20px auto;
+  }
+  .location02 .intro .lead01 {
+    font-size: 14px;
+    line-height: 1.8;
+    margin-bottom: 0;
+  }
+  .location02 .shops {
+    margin-bottom: 60px;
+  }
+  .location02 .shops .column02 {
+    text-align: left;
+  }
+  .location02 .shops .column02 .txt01 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .location02 .shops .column02 .txt02 {
+    font-size: 14px;
+    line-height: 2;
+    margin-bottom: 20px;
+  }
+  .location02 .shops .column02.list01 {
+    margin-bottom: 40px;
+  }
+  .location02 .shops .column02.list01 li {
+    width: 100%;
+  }
+  .location02 .shops .column02.list01 li:last-child {
+    width: 100%;
+  }
+  .location02 .shops .column02.list01 li:last-child .image {
+    display: inline-block;
+    width: 49%;
+  }
+  .location02 .shops .column02.list02 {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+  }
+  .location02 .shops .column02.list02 .logo {
+    width: 60%;
+    margin: 0 0 10px;
+  }
+  .location02 .shops .column02.list02 li {
+    width: 100%;
+  }
+  .location02 .shops .column02.list02 li:last-child {
+    width: 100%;
+  }
+  .location02 .shops .column02.list02 .bottom {
+    margin-bottom: 10px;
+  }
+  .location02 .shops .column02.list02 .imgs {
+    margin-top: 20px;
+  }
+  .location02 .shops .column02.list02 .imgs .image {
+    display: inline-block;
+    width: 49%;
+  }
+  .location02 .shops .column02.list03 {
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+  }
+  .location02 .shops .column02.list03 .logo {
+    margin: 0 0 10px auto;
+  }
+  .location02 .shops .column02.list03 li {
+    width: 100%;
+  }
+  .location02 .shops .column02.list03 li:last-child {
+    width: 100%;
+  }
+  .location02 .shops .shops04 .text {
+    text-align: left;
+    font-size: 22px;
+  }
+  .location02 .shops .shops04 .text .logo {
+    float: right;
+    text-align: right;
+    width: 23%;
+    margin-bottom: 10px;
+  }
+  .location02 .shops .shops04 .blue-bg .lead {
+    font-size: 14px;
+  }
+  .location02 .shops .shops04 .blue-bg .caps {
+    text-align: right;
+  }
+  .location02 .convenience {
+    text-align: left;
+    margin-bottom: 60px;
+  }
+  .location02 .convenience .texts {
+    margin-top: -40px;
+  }
+  .location02 .convenience .tit {
+    font-size: 22px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+  }
+  .location02 .convenience .lead {
+    font-size: 14px;
+    line-height: 2;
+    margin-bottom: 40px;
+  }
+  .location02 .convenience .column02 .name {
+    font-size: 24px;
+    padding-top: 0;
+  }
+  .location02 .convenience .column02 .min {
+    float: right;
+    font-size: 30px;
+  }
+  .location02 .convenience .column02 .min span {
+    font-size: 60px;
+  }
+  .location02 .convenience .column02 .distance {
+    clear: both;
+    text-align: right;
+    font-size: 10px;
+  }
+  .location02 .convenience .column02 .txt01 {
+    text-align: left;
+    font-size: 18px;
+    padding: 10px 0;
+  }
+  .location02 .convenience .column02 .txt02 {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .location02 .convenience .column02 .txt03 {
+    clear: both;
+    text-align: left;
+    font-size: 16px;
+    line-height: 2;
+    padding-top: 20px;
+    border-top: 1px solid;
+  }
+  .location02 .convenience .column02.list01 li {
+    width: 100%;
+  }
+  .location02 .convenience .column02.list01 li:last-child {
+    width: 100%;
+  }
+  .location02 .convenience .column02.list02 {
+    margin-top: 40px;
+  }
+  .location02 .convenience .column02.list02 li {
+    width: 100%;
+  }
+  .location02 .convenience .column02.list02 li:last-child {
+    width: 100%;
+  }
+  .location02 .convenience .column02.list02 .name {
+    font-size: 24px;
+  }
+  .location02 .convenience .column02.list03 li {
+    vertical-align: middle;
+    width: 100%;
+  }
+  .location02 .convenience .column02.list03 li:last-child {
+    width: 100%;
+  }
+  .location02 .convenience .column02.list03 .name {
+    font-size: 24px;
+  }
+  .location02 .gourmet {
+    text-align: left;
+    margin-bottom: 60px;
+  }
+  .location02 .gourmet .en {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  .location02 .gourmet .tit {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .location02 .gourmet .column02 li {
+    margin-bottom: 30px;
+  }
+  .location02 .gourmet .column02 .genre {
+    font-size: 12px;
+    margin: 10px 0 10px;
+  }
+  .location02 .gourmet .column02 .name {
+    font-size: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  .location02 .gourmet .column02 .name span {
+    font-size: 12px;
+  }
+  .location02 .gourmet .column02 .info {
+    font-size: 16px;
+  }
+  .location02 .child {
+    text-align: left;
+    margin-bottom: 60px;
+  }
+  .location02 .child .content {
+    padding: 20px;
+  }
+  .location02 .child .content .tit {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .location02 .child .content .lead {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .location02 .child .box .column02 {
+    width: 90%;
+  }
+  .location02 .child .box .txt01 {
+    font-size: 18px;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  .location02 .child .box .txt02 {
+    font-size: 18px;
+  }
+  .location02 .child .box .txt03 {
+    font-size: 14px;
+  }
+  .location02 .child .box .txt04 {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  .location02 .child .box .column02 li {
+    width: 100%;
+  }
+  .location02 .child .box .column02 li:last-child {
+    width: 100%;
+  }
+  .location02 .child .column02.list {
+    margin-top: 40px;
+  }
+  .location02 .child .column02.list li {
+    width: 100%;
+  }
+  .location02 .child .column02.list li:nth-child(2n) {
+    margin-right: auto;
+  }
+  .location02 .child .column02.list .name {
+    font-size: 18px;
+    margin: 10px 0 20px;
+  }
+  .location02 .child .column02.list .name span {
+    font-size: 14px;
+  }
+  .location02 .park {
+    text-align: left;
+    margin-bottom: 60px;
+  }
+  .location02 .park .tit {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .location02 .park .texts {
+    margin: 0 auto 20px;
+  }
+  .location02 .park .texts .min {
+    float: right;
+    font-size: 16px;
+  }
+  .location02 .park .texts .min .garamond {
+    font-size: 26px;
+  }
+  .location02 .park .texts .min .num {
+    font-size: 50px;
+  }
+  .location02 .park .texts .name {
+    float: left;
+    font-size: 22px;
+    padding-top: 20px;
+  }
+  .location02 .park .lead {
+    font-size: 14px;
+  }
+  .location02 .park .column02 li {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .location02 .park .column02 li:last-child {
+    width: 100%;
+  }
+  .location02 .park .column02 li:last-child .image {
+    display: inline-block;
+    width: 49%;
+  }
+  .location02 .park .column02 .bottom {
+    margin-bottom: 0;
+  }
+  .location02 .life-info {
+    margin-bottom: 40px;
+  }
+  .location02 .life-info .tit {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  .location02 .life-info .map {
+    margin-bottom: 60px;
+  }
+  .location02 .life-info .list {
+    margin: 20px auto;
+  }
+  .location02 .life-info .list li {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .location02 .life-info .list li.pc {
+    display: none;
+  }
+  .location02 .life-info .list li:last-child {
+    margin-right: auto;
+  }
+}/*# sourceMappingURL=location02.css.map */
