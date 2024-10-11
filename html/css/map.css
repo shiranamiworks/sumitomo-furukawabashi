@@ -53,6 +53,7 @@
   #submaincontainer .zip {
     margin: -2mm auto 0 !important;
     transform: scale(0.8);
+    font-size: 27px !important;
   }
   .entry {
     margin-top: -8mm !important;
@@ -517,7 +518,6 @@ html, body{
 
   #submaincontainer .zip span {
     display: block;
-    margin-top: 40px;
   }
   .cap {
     text-align: center;
