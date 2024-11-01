@@ -227,6 +227,7 @@
   margin-right: auto;
 }
 #access .airport {
+  display: none;
   text-align: center;
   margin-bottom: 100px;
 }
