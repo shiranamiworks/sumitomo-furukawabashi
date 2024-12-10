@@ -50,6 +50,10 @@
   #submaincontainer #map1 {
     width: 180mm;
   }
+  #submaincontainer #map2 {
+    margin: 2mm auto 0 !important;
+    width: 120mm;
+  }
   #submaincontainer .zip {
     margin: -2mm auto 0 !important;
     transform: scale(0.8);
@@ -161,6 +165,7 @@ h2.ttl {
   margin: 0 auto 0 auto;
   font-size: 10px;
   color: #666;
+  text-align: center;
 }
 #submaincontainer dl {
   margin-top: 0;
@@ -285,7 +290,6 @@ h2.ttl {
     width: 81.25vw;
     margin: 0 auto 0 auto;
   }
-
   #GoogleMap {
     width: 45%;
   }
@@ -299,8 +303,8 @@ h2.ttl {
   }
 
   #submaincontainer #map2 {
-    width: 30.312vw;
-    margin: 0 auto 0 auto;
+    /* max-width: 1000px; */
+    margin: 40px auto 0;
   }
 
   #submaincontainer #map2 img {
@@ -492,7 +496,6 @@ html, body{
   .mapArea {
     text-align: center;
   }
-
   #submaincontainer #map1 {
     /*width:30.312vw;*/
     width: 80%;
@@ -549,6 +552,12 @@ html, body{
     /*width:30.312vw;*/
     width: 90%;
     margin: 0 auto;
+  }
+
+  #submaincontainer #map2 {
+    /*width:30.312vw;*/
+    width: 90%;
+    margin: 40px auto 0;
   }
 
   #btnArea {
