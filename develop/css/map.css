@@ -252,8 +252,10 @@ h2.ttl {
   display: none;
 }
 
-#map2 {
-  width: 630px;
+#submaincontainer #map2 {
+  max-width: 1000px;
+  width: 80%;
+  margin: 40px auto 0;
 }
 
 #parkingTxt {
@@ -300,11 +302,6 @@ h2.ttl {
   #submaincontainer #map1 img {
     width: 700px;
     /*	height:53.125vw;*/
-  }
-
-  #submaincontainer #map2 {
-    /* max-width: 1000px; */
-    margin: 40px auto 0;
   }
 
   #submaincontainer #map2 img {
@@ -593,6 +590,7 @@ html, body{
   }
   #submaincontainer .ttl {
     width: 100%;
+    max-width: 300px;
     height: auto;
     margin: 40px auto;
     font-size: 18px;
