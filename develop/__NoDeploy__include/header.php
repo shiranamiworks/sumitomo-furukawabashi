@@ -142,7 +142,6 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
             <li><a href="map.html" target="_blank">現地案内図</a></li>
             <li><a href="/kansai/furukawabashi/faq.cgi" target="_blank">FAQ</a></li>
             <li><a href="javascript:outline();">物件概要</a></li>
-            <li><a href="javascript:blog();">マンション情報ブログ</a></li>
           </ul>
           <div class="header-sns">
             <a href="https://x.com/ct_f_kawabashi" target="_blank"><img src="./images/common/icn_x.png" alt="X"></a>
@@ -167,7 +166,6 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li><a href="<?= $page_settings["directory_pos"]  ?>access.html">アクセス</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">現地案内図</a></li>
         <li><a href="javascript:outline();">物件概要</a></li>
-        <li><a href="javascript:blog();">マンション情報ブログ</a></li>
         <li><a href="/kansai/furukawabashi/faq.cgi" target="_blank">FAQ</a></li>
         <script type="text/javascript" src="/bukken_manage/bukken_manage_entry_button.cgi?AREA_CD=kansai&PROP_CD=furukawabashi&LINK=sp-menu"></script>
       </ul>
