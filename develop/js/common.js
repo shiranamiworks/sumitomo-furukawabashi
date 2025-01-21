@@ -16,30 +16,30 @@ jQuery(document).ready(function($) {
         $(this).next('.sub-menu').slideToggle();
     });
 
-    // おすすめ物件スライド
-    $('#recommendSlide').slick({
-        infinite: true,
-        dots: true,
-        arrows: true,
-        speed: 1000,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        responsive: [
-            {
-                breakpoint: 769,
-                settings: {
-                    slidesToShow: 2,
-                }
-            },
-            {
-                breakpoint: 640,
-                settings: {
-                    slidesToShow: 1,
-                    dots: true
-                }
-            }
-        ]
-    });
+     // おすすめ物件スライド
+  $("#recommendSlide").slick({
+    infinite: true,
+    dots: true,
+    arrows: true,
+    speed: 1000,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    responsive: [
+      {
+        breakpoint: 769,
+        settings: {
+          slidesToShow: 2,
+        },
+      },
+      {
+        breakpoint: 640,
+        settings: {
+          slidesToShow: 1,
+          dots: true,
+        },
+      },
+    ],
+  });
 
     // footer
     //$(".footer-btn").hide();
