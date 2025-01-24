@@ -32,7 +32,7 @@
     <div class="slick-img">
       <div class="image">
         <img src="./images/private/img01.jpg" alt="">
-        <p class="caption">Living Dining</p>
+        <p class="caption">LIVING DINING ROOM</p>
       </div>
     </div>
     <div class="slick-img">
@@ -103,7 +103,7 @@
         <p class="caption">LIVING DINING ROOM</p>
       </div>
     </div>
-    <div class="thumbnail-img">
+    <div class="thumbnail-img mr0-sp">
       <div class="image">
         <img src="./images/private/img03.jpg" alt="">
         <p class="caption">LIVING DINING ROOM</p>
@@ -121,7 +121,7 @@
         <p class="caption">BEDROOM1</p>
       </div>    
     </div>
-    <div class="thumbnail-img">
+    <div class="thumbnail-img mr0-sp">
       <div class="image">
         <img src="./images/private/img06.jpg" alt="">
         <p class="caption">BEDROOM2</p>
@@ -139,13 +139,13 @@
         <p class="caption">BATHROOM</p>
       </div>
     </div>
-    <div class="thumbnail-img">
+    <div class="thumbnail-img mr0-sp">
       <div class="image">
         <img src="./images/private/img09.jpg" alt="">
         <p class="caption">POWDER ROOM</p>
       </div>
     </div>
-    <div class="thumbnail-img">
+    <div class="thumbnail-img mr0-pc">
       <div class="image">
         <img src="./images/private/img10.jpg" alt="">
         <p class="caption">ENTRANCE</p>

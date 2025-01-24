@@ -19,7 +19,7 @@
         <li class="concept"><a href="<?= $page_settings["directory_pos"]  ?>concept.html">コンセプト</a></li>
         <li class="design"><a href="<?= $page_settings["directory_pos"]  ?>design.html">デザイン</a></li>
         <li class="public">共用空間</li>
-        <li class="private">室内空間</li>
+        <li class="private"><a href="<?= $page_settings["directory_pos"]  ?>private.html">室内空間</a></li>
         <li class="roomplan">間取り</li>
         <li class="equipment">設備・仕様</li>
         <li class="structure">構造・防災</li>

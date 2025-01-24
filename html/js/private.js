@@ -1,5 +1,4 @@
-
-$(function () {
+$(function(){
   $(".slider").slick({
     autoplay: true,
     arrows: true,
