@@ -50,7 +50,7 @@
     <div class="slick-img">
       <div class="image">
         <img src="./images/private/img04.jpg" alt="">
-        <p class="caption">LIVING DINING ROOM</p>
+        <p class="caption">KITCHEN</p>
       </div>
     </div>
     <div class="slick-img">
@@ -112,7 +112,7 @@
     <div class="thumbnail-img">
       <div class="image">
         <img src="./images/private/img04.jpg" alt="">
-        <p class="caption">LIVING DINING ROOM</p>
+        <p class="caption">KITCHEN</p>
       </div>
     </div>
     <div class="thumbnail-img">
