@@ -56,13 +56,13 @@
     <div class="slick-img">
       <div class="image">
         <img src="./images/private/img05.jpg" alt="">
-        <p class="caption">BEDROOM1</p>
+        <p class="caption">BEDROOM</p>
       </div>
     </div>
     <div class="slick-img">
       <div class="image">
         <img src="./images/private/img06.jpg" alt="">
-        <p class="caption">BEDROOM2</p>
+        <p class="caption">ROOM</p>
       </div>
     </div>
     <div class="slick-img">
@@ -118,13 +118,13 @@
     <div class="thumbnail-img">
       <div class="image">
         <img src="./images/private/img05.jpg" alt="">
-        <p class="caption">BEDROOM1</p>
+        <p class="caption">BEDROOM</p>
       </div>    
     </div>
     <div class="thumbnail-img mr0-sp">
       <div class="image">
         <img src="./images/private/img06.jpg" alt="">
-        <p class="caption">BEDROOM2</p>
+        <p class="caption">ROOM</p>
       </div>    
     </div>
     <div class="thumbnail-img">
@@ -156,7 +156,7 @@
   <!-- content -->
 
   <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（I-2）を撮影（2024年12月）したもので、家具・調度品等オプション仕様は販売価格に含まれておりません。<br>※モデルルームの仕様等は、施工上の都合・改良等により一部変更になる場合があります。<br>※設備・仕様はタイプにより異なります。<br>※バルコニーの家具・植栽・調度品等の配置はイメージです。実際に配置される際には、安全等に十分配慮ください。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（I-2タイプ）を撮影（2024年12月）したもので、家具・調度品等オプション仕様は販売価格に含まれておりません。<br>※モデルルームの仕様等は、施工上の都合・改良等により一部変更になる場合があります。<br>※設備・仕様はタイプにより異なります。<br>※バルコニーの家具・植栽・調度品等の配置はイメージです。実際に配置される際には、安全等に十分配慮ください。</p></div>
 </main>
 
 <?php require(INCLUDES."footer.php"); ?>
