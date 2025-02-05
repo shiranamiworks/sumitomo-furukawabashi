@@ -5,13 +5,13 @@
   "gnav_set" => "equipment",
   "page_class" => "equipment05",
   "url" => "equipment05.html",
-  "title" => "快適提案｜",
-  "keywords" => "快適提案,",
-  "description" => "快適提案ページ。",
+  "title" => "マルチメディア・サービス｜",
+  "keywords" => "マルチメディア・サービス,",
+  "description" => "マルチメディア・サービスページ。",
   "add_stylesheet" => ["css/equipment.css","css/equipment05.css"],
   "add_script" =>  [],
     
-  "logo_text" => "快適提案｜"
+  "logo_text" => "マルチメディア・サービス｜"
 );
 ?>
 
@@ -21,19 +21,19 @@
 	<!-- パンくずリスト -->
   <div class="breadcrumb sp-hide">
     <ul>
-      <li><a href="./index.html">シティタワー名古屋東別院｜東別院 マンション｜トップ</a></li>
+      <li><a href="./index.html">シティタワー古川橋｜古川橋 新築分譲マンション｜トップ</a></li>
       <li><a href="./equipment05.html">設備・仕様</a></li>
-      <li><p>快適提案</p></li>
+      <li><p>マルチメディア・サービス</p></li>
     </ul>
   </div>
 	<!--// パンくずリスト -->
 
   <div class="equipment-link equipment-link--5">
-    <a href="equipment01.html"><p>キッチン・サニタリー</p></a>
-    <a href="equipment02.html"><p>健康・エコ・省エネ</p></a>
-    <a href="equipment03.html"><p>収納</p></a>
-    <a href="equipment04.html"><p>マルチメディア</p></a>
-    <a href="equipment05.html" class="current"><p>快適提案</p></a>
+    <a href="equipment01.html"><p>キッチン</p></a>
+    <a href="equipment02.html"><p>サニタリー</p></a>
+    <a href="equipment03.html"><p>健康・エコ・省エネ</p></a>
+    <a href="equipment04.html"><p>収納・快適仕様</p></a>
+    <a href="equipment05.html" class="current"><p>マルチメディア・サービス</p></a>
   </div>
 
   <section class="sections sec01 clearfix">
@@ -254,11 +254,11 @@
 </main>
 
   <div class="equipment-link equipment-link--5">
-    <a href="equipment01.html"><p>キッチン・サニタリー</p></a>
-    <a href="equipment02.html"><p>健康・エコ・省エネ</p></a>
-    <a href="equipment03.html"><p>収納</p></a>
-    <a href="equipment04.html"><p>マルチメディア</p></a>
-    <a href="equipment05.html" class="current"><p>快適提案</p></a>
+    <a href="equipment01.html"><p>キッチン</p></a>
+    <a href="equipment02.html"><p>サニタリー</p></a>
+    <a href="equipment03.html"><p>健康・エコ・省エネ</p></a>
+    <a href="equipment04.html"><p>収納・快適仕様</p></a>
+    <a href="equipment05.html" class="current"><p>マルチメディア・サービス</p></a>
   </div>
 
 <?php require(INCLUDES."footer.php"); ?>

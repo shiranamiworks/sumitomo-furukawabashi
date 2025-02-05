@@ -97,7 +97,7 @@
   line-height: 1.2;
 }
 .equipment01 .sec01 {
-  margin-top: 40px;
+  margin-top: 80px;
 }
 .equipment01 .sec01 .lists li {
   display: inline-block;
@@ -134,42 +134,8 @@
 .equipment01 .sec01 .list05 li:nth-child(3) {
   margin-right: auto;
 }
-.equipment01 .sec02 {
-  margin-bottom: 60px;
-}
-.equipment01 .sec02 .lists {
-  margin-bottom: 60px;
-}
-.equipment01 .sec02 .lists li {
-  display: inline-block;
-  vertical-align: top;
-  width: 31%;
-  margin-right: 2%;
-}
-.equipment01 .sec02 .lists li.full {
-  width: 100%;
-  margin-bottom: 0;
-}
-.equipment01 .sec02 .lists li:last-child {
-  margin-right: auto;
-}
-.equipment01 .sec02 .list02 {
-  padding-bottom: 60px;
-}
-.equipment01 .sec02 .list02 li {
+.equipment01 .sec01 .list06 li {
   vertical-align: bottom;
-}
-.equipment01 .sec02 .list04 {
-  padding-bottom: 60px;
-}
-.equipment01 .sec02 .list04 li {
-  vertical-align: bottom;
-}
-.equipment01 .sec02 .list05 li:nth-child(3n) {
-  margin-right: auto;
-}
-.equipment01 .sec02 .list05 li:last-child {
-  margin-top: 50px;
 }
 .equipment01 main {
   padding-bottom: 50px;
