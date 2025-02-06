@@ -32,6 +32,13 @@
     .image {
       position: relative;
       text-align: center;
+      &.img03{
+        width: 60%;
+        margin: auto;
+      }
+      &.mt30{
+        margin-top: 30px;
+      }
     }
     .annotation {
       font-size: 10px;
@@ -129,6 +136,7 @@
       li {
         width: 31%;
         margin-right: 2%;
+        margin-bottom: 20px;
         &.double {
           width: 64%;
         }

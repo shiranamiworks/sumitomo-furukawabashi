@@ -29,6 +29,13 @@
   position: relative;
   text-align: center;
 }
+.structure01 .sections .image.img03 {
+  width: 60%;
+  margin: auto;
+}
+.structure01 .sections .image.mt30 {
+  margin-top: 30px;
+}
 .structure01 .sections .annotation {
   font-size: 10px;
   text-align: right;
@@ -120,6 +127,7 @@
 .structure01 .sec01 .list03 li {
   width: 31%;
   margin-right: 2%;
+  margin-bottom: 20px;
 }
 .structure01 .sec01 .list03 li.double {
   width: 64%;

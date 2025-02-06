@@ -126,7 +126,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
             </div>
           </li>
           <li class="has-child">
-            <p class="active"><span class="f-en">STRUCTURE・SAFETY</span><br>構造・防災</span><br>ロケーション</p>
+            <p class="active"><span class="f-en">STRUCTURE・SAFETY</span><br>構造・防災</span></p>
             <div class="sub-menu">
               <a href="<?= $page_settings["directory_pos"]  ?>structure01.html">基本構造</a>
               <a href="<?= $page_settings["directory_pos"]  ?>structure02.html">セキュリティ</a>

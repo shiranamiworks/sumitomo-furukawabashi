@@ -90,10 +90,10 @@
 
       <ul class="lists list06">
         <li>
-          <p class="tit-img pc">溶接閉鎖型帯筋</p>
+          <p class="tit-img pc">ZEH-M Oriented<br><span>（ゼッチ・マンション オリエンテッド）</span></p>
         </li>
         <li>
-          <p class="tit-img pc">ZEH-M Oriented<br><span>（ゼッチ・マンション オリエンテッド）</span></p>
+          <p class="tit-img pc">溶接閉鎖型帯筋</p>
         </li>
         <li>
           <p class="tit-img pc">ダブル配筋</p>
@@ -101,18 +101,18 @@
       </ul>
       <ul class="lists list03 clearfix">
         <li>
-          <p class="tit-img tb">溶接閉鎖型帯筋</p>
-          <p class="lead">住戸のある建物の主要な柱部分には帯筋の接続部を溶接した、溶接閉鎖型帯筋を採用しました。工場溶接による安定した強度の確保によって、地震時の主筋のはらみ出しを抑制して、コンクリートの拘束力を高めます。</p>
-          <div class="image">
-            <img src="./images/structure01/img07.png" alt="" class="">
-            <p class="annotation gothic">（概念図）</span></p>
-          </div>
-        </li>
-        <li>
           <p class="tit-img tb">ZEH-M Oriented<br><span>（ゼッチ・マンション オリエンテッド）</span></p>
           <p class="lead">「ZEH」は、ネット・ゼロエネルギー・ハウスの略であり、外壁など外皮の断熱性能等を大幅に向上させ、高効率な設備システムなどを導入し、「省エネ」を実現した上で、年間の一次エネルギー消費量の収支をゼロとすることを目指した住宅です。また、一次エネルギー消費量の削減する段階毎に基準が設定されました。本物件にて取得予定の「ZEH-M Ready」は、強化外皮基準（断熱性能）と省エネによる一次エネルギー消費量を現行の省エネ基準値から20％以上削減することを満たし、その上で再生可能エネルギー等を加えて一次エネルギー消費量を現行の省エネ基準値から50％以上削減することを目指した基準です。</p>
           <div class="image img03">
             <img src="./images/structure01/img03.png" alt="" class="">
+          </div>
+        </li>
+        <li>
+          <p class="tit-img tb">溶接閉鎖型帯筋</p>
+          <p class="lead">住戸のある建物の主要な柱部分には帯筋の接続部を溶接した、溶接閉鎖型帯筋を採用しました。工場溶接による安定した強度の確保によって、地震時の主筋のはらみ出しを抑制して、コンクリートの拘束力を高めます。</p>
+          <div class="image mt30">
+            <img src="./images/structure01/img07.png" alt="" class="">
+            <p class="annotation gothic">（概念図）</span></p>
           </div>
         </li>
         <li>
@@ -183,10 +183,6 @@
         <li>
           <p class="tit-img">二重床</p>
           <p class="lead">居室には、振動を吸収するクッションゴムを支持脚に装備し、⊿LL（Ⅱ）-4・⊿LH（Ⅱ）-3等級相当（メーカー表示）の遮音性能を備えた二重床構造を採用しました。<br><span>※41階のみ。</span></p>
-          <div class="image img09">
-            <img src="./images/structure01/img09.png" alt="" class="">
-            <p class="annotation gothic">（概念図）</span></p>
-          </div>
           <p class="box">同レベルの音であっても生活する時間帯などにより、音の感じ方には個人差があります。本建物では遮音性に配慮しておりますが、居住者様がお互いに音に対するマナーを守り、快適なマンションライフをお過ごしいただくことが大切となります。</p>
         </li>
         <li class="mr0">
