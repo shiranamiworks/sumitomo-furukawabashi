@@ -40,6 +40,9 @@
 .equipment05 .sections .annotation.mr-35 {
   margin-right: -35px;
 }
+.equipment05 .sections .annotation.white {
+  color: #fff;
+}
 .equipment05 .sections .tit {
   font-size: 42px;
   letter-spacing: 0.12em;
@@ -102,18 +105,27 @@
   margin-right: 2%;
   margin-bottom: 60px;
 }
+.equipment05 .sec01 .lists li.full {
+  width: 100%;
+}
 .equipment05 .sec01 .lists li:last-child {
   margin-right: auto;
 }
-.equipment05 .sec01 .list02 {
-  margin-top: 0;
-  margin-bottom: 60px;
+.equipment05 .sec01 .lists li:last-child .image img {
+  width: 80%;
+  display: block;
+  margin: 30px auto;
 }
 .equipment05 .sec01 .list02 li {
-  vertical-align: bottom;
+  width: 100%;
 }
-.equipment05 .sec01 .list03 {
-  margin-bottom: 60px;
+.equipment05 .sec01 .list02 li .text {
+  display: inline-block;
+  width: 74%;
+}
+.equipment05 .sec01 .list02 li .image {
+  display: inline-block;
+  width: 25%;
 }
 .equipment05 .sec02 .lists li {
   display: inline-block;
@@ -176,11 +188,20 @@
   max-width: 300px;
   margin: auto;
 }
-.equipment05 .sec02 .list02 .half:nth-child(3), .equipment05 .sec02 .list02 .half :nth-child(5) {
+.equipment05 .sec02 .list02 .half:nth-child(3),
+.equipment05 .sec02 .list02 .half :nth-child(5) {
   margin-right: auto;
 }
 .equipment05 .sec02 .list02 .half .image {
   margin-bottom: 20px;
+}
+.equipment05 .sec02 .line-tit {
+  background: #000;
+  color: #fff;
+  font-size: 20px;
+  padding: 10px 0 10px 20px;
+  box-sizing: border-box;
+  margin-bottom: 50px;
 }
 .equipment05 .sec03 .lists li {
   display: inline-block;
@@ -253,8 +274,11 @@
   .equipment05 .sec01 .lists li:last-child {
     width: 100%;
   }
-  .equipment05 .sec01 .list03 {
-    margin-bottom: 40px;
+  .equipment05 .sec01 .list02 li .text {
+    width: 100%;
+  }
+  .equipment05 .sec01 .list02 li .image {
+    width: 100%;
   }
   .equipment05 .sec02 .lists li {
     display: block;
@@ -287,7 +311,8 @@
     width: 100%;
     margin: auto;
   }
-  .equipment05 .sec02 .list02 .full .lead, .equipment05 .sec02 .list02 .full .image {
+  .equipment05 .sec02 .list02 .full .lead,
+  .equipment05 .sec02 .list02 .full .image {
     width: 100%;
   }
   .equipment05 .sec02 .list02 .full .image {
@@ -301,6 +326,11 @@
   }
   .equipment05 .sec02 .list02 .half.pc {
     display: none;
+  }
+  .equipment05 .sec02 .line-tit {
+    font-size: 18px;
+    line-height: 1.4;
+    margin-bottom: 20px;
   }
   .equipment05 .sec03 .lists li {
     width: 100%;

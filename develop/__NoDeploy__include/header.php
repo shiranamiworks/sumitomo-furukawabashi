@@ -115,11 +115,23 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
           <li>
             <p><span class="f-en">PLAN</span><br>間取り</p>
           </li>
-          <li>
-          <a href="<?= $page_settings["directory_pos"]  ?>equipment01.html"><span class="f-en">EQUIPMENT ・QUALITY</span><br>設備・仕様</a>
+          <li class="has-child">
+            <p class="active"><span class="f-en">EQUIPMENT ・QUALITY</span><br>設備・仕様</p>
+            <div class="sub-menu">
+              <a href="<?= $page_settings["directory_pos"]  ?>equipment01.html">キッチン</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>equipment02.html">サニタリー</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>equipment03.html">健康・エコ・省エネ</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>equipment04.html">収納・快適仕様</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>equipment05.html">マルチメディア・サービス</a>
+            </div>
           </li>
-          <li>
-          <a href="<?= $page_settings["directory_pos"]  ?>structure01.html"><span class="f-en">STRUCTURE・SAFETY</span><br>構造・防災</a>
+          <li class="has-child">
+            <p class="active"><span class="f-en">STRUCTURE・SAFETY</span><br>構造・防災</span><br>ロケーション</p>
+            <div class="sub-menu">
+              <a href="<?= $page_settings["directory_pos"]  ?>structure01.html">基本構造</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>structure02.html">セキュリティ</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>structure03.html">防災対策</a>
+            </div>
           </li>
           <li class="has-child">
             <p class="active"><span class="f-en">LOCATION</span><br>ロケーション</p>

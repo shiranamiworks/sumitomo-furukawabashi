@@ -3,7 +3,7 @@
   css設定 @charsetが消されるsass仕様へのハック用コメントです。削除しないでください。新規作成時も必須！
  */
 .equipment04 main img {
-  max-width: 100%;
+  width: 100%;
 }
 .equipment04 .img {
   position: relative;
@@ -28,11 +28,17 @@
 .equipment04 .sections .image {
   position: relative;
   text-align: center;
+  margin-bottom: 20px;
 }
 .equipment04 .sections .annotation {
-  bottom: -20px;
   font-size: 12px;
   text-align: right;
+}
+.equipment04 .sections .annotation.bt {
+  bottom: -20px;
+}
+.equipment04 .sections .annotation.mr-35 {
+  margin-right: -35px;
 }
 .equipment04 .sections .tit {
   font-size: 42px;
@@ -55,7 +61,7 @@
   margin-left: 15px;
 }
 .equipment04 .sections .tit-img {
-  font-size: 24px;
+  font-size: 22px;
   line-height: 1;
   padding-bottom: 10px;
   border-bottom: 1px solid;
@@ -85,28 +91,120 @@
   line-height: 1.2;
 }
 .equipment04 .sec01 {
-  margin-top: 40px;
+  margin-top: 80px;
 }
 .equipment04 .sec01 .lists li {
+  display: inline-block;
+  vertical-align: top;
+  width: 48%;
+  margin-right: 3%;
+  margin-bottom: 30px;
+}
+.equipment04 .sec01 .lists li:nth-child(2n) {
+  margin-right: auto;
+}
+.equipment04 .sec01 .list02 {
+  margin-bottom: 60px;
+}
+.equipment04 .sec01 .list02 li {
+  vertical-align: bottom;
+}
+.equipment04 .sec01 .list03 {
+  margin-bottom: 60px;
+}
+.equipment04 .sec02 {
+  margin-top: 40px;
+}
+.equipment04 .sec02 .lists li {
   display: inline-block;
   vertical-align: top;
   width: 31%;
   margin-right: 2%;
   margin-bottom: 60px;
 }
-.equipment04 .sec01 .lists li.full {
-  width: 100%;
-}
-.equipment04 .sec01 .lists li:last-child {
+.equipment04 .sec02 .lists li:last-child {
   margin-right: auto;
 }
-.equipment04 .sec01 .lists li:last-child .image img {
-  width: 80%;
-  display: block;
-  margin: 30px auto;
+.equipment04 .sec02 .list02 {
+  margin-top: 0;
+  margin-bottom: 60px;
 }
-.equipment04 .sec01 .list02 li {
+.equipment04 .sec02 .list02 li {
+  vertical-align: bottom;
+}
+.equipment04 .sec02 .list03 {
+  margin-bottom: 60px;
+}
+.equipment04 .sec03 .lists li {
+  display: inline-block;
+  vertical-align: top;
+  width: 31%;
+  margin-right: 2%;
+  margin-bottom: 60px;
+}
+.equipment04 .sec03 .lists li.double {
+  width: 66%;
+}
+.equipment04 .sec03 .lists li.full {
+  width: 100%;
+}
+.equipment04 .sec03 .lists li.mr0 {
+  margin-right: auto;
+}
+.equipment04 .sec03 .lists li.mr100 {
+  margin-right: 100px;
+}
+.equipment04 .sec03 .lists li.mb0 {
+  margin-bottom: auto;
+}
+.equipment04 .sec03 .lists li.pc {
+  vertical-align: bottom;
+  margin-bottom: 0;
+}
+.equipment04 .sec03 .lists li:last-child {
+  margin-right: auto;
+}
+.equipment04 .sec03 .list01 .lead-box {
+  display: flex;
+}
+.equipment04 .sec03 .list01 .lead-box .lead {
+  width: 50%;
+  float: left;
+}
+.equipment04 .sec03 .list01 .lead-box .image {
+  width: 50%;
+  margin: auto;
+}
+.equipment04 .sec03 .list02 .full .lead {
+  width: 60%;
+  float: left;
+}
+.equipment04 .sec03 .list02 .full .lead .big {
+  font-size: 20px;
+}
+.equipment04 .sec03 .list02 .full .image {
+  width: 38%;
+  float: right;
+  margin-bottom: 0;
+}
+.equipment04 .sec03 .list02 .half {
+  display: inline-block;
   width: 48%;
+  margin-bottom: 10px;
+}
+.equipment04 .sec03 .list02 .half.pc {
+  vertical-align: bottom;
+}
+.equipment04 .sec03 .list02 .half .image {
+  max-width: 300px;
+  margin: auto;
+}
+.equipment04 .sec03 .list02 .half:nth-child(3),
+.equipment04 .sec03 .list02 .half :nth-child(5) {
+  margin-right: auto;
+}
+.equipment04 .sec03 .list02 .half .image {
+  margin-bottom: 20px;
 }
 .equipment04 main {
   padding-bottom: 50px;
@@ -141,6 +239,77 @@
   }
   .equipment04 .sec01 .lists li:last-child {
     width: 100%;
+  }
+  .equipment04 .sec01 .list03 .img-sub {
+    width: 70%;
+    margin: 0;
+  }
+  .equipment04 .sec01 .list05 {
+    padding-bottom: 0;
+  }
+  .equipment04 .sec01 .list05 li:last-child {
+    margin-top: 40px;
+  }
+  .equipment04 .sec02 {
+    margin-top: 40px;
+  }
+  .equipment04 .sec02 .lists li {
+    display: block;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .equipment04 .sec02 .lists li:last-child {
+    width: 100%;
+  }
+  .equipment04 .sec02 .list03 {
+    margin-bottom: 40px;
+  }
+  .equipment04 .sec03 .lists li {
+    display: block;
+    width: 100%;
+    margin-bottom: 40px !important;
+  }
+  .equipment04 .sec03 .lists li.double {
+    width: 100%;
+  }
+  .equipment04 .sec03 .lists li.double .image {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .equipment04 .sec03 .lists li.pc {
+    display: none;
+  }
+  .equipment04 .sec03 .lists li:last-child {
+    width: 100%;
+    margin-bottom: 0;
+  }
+  .equipment04 .sec03 .list01 .lead-box {
+    display: block;
+  }
+  .equipment04 .sec03 .list01 .lead-box .lead {
+    width: 100%;
+    float: none;
+    margin-bottom: 20px;
+  }
+  .equipment04 .sec03 .list01 .lead-box .image {
+    width: 100%;
+    margin: auto;
+  }
+  .equipment04 .sec03 .list02 .full .lead,
+  .equipment04 .sec03 .list02 .full .image {
+    width: 100%;
+  }
+  .equipment04 .sec03 .list02 .full .image {
+    margin-bottom: 40px;
+  }
+  .equipment04 .sec03 .list02 .half {
+    width: 100%;
+  }
+  .equipment04 .sec03 .list02 .half .image {
+    margin-bottom: 20px;
+  }
+  .equipment04 .sec03 .list02 .half.pc {
+    display: none;
   }
   .equipment04 main {
     padding-bottom: 50px;

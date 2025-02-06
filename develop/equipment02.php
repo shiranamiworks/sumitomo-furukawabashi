@@ -109,18 +109,6 @@
           </div>
         </li>
         <li>
-          <p class="tit-img">天然石洗面カウンター</p>
-          <div class="image pc">
-            <img src="./images/equipment01/img27.jpg" alt="" class="">
-          </div>
-          <p class="lead">洗面化粧台のカウンターには美しく、高級感あふれる天然石を採用しました。<br><span>※41階住戸タイプのみ</span></p>
-          <div class="image tb">
-            <img src="./images/equipment01/img27.jpg" alt="" class="">
-          </div>
-        </li>
-      </ul>
-      <ul class="lists list05 clearfix">
-      <li>
           <p class="tit-img">シングルレバー水栓</p>
           <div class="image pc">
             <img src="./images/equipment01/img11.jpg" alt="" class="">
@@ -130,6 +118,8 @@
             <img src="./images/equipment01/img11.jpg" alt="" class="">
           </div>
         </li>
+      </ul>
+      <ul class="lists list05 clearfix">
       <li>
           <p class="tit-img">天然石洗面カウンター</p>
           <div class="image pc">
@@ -150,12 +140,12 @@
             <img src="./images/equipment01/img12.jpg" alt="" class="">
           </div>
         </li>
-      </ul>
-      <ul class="lists list03 clearfix">
         <li>
           <p class="tit-img">保温浴槽</p>
           <p class="lead">専用のフロフタと浴槽保温材で温まったお湯が冷めにくくなる保温浴槽を採用しました。</p>
         </li>
+      </ul>
+      <ul class="lists list03 clearfix">
         <li>
           <p class="tit-img">大阪ガス浴室暖房乾燥機</p>
           <div class="image pc">
@@ -176,12 +166,12 @@
             <img src="./images/equipment01/img26.jpg" alt="" class="">
           </div>
         </li>
-        </ul>
-      <ul class="lists list03 clearfix">
         <li>
           <p class="tit-img">ツーボウル洗面化粧台</p>
           <p class="lead">洗面ボウルを２つ備えた洗面化粧台を採用したプランをご用意しました。ご家族で効率よく使うことができ、時間のない朝などに便利です。<br><span>※DD-3、DG-3タイプのみ。</span></p>
         </li>
+        </ul>
+      <ul class="lists list03 clearfix">
         <li>
           <p class="tit-img">手洗いカウンター付トイレ</p>
           <p class="lead">トイレには、コンパクトな手洗いカウンターを設けています。すっきりとしたデザインで見た目にも広さとゆとりを感じることができます。<br><span>※DA-3、DB-3、DC-3、DE-3、DF-2、DH-3、DI-3、DJ-3、DK-3、DL-2、DM-3タイプのみ。</span></p>
