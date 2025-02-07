@@ -143,6 +143,9 @@
         &.title {
           vertical-align: bottom;
         }
+        &:nth-child(3){
+          margin-right: auto;
+        }
       }
     }
     .list05 {
