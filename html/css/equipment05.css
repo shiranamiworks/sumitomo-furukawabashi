@@ -195,6 +195,12 @@
 .equipment05 .sec02 .list02 .half .image {
   margin-bottom: 20px;
 }
+.equipment05 .sec02 .list03 li.half {
+  width: 48%;
+}
+.equipment05 .sec02 .list03 li:nth-child(2), .equipment05 .sec02 .list03 li:last-child {
+  margin-right: auto;
+}
 .equipment05 .sec02 .line-tit {
   background: #000;
   color: #fff;
@@ -326,6 +332,9 @@
   }
   .equipment05 .sec02 .list02 .half.pc {
     display: none;
+  }
+  .equipment05 .sec02 .list03 li.half {
+    width: 100%;
   }
   .equipment05 .sec02 .line-tit {
     font-size: 18px;

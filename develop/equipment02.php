@@ -70,7 +70,7 @@
             <img src="./images/equipment01/img17.png" alt="" class="">
             <p class="annotation gothic bt">（参考写真）</p>
           </div>
-          <p class="lead">約1.6ｍ×約2.0ｍの大型ユニッバスを採用しました。浴槽は人にやさしい低床タイプで、快適なバスタイムがお楽しみいただけます。<br><span>※DA-3、DB-3、DC-3、DD-3、DE-3、DF-2、DG-3、DH-3、DI-3、DJ-3タイプのみ。</span></p>
+          <p class="lead">約1.6ｍ×約2.0ｍの大型ユニットバスを採用しました。浴槽は人にやさしい低床タイプで、快適なバスタイムがお楽しみいただけます。<br><span>※DA-3、DB-3、DC-3、DD-3、DE-3、DF-2、DG-3、DH-3、DI-3、DJ-3タイプのみ。</span></p>
           <div class="image tb">
             <img src="./images/equipment01/img17.png" alt="" class="">
             <p class="annotation gothic bt">（参考写真）</p>
@@ -109,18 +109,6 @@
           </div>
         </li>
         <li>
-          <p class="tit-img">シングルレバー水栓</p>
-          <div class="image pc">
-            <img src="./images/equipment01/img11.jpg" alt="" class="">
-          </div>
-          <p class="lead">洗面化粧台には、ヘッドが引き出せ、洗面ボウルを洗うときなどに便利なシングルレバー水栓を採用しました。</p>
-          <div class="image tb">
-            <img src="./images/equipment01/img11.jpg" alt="" class="">
-          </div>
-        </li>
-      </ul>
-      <ul class="lists list05 clearfix">
-      <li>
           <p class="tit-img">天然石洗面カウンター</p>
           <div class="image pc">
             <img src="./images/equipment01/img25.jpg" alt="" class="">
@@ -128,6 +116,18 @@
           <p class="lead">洗面化粧台のカウンターには美しく、高級感あふれる天然石を採用しました。<br><span>※41階住戸タイプのみ</span></p>
           <div class="image tb">
             <img src="./images/equipment01/img25.jpg" alt="" class="">
+          </div>
+        </li>
+      </ul>
+      <ul class="lists list05 clearfix">
+        <li>
+          <p class="tit-img">シングルレバー水栓</p>
+          <div class="image pc">
+            <img src="./images/equipment01/img11.jpg" alt="" class="">
+          </div>
+          <p class="lead">洗面化粧台には、ヘッドが引き出せ、洗面ボウルを洗うときなどに便利なシングルレバー水栓を採用しました。</p>
+          <div class="image tb">
+            <img src="./images/equipment01/img11.jpg" alt="" class="">
           </div>
         </li>
         <li>
@@ -172,6 +172,10 @@
         </li>
         </ul>
       <ul class="lists list03 clearfix">
+      <li>
+          <p class="tit-img">ローシルエットタンクトイレ</p>
+          <p class="lead">コンパクトなフォルムを実現したローシルエットタンクトイレを採用。温水シャワーが快適に使え、着座センサーによりノンタッチで便器の自動洗浄も行なう先進の機能付きです。また、洗浄使用水量が少ない節水タイプで、経済面・環境面に優しい仕様です。<br><span>※41階住戸タイプのみ</span></p>
+        </li>
         <li>
           <p class="tit-img">手洗いカウンター付トイレ</p>
           <p class="lead">トイレには、コンパクトな手洗いカウンターを設けています。すっきりとしたデザインで見た目にも広さとゆとりを感じることができます。<br><span>※DA-3、DB-3、DC-3、DE-3、DF-2、DH-3、DI-3、DJ-3、DK-3、DL-2、DM-3タイプのみ。</span></p>

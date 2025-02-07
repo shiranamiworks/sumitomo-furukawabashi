@@ -87,7 +87,7 @@
           <div class="image pc">
             <img src="./images/equipment01/img06.jpg" alt="" class="">
           </div>
-          <p class="lead">手間をかけず、効率よく食器類が洗浄でき、節水効果にも優れた食器洗い乾燥機をご用意しました。スライド式なので、楽な姿勢で食器の出し入れができます。</p>
+          <p class="lead">手間をかけず効率よく食器類が洗浄でき、節水効果にも優れた食器洗い乾燥機をご用意しました。スライド式なので、楽な姿勢で食器の出し入れができます。</p>
           <div class="image tb">
             <img src="./images/equipment01/img06.jpg" alt="" class="">
           </div>
@@ -108,16 +108,6 @@
       </ul>
       <ul class="lists list05">
         <li>
-          <p class="tit-img">コンロ前パネル</p>
-          <div class="image pc">
-            <img src="./images/equipment01/img07.jpg" alt="" class="">
-          </div>
-          <p class="lead">水はねや油汚れが付きやすいコンロ前には、メラミン不燃化粧板を採用しました。目地が少なく、汚れも拭き取りやすくなっています。</p>
-          <div class="image tb">
-            <img src="./images/equipment01/img07.jpg" alt="" class="">
-          </div>
-        </li>
-        <li>
           <p class="tit-img">スライド式収納</p>
           <div class="image pc">
             <img src="./images/equipment01/img08.jpg" alt="" class="">
@@ -137,18 +127,8 @@
             <img src="./images/equipment01/img22.jpg" alt="" class="">
           </div>
         </li>
-      </ul>
-      <ul class="lists list06">
         <li>
-          <p class="tit-img pc">足元スライド式収納</p>
-        </li>
-        <li>
-          <p class="tit-img pc">ブルム社製<br>フルエクステンションレール</p>
-        </li>
-      </ul>
-      <ul class="lists list05">
-        <li>
-          <p class="tit-img tb">足元スライド式収納</p>
+          <p class="tit-img">足元スライド式収納</p>
           <div class="image pc">
             <img src="./images/equipment01/img23.jpg" alt="" class="">
           </div>
@@ -157,8 +137,10 @@
             <img src="./images/equipment01/img23.jpg" alt="" class="">
           </div>
         </li>
+      </ul>
+      <ul class="lists list05">
         <li>
-          <p class="tit-img tb">ブルム社製<br>フルエクステンションレール</p>
+          <p class="tit-img ">ブルム社製<br>フルエクステンションレール</p>
           <p class="lead">引き出しには一番奥までスムーズに引き出せる世界有数のオーストリア・ブルム社製のフルエクステンションレールを採用しています。さらに、ブルモーション機能を内蔵しているため、勢いよく閉めても手前で機構が働いて、衝撃を和らげ、ゆっくりと静かに引き込みます。<br><span>※スパイスケースを除く。<br>※41階住戸タイプのみ</span></p>
         </li>
       </ul>
