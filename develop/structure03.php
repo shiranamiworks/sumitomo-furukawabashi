@@ -65,8 +65,16 @@
           <p class="lead">地震などの災害時に万一停電しても、共用部の一部設備、非常用エレベーター、共用部照明の一部、共用部オートドアの一部、住戸への給水などを約48時間稼動させるため、非常用発電機から電力を供給します。（法規制4時間含む）<br><span>※被災の状況により電力を供給できない場合があります。<br>※稼動時間は燃料満載時前提です。また使用状況により稼動時間が変わる場合があります。<br>※火災信号が入った場合には、法的な防災設備の稼動が優先されます。</span></p>
         </li>
         <li>
+          <p class="tit-img">防災用井戸<span>（予定※1）</span></p>
+          <p class="lead">災害時に水道や電気などのライフラインが停止しても、非常用マンホールトイレ洗浄水を確保できる防災用の井戸を敷地内に設置する予定です<sup>（※1）</sup>。<br><span>※1.掘削状況により計画を中止・変更する場合があります。くわしくは係員にお尋ねくだい。※飲料水としては使用できません。※被災の状況により水が使えない場合があります。</span></p>
+        </li>
+        <li>
           <p class="tit-img">災害時の給水対策</p>
           <p class="lead">1階共用部の共用トイレへは水道本管から給水ポンプを経由せずに給水しているので、万一の停電で給水ポンプが停止しても、水を使うことができます。<br><span>※被災の状況により水が使えない場合があります。</span></p>
+        </li>
+        <li>
+          <p class="tit-img">防火水槽</p>
+          <p class="lead">万一の火災に備えて、消防隊の迅速な消火活動をバックアップするために、敷地外構の地中に約40tの水を貯めることができる防火水槽を設置しています。</p>
         </li>
         <li>
           <p class="tit-img">防災リュック</p>
@@ -81,14 +89,6 @@
           <p class="lead">火災が発生した時、初期消火を行うことができる屋内消火栓が共用部の各所に設置されています。<br><span>※スプリンクラー設置階は除く。</span></p>
         </li>
         <li>
-          <p class="tit-img">防火水槽</p>
-          <p class="lead">万一の火災に備えて、消防隊の迅速な消火活動をバックアップするために、敷地外構の地中に約40tの水を貯めることができる防火水槽を設置しています。</p>
-        </li>
-        <li>
-          <p class="tit-img">防災用井戸<span>（予定※1）</span></p>
-          <p class="lead">災害時に水道や電気などのライフラインが停止しても、非常用マンホールトイレ洗浄水を確保できる防災用の井戸を敷地内に設置する予定です<sup>（※1）</sup>。<br><span>※1.掘削状況により計画を中止・変更する場合があります。くわしくは係員にお尋ねくだい。※飲料水としては使用できません。※被災の状況により水が使えない場合があります。</span></p>
-        </li>
-        <li>
           <p class="tit-img">非常用マンホールトイレ</p>
           <p class="lead">災害時に敷地内の特定のマンホールのフタを外して簡易トイレ（非常用マンホールトイレ）を設置するだけですぐに利用できます。</p>
         </li>
@@ -100,7 +100,7 @@
         <li>
           <p class="tit-img">ガス漏れ検知器</p>
           <p class="lead">万一ガス漏れが発生した場合は、ガス漏れ検知器が作動。当該住戸内のインターホン（親機）と玄関前インターホン（子機）より警報音が鳴り、室内外に異常をお知らせするとともに、警備会社および住友不動産建物サービス設備管理センターへ自動通報されます。</p>
-          <div class="image">
+          <div class="image tb">
             <img src="./images/structure02/img04.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
@@ -108,14 +108,42 @@
         <li>
           <p class="tit-img">火災感知器</p>
           <p class="lead">万一火災などが発生した場合は、火災感知器が作動。住戸内インターホン（親機）と玄関前インターホン（子機）より警報が鳴り、室内外に異常をお知らせするとともに、警備会社、住友不動産建物サービス設備管理センターへ自動通報されます。<br><span>※11階以上はスプリンクラーと兼用となります。</span></p>
-          <div class="image">
+          <div class="image tb">
             <img src="./images/structure02/img03.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
         <li>
+          <p class="tit-img">耐震ドア枠</p>
+          <p class="lead">万一の地震時に、玄関扉の枠が歪んでも、枠と扉の隙間を大きく設けることにより、扉の開放を容易にできるように配慮した対震ドア枠を採用しました。</p>
+          <div class="image img06 tb">
+            <img src="./images/structure02/img06.png">
+            <p class="annotation gothic bt pc">（概念図）</span></p>
+          </div>
+        </li>
+        <!-- <li>
           <p class="tit-img">ホーム保安灯</p>
           <p class="lead">停電時にライトが自動点灯するホーム保安灯を採用しました。コンセントから簡単に取り外せるので、非常時の携帯電灯としても使用できます。さらに、周囲が暗くなると自動点灯するナイトライト機能も付いています。</p>
+        </li> -->
+        </ul>
+        <ul class="lists list02">
+        <li>
+          <div class="image pc">
+            <img src="./images/structure02/img04.jpg" alt="" class="">
+            <p class="annotation gothic">（参考写真）</p>
+          </div>
+        </li>
+        <li>
+          <div class="image pc">
+            <img src="./images/structure02/img03.jpg" alt="" class="">
+            <p class="annotation gothic">（参考写真）</p>
+          </div>
+        </li>
+        <li>
+          <div class="image img06 pc">
+            <img src="./images/structure02/img06.png" alt="" class="">
+            <p class="annotation gothic bt tb">（概念図）</span></p>
+          </div>
         </li>
         </ul>
       <ul class="lists list03">
@@ -133,7 +161,7 @@
         </li>
         </ul>
       <ul class="lists list05">
-        <li>
+        <!-- <li>
           <p class="tit-img">耐震ドア枠</p>
           <div class="image img06">
             <img src="./images/structure02/img06.png" alt="" class="pc">
@@ -144,7 +172,7 @@
             <img src="./images/structure02/img06.png" alt="" class="tb">
             <p class="annotation gothic bt tb">（概念図）</span></p>
           </div>
-        </li>
+        </li> -->
         <li class="mr0">
           <p class="tit-img">家具固定用下地補強</p>
           <div class="image">
