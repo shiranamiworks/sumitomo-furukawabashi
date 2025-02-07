@@ -30,7 +30,7 @@
 
   <div class="structure-link structure-link--3">
     <a href="structure01.html"><p>基本構造</p></a>
-    <a href="structure02.html"><p>セキュリティ</p></a>
+    <a href="structure03.html"><p>セキュリティ</p></a>
     <a href="structure03.html" class="current"><p>防災対策</p></a>
   </div>
 
@@ -43,7 +43,7 @@
           <p class="tit-img">エレベーター安全装置</p>
           <p class="lead">エレベーター運転中に、地震管制装置が一定値を超えた地震の初期微動（Ｐ波）・主要動（S波）を感知すると、最寄階に速やかに停止します。また、停電した際には一旦停止後、停電時自動着床装置により最寄階に自動停止し、さらに天井の停電灯が点灯してエレベーター内を照らす他、インターホンが使用できるので外部との連絡も可能です。<br><span>※エレベーター運転中に急速な大きい地震により主要動（S波）［高］を感知した場合は、その瞬間に直ちに休止し、最寄階への移動をしない場合や扉が開かない場合がございます。<br>※非常用エレベーターは停電時、一旦停止後、最寄階に自動停止。非常用発電機が作動し通常の運転に戻ります。</span></p>
           <div class="image img01">
-            <img src="./images/structure02/img01.png" alt="" class="">
+            <img src="./images/structure03/img01.png" alt="" class="">
             <p class="annotation gothic bt">（概念図）</span></p>
           </div>
           <p class="mini">非常用エレベーターのみとなります。</p>
@@ -52,7 +52,7 @@
           <p class="tit-img">防災備品</p>
           <p class="lead">地震などの非常時に備え、防災備品をご用意しました。初期共助に使用する小型拡声器、救助用工具セット、救助用ロープ、スコップ、防塵マスクなどを備えています。また、災害時のライフサポート備品として救急箱、非常用ロウソク、災害保存用飲料水、災害用簡易トイレなども備えています。</p>
           <div class="image">
-            <img src="./images/structure02/img02.png" alt="" class="">
+            <img src="./images/structure03/img02.png" alt="" class="">
             <p class="annotation gothic bt">（参考写真）</p>
             <p class="annotation annotation02 gothic bt">（参考写真）</p>
           </div>
@@ -101,7 +101,7 @@
           <p class="tit-img">ガス漏れ検知器</p>
           <p class="lead">万一ガス漏れが発生した場合は、ガス漏れ検知器が作動。当該住戸内のインターホン（親機）と玄関前インターホン（子機）より警報音が鳴り、室内外に異常をお知らせするとともに、警備会社および住友不動産建物サービス設備管理センターへ自動通報されます。</p>
           <div class="image tb">
-            <img src="./images/structure02/img04.jpg" alt="" class="">
+            <img src="./images/structure03/img04.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
@@ -109,7 +109,7 @@
           <p class="tit-img">火災感知器</p>
           <p class="lead">万一火災などが発生した場合は、火災感知器が作動。住戸内インターホン（親機）と玄関前インターホン（子機）より警報が鳴り、室内外に異常をお知らせするとともに、警備会社、住友不動産建物サービス設備管理センターへ自動通報されます。<br><span>※11階以上はスプリンクラーと兼用となります。</span></p>
           <div class="image tb">
-            <img src="./images/structure02/img03.jpg" alt="" class="">
+            <img src="./images/structure03/img03.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
@@ -117,7 +117,7 @@
           <p class="tit-img">耐震ドア枠</p>
           <p class="lead">万一の地震時に、玄関扉の枠が歪んでも、枠と扉の隙間を大きく設けることにより、扉の開放を容易にできるように配慮した対震ドア枠を採用しました。</p>
           <div class="image img06 tb">
-            <img src="./images/structure02/img06.png">
+            <img src="./images/structure03/img06.png">
             <p class="annotation gothic bt pc">（概念図）</span></p>
           </div>
         </li>
@@ -129,19 +129,19 @@
         <ul class="lists list02">
         <li>
           <div class="image pc">
-            <img src="./images/structure02/img04.jpg" alt="" class="">
+            <img src="./images/structure03/img04.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
         <li>
           <div class="image pc">
-            <img src="./images/structure02/img03.jpg" alt="" class="">
+            <img src="./images/structure03/img03.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
         <li>
           <div class="image img06 pc">
-            <img src="./images/structure02/img06.png" alt="" class="">
+            <img src="./images/structure03/img06.png" alt="" class="">
             <p class="annotation gothic bt tb">（概念図）</span></p>
           </div>
         </li>
@@ -164,23 +164,23 @@
         <!-- <li>
           <p class="tit-img">耐震ドア枠</p>
           <div class="image img06">
-            <img src="./images/structure02/img06.png" alt="" class="pc">
+            <img src="./images/structure03/img06.png" alt="" class="pc">
             <p class="annotation gothic bt pc">（概念図）</span></p>
           </div>
           <p class="lead">万一の地震時に、玄関扉の枠が歪んでも、枠と扉の隙間を大きく設けることにより、扉の開放を容易にできるように配慮した対震ドア枠を採用しました。</p>
           <div class="image img06">
-            <img src="./images/structure02/img06.png" alt="" class="tb">
+            <img src="./images/structure03/img06.png" alt="" class="tb">
             <p class="annotation gothic bt tb">（概念図）</span></p>
           </div>
         </li> -->
         <li class="mr0">
           <p class="tit-img">家具固定用下地補強</p>
           <div class="image">
-          <img src="./images/structure02/img07.png" alt="" class="pc"><p class="annotation gothic bt pc">（概念図）</span></p>
+          <img src="./images/structure03/img07.png" alt="" class="pc"><p class="annotation gothic bt pc">（概念図）</span></p>
           </div>
           <p class="lead">万一の地震時による家具転倒予防として、キッチンの一部の間仕切壁などに家具固定用下地補強を施しました。壁面の一部分にある下地補強に家具を固定することで家具が倒れにくくなり、住まう方の安全に配慮された仕様です。<br><span>※住戸タイプにより洋室にも設置される場合があります。また、設置箇所は異なります。詳細は係員にお尋ねください。※取付金具は別途お客様のご負担となります。</span></p>
           <div class="image">
-          <img src="./images/structure02/img07-sp.png" alt="" class="tb"><p class="annotation gothic bt tb">（概念図）</span></p>
+          <img src="./images/structure03/img07-sp.png" alt="" class="tb"><p class="annotation gothic bt tb">（概念図）</span></p>
           </div>
         </li>
       </ul>
@@ -196,7 +196,7 @@
 
 <div class="structure-link structure-link--3">
     <a href="structure01.html"><p>基本構造</p></a>
-    <a href="structure02.html"><p>セキュリティ</p></a>
+    <a href="structure03.html"><p>セキュリティ</p></a>
     <a href="structure03.html" class="current"><p>防災対策</p></a>
   </div>
 
