@@ -31,11 +31,10 @@
   <div class="structure-link structure-link--3">
     <a href="structure01.html"><p>基本構造</p></a>
     <a href="structure02.html" class="current"><p>セキュリティ</p></a>
-    <a href="structure02.html"><p>防災対策</p></a>
+    <a href="structure03.html"><p>防災対策</p></a>
   </div>
   <section class="sections sec01 clearfix">
     <div class="wrap">
-    <h2 class="tit">Security</h2>
       <div class="tit01">【共用部】</div>
       <ul class="lists list01">
         <li>
@@ -151,7 +150,7 @@
 <div class="structure-link structure-link--3">
     <a href="structure01.html"><p>基本構造</p></a>
     <a href="structure02.html" class="current"><p>セキュリティ</p></a>
-    <a href="structure02.html"><p>防災対策</p></a>
+    <a href="structure03.html"><p>防災対策</p></a>
   </div>
 
 <?php require(INCLUDES."footer.php"); ?>
