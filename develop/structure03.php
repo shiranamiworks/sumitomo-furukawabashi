@@ -46,7 +46,7 @@
             <img src="./images/structure03/img01.png" alt="" class="">
             <p class="annotation gothic bt">（概念図）</span></p>
           </div>
-          <p class="mini">非常用エレベーターのみとなります。</p>
+          <p class="mini">初期微動を感知することにより、より迅速な対応を可能とします。非常用エレベーターのみとなります。</p>
         </li>
         <li>
           <p class="tit-img">防災備品</p>
@@ -114,7 +114,7 @@
           </div>
         </li>
         <li>
-          <p class="tit-img">耐震ドア枠</p>
+          <p class="tit-img">対震ドア枠</p>
           <p class="lead">万一の地震時に、玄関扉の枠が歪んでも、枠と扉の隙間を大きく設けることにより、扉の開放を容易にできるように配慮した対震ドア枠を採用しました。</p>
           <div class="image img06 tb">
             <img src="./images/structure03/img06.png">
@@ -173,15 +173,20 @@
             <p class="annotation gothic bt tb">（概念図）</span></p>
           </div>
         </li> -->
-        <li class="mr0">
+        <li>
           <p class="tit-img">家具固定用下地補強</p>
-          <div class="image">
-          <img src="./images/structure03/img07.png" alt="" class="pc"><p class="annotation gothic bt pc">（概念図）</span></p>
-          </div>
           <p class="lead">万一の地震時による家具転倒予防として、キッチンの一部の間仕切壁などに家具固定用下地補強を施しました。壁面の一部分にある下地補強に家具を固定することで家具が倒れにくくなり、住まう方の安全に配慮された仕様です。<br><span>※住戸タイプにより洋室にも設置される場合があります。また、設置箇所は異なります。詳細は係員にお尋ねください。※取付金具は別途お客様のご負担となります。</span></p>
+          <div class="image">
+          <img src="./images/structure03/img07.png" alt="" class="pc"><p class="annotation gothic pc">（概念図）</span></p>
+          </div>
           <div class="image">
           <img src="./images/structure03/img07-sp.png" alt="" class="tb"><p class="annotation gothic bt tb">（概念図）</span></p>
           </div>
+        </li>
+        <li class="mr0">
+          <p class="tit-img">ホーム保安灯</p>
+          <p class="lead">停電時にライトが自動点灯するホーム保安灯を採用しました。コンセントから簡単に取り外せるので、非常時の携帯電灯としても使用できます。さらに、周囲が暗くなると自動点灯するナイトライト機能も付いています。
+          </p>
         </li>
       </ul>
     </div>
