@@ -109,9 +109,8 @@
   width: 31%;
   margin-right: 2%;
 }
-.equipment02 .sec02 .lists li.full {
-  width: 100%;
-  margin-bottom: 0;
+.equipment02 .sec02 .lists li:nth-child(3n) {
+  margin-right: auto;
 }
 .equipment02 .sec02 .lists li:last-child {
   margin-right: auto;
