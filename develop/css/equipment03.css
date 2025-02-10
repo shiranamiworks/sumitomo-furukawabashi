@@ -78,6 +78,11 @@
   line-height: 1.6;
   margin-top: 10px;
 }
+.equipment03 .sections .lead span.left {
+  position: absolute;
+  right: 0;
+  text-align: left;
+}
 .equipment03 .sections .lead01 {
   color: #7f3326;
 }
@@ -119,14 +124,14 @@
   bottom: 0;
 }
 .equipment03 .sec01 .list00 .text {
-  width: 55%;
+  width: 45%;
   float: left;
 }
 .equipment03 .sec01 .list00 .text .text01 {
   font-size: 14px;
 }
 .equipment03 .sec01 .list00 .image {
-  width: 40%;
+  width: 50%;
   float: right;
 }
 .equipment03 .sec01 .list00 .image.full {
@@ -149,22 +154,13 @@
   margin-left: 5%;
 }
 .equipment03 .sec01 .list03 li.double .image.img-sub .annotation {
-  bottom: -30px;
+  bottom: -50px;
 }
 .equipment03 .sec01 .list03 li.double .image.tb {
   display: none;
 }
 .equipment03 .sec01 .list04 li {
   vertical-align: bottom;
-}
-.equipment03 .sec01 .list04 li .image {
-  width: 70%;
-  float: left;
-  margin-bottom: 0;
-}
-.equipment03 .sec01 .list04 li .image.img02 {
-  width: 27%;
-  float: right;
 }
 .equipment03 .sec01 .list08 li {
   margin-bottom: 60px;

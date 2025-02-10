@@ -55,7 +55,7 @@
             <p class="lead">窓を閉めたままでも常に換気ができる、24時間換気システムを採用しています。機械給気により外気を各室に取入れ、室内の空気は機械で排気します。給気ファン内のフィルターで一定のホコリ・ちりを低減します。<br><span>※41階のみ ※使用するフィルターによって低減できる物質の量は異なります。</span></p>
           </div>
           <div class="image">
-            <img src="./images/equipment03/img07.jpg" alt="" class=""><p class="annotation gothic">（参考写真）</p>
+            <img src="./images/equipment03/img02.png" alt="" class="">
           </div>
         </li>
       </ul>
@@ -68,45 +68,45 @@
             <p class="lead">床面が約25℃、お部屋全体は約20℃前後という理想的な暖房で、長時間暖房しても頭がボーッとしたり、のぼせたりしません。<br><span>※仕上げ材、建物の構造や断熱性能等により床面温度、室温は異なります。</span></p>
           </div>
           <div class="image">
-            <img src="./images/equipment03/img13.jpg" alt="" class="">
-            <p class="lead"><span>■床暖房の垂直温度分布図<br>条件：外気温5℃（大阪ガス株式会社実測値）</span></p>
+            <img src="./images/equipment03/img03.jpg" alt="" class="">
+            <p class="lead"><span class="left">■床暖房の垂直温度分布図<br>条件：外気温5℃（大阪ガス株式会社実測値）</span></p>
           </div>
         </li>
       </ul>
       <ul class="lists list01">
         <li>
           <p class="tit-img">Low-Eガラス</p>
-          <div class="image size pc">
-            <img src="./images/equipment03/img09.jpg" alt="" class="">
+          <div class="image pc">
+            <img src="./images/equipment03/img04.png" alt="" class="">
             <p class="annotation gothic">（概念図）</p>
           </div>
           <p class="lead">開口部には省エネ効果に優れたLow-Eガラスを採用。ガラスの表面にコーティングされた日射熱の反射性を高める特殊金属膜（Low-E膜）と断熱性を高める空気層により、冷暖房両方の負荷を軽減します。<br><span>※詳細は係員にお尋ねください。</span></p>
-          <div class="image size tb">
-            <img src="./images/equipment03/img09.jpg" alt="" class="">
+          <div class="image tb">
+            <img src="./images/equipment03/img04.png" alt="" class="">
             <p class="annotation gothic">（概念図）</p>
           </div>
         </li>
         <li>
           <p class="tit-img">生ゴミディスポーザー</p>
           <div class="image pc">
-            <img src="./images/equipment03/img05.jpg" alt="" class="">
+            <img src="./images/equipment03/img05.png" alt="" class="">
             <p class="annotation gothic">（概念図）</p>
           </div>
           <p class="lead">生ゴミを、キッチンですばやく粉砕処理できるシステムです。各住戸のディスポーザーで破砕された生ゴミは、専用の排水処理装置で浄化してから排水することができます。<br><span>※一部処理できないものもあります。</span></p>
           <div class="image tb">
-            <img src="./images/equipment03/img05.jpg" alt="" class="">
+            <img src="./images/equipment03/img05.png" alt="" class="">
             <p class="annotation gothic">（概念図）</p>
           </div>
         </li>
         <li>
           <p class="tit-img">太陽光発電システム</p>
           <div class="image pc">
-            <img src="./images/equipment03/img04.jpg" alt="" class="">
+            <img src="./images/equipment03/img06.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
           <p class="lead">自然エネルギーを有効に活用した太陽光発電システムを屋上に設置。マンションの共用部で使用する電力の一部を賄う事ができます。</p>
           <div class="image tb">
-            <img src="./images/equipment03/img04.jpg" alt="" class="">
+            <img src="./images/equipment03/img06.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
@@ -116,23 +116,20 @@
           <p class="tit-img">ミストサウナ</p>
           <p class="lead">一般のドライサウナと比べ、低温・高湿度で息苦しくなくリラックスして楽しめます。気分をリフレッシュしたいとき、お肌をやさしくいたわりたいとき、ミストサウナ入浴で素敵なバスタイムを。さらに、衣類のリフレッシュや浴室のカビ抑制により、家事の負担を軽減します。</p>
           <div class="image">
-            <img src="./images/equipment03/img08.jpg" alt="" class="">
-          </div>
-          <div class="image img02">
-            <img src="./images/equipment03/img08-02.png" alt="" class="">
+            <img src="./images/equipment03/img07.jpg" alt="" class="">
           </div>
         </li>
       </ul>
       <ul class="lists list03">
         <li>
           <p class="tit-img">エコ機能付き給湯リモコン</p>
-          <div class="image size pc">
-            <img src="./images/equipment03/img02.jpg" alt="" class="">
+          <div class="image pc">
+            <img src="./images/equipment03/img08.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
           <p class="lead">キッチンとバスルームの給湯リモコンには「エコ運転機能」を搭載。画面メニューから「エコ」をタッチするだけで給湯量が自動調整でき、省エネ・節約に効果的です。また、エネファームで使用した一日のガス・お湯の量、使用料金の目安、CO2の排出量を表示する「エネルック機能」も付いています。<span>※「エコ運転機能」を利用して2ヶ所以上でお湯を使うと湯細りする可能性があります。</span></p>
-          <div class="image size tb">
-            <img src="./images/equipment03/img02.jpg" alt="" class="">
+          <div class="image tb">
+            <img src="./images/equipment03/img08.jpg" alt="" class="">
             <p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
