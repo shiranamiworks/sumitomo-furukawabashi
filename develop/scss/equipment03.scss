@@ -35,7 +35,7 @@
       margin-bottom: 30px;
     }
     .annotation {
-      bottom: -20px;
+      bottom: -15px;
       font-size: 12px;
       text-align: right;
     }
@@ -160,11 +160,8 @@
           display: inline-block;
           vertical-align: top;
           &.img-sub {
-            width: 50%;
-            margin-left: 5%;
-            .annotation {
-              bottom: -50px;
-            }
+            width: 60%;
+            margin-left: 4%;
           }
           &.tb {
             display: none;
@@ -180,8 +177,9 @@
     .list08 {
       li {
         margin-bottom: 60px;
+        width: 48%;
       }
-      li:nth-child(3n) {
+      li:nth-child(2n) {
         margin-right: auto;
       }
     }

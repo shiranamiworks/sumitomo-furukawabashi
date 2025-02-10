@@ -33,7 +33,7 @@
     <a href="equipment02.html"><p>サニタリー</p></a>
     <a href="equipment03.html"><p>健康・エコ・省エネ</p></a>
     <a href="equipment04.html"><p>収納・快適仕様</p></a>
-    <a href="equipment05.html"><p>マルチメディア・サービス</p></a>
+    <a href="equipment05.html"><p>マルチメディア・<br class="pc">サービス</p></a>
   </div>
 
   <section class="sections sec01 clearfix">
@@ -157,7 +157,7 @@
     <a href="equipment02.html"><p>サニタリー</p></a>
     <a href="equipment03.html"><p>健康・エコ・省エネ</p></a>
     <a href="equipment04.html"><p>収納・快適仕様</p></a>
-    <a href="equipment05.html"><p>マルチメディア・サービス</p></a>
+    <a href="equipment05.html"><p>マルチメディア・<br class="pc">サービス</p></a>
   </div>
 
 <?php require(INCLUDES."footer.php"); ?>

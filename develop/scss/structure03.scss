@@ -39,6 +39,13 @@
       &.bt {
         bottom: -15px;
       }
+      &.right{
+        right: 0;
+      }
+      &.left{
+        right: auto;
+        left: 30%;
+      }
     }
     .annotation02 {
       right: 37%;
@@ -288,6 +295,12 @@
         .img06 {
           width: 100%;
           margin: auto;
+        }
+        .annotation{
+          bottom: -10%;
+          &.left{
+            left: 35%;
+          }
         }
       }
     } //sec01

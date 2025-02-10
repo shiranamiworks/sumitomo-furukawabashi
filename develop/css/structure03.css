@@ -36,6 +36,13 @@
 .structure03 .sections .annotation.bt {
   bottom: -15px;
 }
+.structure03 .sections .annotation.right {
+  right: 0;
+}
+.structure03 .sections .annotation.left {
+  right: auto;
+  left: 30%;
+}
 .structure03 .sections .annotation02 {
   right: 37%;
 }
@@ -263,6 +270,12 @@
   .structure03 .sec01 .list05 .img06 {
     width: 100%;
     margin: auto;
+  }
+  .structure03 .sec01 .list05 .annotation {
+    bottom: -10%;
+  }
+  .structure03 .sec01 .list05 .annotation.left {
+    left: 35%;
   }
   .structure03 main {
     padding-bottom: 50px;
