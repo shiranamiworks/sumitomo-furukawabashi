@@ -90,7 +90,7 @@
 
       <ul class="lists list06">
         <li>
-          <p class="tit-img pc">ZEH-M Oriented<br><span>（ゼッチ・マンション オリエンテッド）</span></p>
+          <p class="tit-img pc">ZZEH-M Ready</p>
         </li>
         <li>
           <p class="tit-img pc">溶接閉鎖型帯筋</p>
@@ -101,7 +101,7 @@
       </ul>
       <ul class="lists list03 clearfix">
         <li>
-          <p class="tit-img tb">ZEH-M Oriented<br><span>（ゼッチ・マンション オリエンテッド）</span></p>
+          <p class="tit-img tb">ZEH-M Ready</p>
           <p class="lead">「ZEH」は、ネット・ゼロエネルギー・ハウスの略であり、外壁など外皮の断熱性能等を大幅に向上させ、高効率な設備システムなどを導入し、「省エネ」を実現した上で、年間の一次エネルギー消費量の収支をゼロとすることを目指した住宅です。また、一次エネルギー消費量の削減する段階毎に基準が設定されました。本物件にて取得予定の「ZEH-M Ready」は、強化外皮基準（断熱性能）と省エネによる一次エネルギー消費量を現行の省エネ基準値から20％以上削減することを満たし、その上で再生可能エネルギー等を加えて一次エネルギー消費量を現行の省エネ基準値から50％以上削減することを目指した基準です。</p>
           <div class="image img03">
             <img src="./images/structure01/img03.png" alt="" class="">
@@ -117,7 +117,7 @@
         </li>
         <li>
           <p class="tit-img tb">ダブル配筋</p>
-          <p class="lead">住戸のある建物の耐震壁の鉄筋は、コンクリートの中に二重に鉄筋を配したダブル配筋を採用しています。シングル配筋に比べより高い耐震性を確保します。</p>
+          <p class="lead">住戸のある建物の耐震壁の鉄筋は、コンクリートの中に二重に鉄筋を配したダブル配筋を採用し、シングル配筋に比べより高い耐震性を確保します。</p>
           <div class="image img06">
             <img src="./images/structure01/img06.png" alt="" class="">
             <p class="annotation gothic">（概念図）</span></p>
@@ -157,7 +157,7 @@
         </li>
         <li>
           <p class="tit-img">防音フード</p>
-          <p class="lead">住戸には、室外の給気口および一部排気口に、外部からの騒音に対する防音性能を備えた、防音フードを採用しました。<br><span>※詳細は係員にお尋ねください。</span></p>
+          <p class="lead">一部住戸には、室外の給気口・排気口に、外部からの騒音に対する防音性能を備えた、防音フードを採用しました。<br><span>※詳細は係員にお尋ねください。</span></p>
         </li>
       </ul>
     </div>
@@ -187,7 +187,7 @@
         </li>
         <li class="mr0">
           <p class="tit-img">間仕切り壁</p>
-          <p class="lead">住戸内の間仕切り壁は厚さ約9.5㎜のプラスターボード貼としていますが、一部には、ボード下地材間にグラスウールを充填し、遮音性に配慮しています。<br><span>※一部除く。詳細は係員にお尋ねください。</span></p>
+          <p class="lead">住戸内の間仕切り壁は厚さ約9.5㎜のプラスターボード貼としていますが、一部には、プラスターボードを二重貼ボード下地材間にグラスウールを充填し、遮音性に配慮しています。<br><span>※一部除く。詳細は係員にお尋ねください。</span></p>
           <div class="image img10">
             <img src="./images/structure01/img10.png" alt="" class="">
             <p class="annotation gothic">（概念図）</span></p>
