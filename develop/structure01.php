@@ -90,7 +90,7 @@
 
       <ul class="lists list06">
         <li>
-          <p class="tit-img pc">ZZEH-M Ready</p>
+          <p class="tit-img pc">ZEH-M Ready</p>
         </li>
         <li>
           <p class="tit-img pc">—nÚ•Â½Œ^‘Ñ‹Ø</p>
