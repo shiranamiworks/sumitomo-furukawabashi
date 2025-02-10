@@ -73,7 +73,7 @@
       </ul>
       <ul class="lists list03">
         <li>
-          <p class="tit-img">コンロ前パネル</p>
+          <p class="tit-img"><br>コンロ前パネル</p>
           <div class="image pc">
             <img src="./images/equipment01/img03.jpg" alt="" class="">
           </div>
@@ -83,7 +83,7 @@
           </div>
         </li>
         <li>
-          <p class="tit-img">スライド式食器洗い乾燥機</p>
+          <p class="tit-img"><br>スライド式食器洗い乾燥機</p>
           <div class="image pc">
             <img src="./images/equipment01/img06.jpg" alt="" class="">
           </div>
@@ -93,7 +93,7 @@
           </div>
         </li>
         <li>
-          <p class="tit-img"><span class="mini">ショット社製ガラストッププレート</span></p>
+          <p class="tit-img"><span class="mini">ショット社製<br>ガラストッププレート</span></p>
           <div class="image pc">
             <img src="./images/equipment01/img04.jpg" alt="" class="">
           </div>

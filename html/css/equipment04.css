@@ -30,6 +30,10 @@
   text-align: center;
   margin-bottom: 20px;
 }
+.equipment04 .sections .image .img15, .equipment04 .sections .image .img16 {
+  width: 66%;
+  margin: auto;
+}
 .equipment04 .sections .annotation {
   font-size: 12px;
   text-align: right;
@@ -61,7 +65,7 @@
   margin-left: 15px;
 }
 .equipment04 .sections .tit-img {
-  font-size: 22px;
+  font-size: 1.8rem;
   line-height: 1;
   padding-bottom: 10px;
   border-bottom: 1px solid;
@@ -142,6 +146,12 @@
   margin-right: 2%;
   margin-bottom: 60px;
 }
+.equipment04 .sec03 .lists li.half {
+  width: 48%;
+}
+.equipment04 .sec03 .lists li.half li {
+  width: 100%;
+}
 .equipment04 .sec03 .lists li.double {
   width: 66%;
 }
@@ -160,6 +170,9 @@
 .equipment04 .sec03 .lists li.pc {
   vertical-align: bottom;
   margin-bottom: 0;
+}
+.equipment04 .sec03 .lists li:nth-child(2) {
+  margin-right: auto;
 }
 .equipment04 .sec03 .lists li:last-child {
   margin-right: auto;
@@ -182,10 +195,19 @@
 .equipment04 .sec03 .list02 .full .lead .big {
   font-size: 20px;
 }
+.equipment04 .sec03 .list02 .full .lead.lead01 {
+  width: 100%;
+  margin-bottom: 20px;
+}
 .equipment04 .sec03 .list02 .full .image {
   width: 38%;
   float: right;
   margin-bottom: 0;
+}
+.equipment04 .sec03 .list02 .full .image.img01 {
+  width: 80%;
+  margin: 20px auto 0;
+  float: none;
 }
 .equipment04 .sec03 .list02 .half {
   display: inline-block;
@@ -275,6 +297,9 @@
   .equipment04 .sec03 .lists li.double .image {
     width: 100%;
     margin-bottom: 40px;
+  }
+  .equipment04 .sec03 .lists li.half {
+    width: 100%;
   }
   .equipment04 .sec03 .lists li.pc {
     display: none;

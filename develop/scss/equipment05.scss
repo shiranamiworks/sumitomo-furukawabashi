@@ -33,12 +33,23 @@
       position: relative;
       text-align: center;
       margin-bottom: 20px;
+      &.img50{
+        width: 50%;
+        margin: auto;
+      }
+      &.img75{
+        width: 75%;
+        margin: auto;
+      }
     }
     .annotation {
       font-size: 12px;
       text-align: right;
       &.bt {
         bottom: -20px;
+      }
+      &.bt10{
+        bottom: -10px;
       }
       &.mr-35 {
         margin-right: -35px;
@@ -71,7 +82,7 @@
       }
     }
     .tit-img {
-      font-size: 22px;
+      font-size: 1.8rem;
       line-height: 1;
       padding-bottom: 10px;
       border-bottom: 1px solid;
@@ -91,6 +102,9 @@
         letter-spacing: 0;
         line-height: 1.6;
         margin-top: 10px;
+      }
+      &.mb50{
+        margin-bottom: 50px;
       }
     }
     .text {
@@ -274,6 +288,11 @@
     }
     .list01 {
       margin-bottom: 60px;
+      .half {
+        display: inline-block;
+        width: 48%;
+        margin-bottom: 10px;
+      }
     }
   } //sec03
 
@@ -304,6 +323,9 @@
       .lead {
         span {
           font-size: 13px;
+        }
+        &.mb50{
+          margin-bottom: 25px;
         }
       }
       .text {
@@ -419,6 +441,9 @@
         &.double {
           width: 100%;
           margin-bottom: 40px;
+        }
+        &.half{
+          width: 100%;
         }
       }
       .list01 {

@@ -30,12 +30,23 @@
   text-align: center;
   margin-bottom: 20px;
 }
+.equipment05 .sections .image.img50 {
+  width: 50%;
+  margin: auto;
+}
+.equipment05 .sections .image.img75 {
+  width: 75%;
+  margin: auto;
+}
 .equipment05 .sections .annotation {
   font-size: 12px;
   text-align: right;
 }
 .equipment05 .sections .annotation.bt {
   bottom: -20px;
+}
+.equipment05 .sections .annotation.bt10 {
+  bottom: -10px;
 }
 .equipment05 .sections .annotation.mr-35 {
   margin-right: -35px;
@@ -65,7 +76,7 @@
   margin-left: 15px;
 }
 .equipment05 .sections .tit-img {
-  font-size: 22px;
+  font-size: 1.8rem;
   line-height: 1;
   padding-bottom: 10px;
   border-bottom: 1px solid;
@@ -86,6 +97,9 @@
   letter-spacing: 0;
   line-height: 1.6;
   margin-top: 10px;
+}
+.equipment05 .sections .lead.mb50 {
+  margin-bottom: 50px;
 }
 .equipment05 .sections .text {
   font-size: 19px;
@@ -245,6 +259,11 @@
 .equipment05 .sec03 .list01 {
   margin-bottom: 60px;
 }
+.equipment05 .sec03 .list01 .half {
+  display: inline-block;
+  width: 48%;
+  margin-bottom: 10px;
+}
 .equipment05 main {
   padding-bottom: 50px;
 }
@@ -262,6 +281,9 @@
   }
   .equipment05 .sections .lead span {
     font-size: 13px;
+  }
+  .equipment05 .sections .lead.mb50 {
+    margin-bottom: 25px;
   }
   .equipment05 .sections .text {
     font-size: 17px;
@@ -359,6 +381,9 @@
   .equipment05 .sec03 .lists li.double {
     width: 100%;
     margin-bottom: 40px;
+  }
+  .equipment05 .sec03 .lists li.half {
+    width: 100%;
   }
   .equipment05 .sec03 .list01 {
     margin-bottom: 40px;

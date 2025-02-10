@@ -33,6 +33,10 @@
       position: relative;
       text-align: center;
       margin-bottom: 20px;
+      .img15,.img16{
+        width: 66%;
+        margin: auto;
+      }
     }
     .annotation {
       font-size: 12px;
@@ -67,7 +71,7 @@
       }
     }
     .tit-img {
-      font-size: 22px;
+      font-size: 1.8rem;
       line-height: 1;
       padding-bottom: 10px;
       border-bottom: 1px solid;
@@ -155,6 +159,12 @@
         width: 31%;
         margin-right: 2%;
         margin-bottom: 60px;
+        &.half{
+          width: 48%;
+          li{
+            width: 100%;
+          }
+        }
         &.double {
           width: 66%;
         }
@@ -173,6 +183,9 @@
         &.pc {
           vertical-align: bottom;
           margin-bottom: 0;
+        }
+        &:nth-child(2){
+          margin-right: auto;
         }
       }
       li:last-child {
@@ -200,11 +213,20 @@
           .big {
             font-size: 20px;
           }
+          &.lead01{
+            width: 100%;
+            margin-bottom: 20px;
+          }
         }
         .image {
           width: 38%;
           float: right;
           margin-bottom: 0;
+          &.img01{
+            width: 80%;
+            margin: 20px auto 0;
+            float: none;
+          }
         }
       }
       .half {
@@ -319,6 +341,9 @@
               width: 100%;
               margin-bottom: 40px;
             }
+          }
+          &.half{
+            width: 100%;
           }
           &.pc {
             display: none;
