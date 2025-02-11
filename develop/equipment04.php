@@ -118,11 +118,11 @@
         <li>
           <p class="tit-img">ハンズフリーキー</p>
           <div class="image pc">
-            <img src="./images/equipment04/img07.jpg" alt="" class="">
+            <img src="./images/equipment04/img07.jpg" alt="" class=""><p class="annotation gothic left">（概念図）</p><p class="annotation gothic">（参考写真）</p>
           </div>
           <p class="lead">主なオートロックドアには、鍵をカバンやポケットに入れたままで解錠可能な、ハンズフリーキーを採用。<br><span>※周辺通行時の意図しない解錠・誤作動防止のため、設置箇所により認証方法・検知範囲が異なります。また、検知範囲には限度があり、構造上、動線がカバーされていない箇所もあります。</span></p>
           <div class="image tb">
-            <img src="./images/equipment04/img07.jpg" alt="" class="">
+            <img src="./images/equipment04/img07.jpg" alt="" class=""><p class="annotation gothic left">（概念図）</p><p class="annotation gothic">（参考写真）</p>
           </div>
         </li>
       </ul>
@@ -202,7 +202,7 @@
           <p class="tit-img">中空スラブ工法</p>
           <p class="lead">住戸の主な床スラブは中空スラブ工法を採用しました。天井に梁の出張りが少ない住空間となります。<br><span>※住戸境には梁の出張りがあります。<br>※中空スペースの形状は場所により異なります。</span></p>
           <div class="image">
-            <img src="./images/equipment04/img14.png" alt="" class=""><p class="annotation gothic bt">（概念図）</p>
+            <img src="./images/equipment04/img14.png" alt="" class=""><p class="annotation gothic bt left01">（概念図）</p><p class="annotation gothic bt">（概念図）</p>
           </div>
         </li>
         <li class="half">

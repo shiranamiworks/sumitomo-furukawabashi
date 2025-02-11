@@ -44,6 +44,14 @@
 .equipment04 .sections .annotation.mr-35 {
   margin-right: -35px;
 }
+.equipment04 .sections .annotation.left {
+  right: auto;
+  left: 15%;
+}
+.equipment04 .sections .annotation.left01 {
+  right: auto;
+  left: 30%;
+}
 .equipment04 .sections .tit {
   font-size: 42px;
   letter-spacing: 0.12em;
