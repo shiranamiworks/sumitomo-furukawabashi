@@ -25,8 +25,8 @@
 	<li class="concept"><a href="concept.html">コンセプト</a></li>
 	<li class="design"><a href="design.html">デザイン</a></li>
 	<!--li class="public"><a href="public.html">共用空間</a></li-->
-	<li class="public">共用空間</li>
-	<li class="private"><span><a href="private.html">室内空間</a></span></li>
+	<li class="public"><span>共用空間<br>
+	（ <a href="public01.html">迎賓空間</a> ／ <a href="public02.html">共用空間</a> ）</span></li>
 	<!--li class="plan"><a href="/tokai/higashibetsuin/list.php" target="_blank">間取り</a></li-->
 	<li class="plan">間取り</li>
 	<!--li class="equipment"><span>設備・仕様<br />
