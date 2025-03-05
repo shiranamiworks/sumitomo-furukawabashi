@@ -18,7 +18,7 @@
         <li class="start top"><a href="<?= $page_settings["directory_pos"]  ?>">トップページ</a></li>
         <li class="concept"><a href="<?= $page_settings["directory_pos"]  ?>concept.html">コンセプト</a></li>
         <li class="design"><a href="<?= $page_settings["directory_pos"]  ?>design.html">デザイン</a></li>
-        <li class="public">共用空間</li>
+        <li class="public"><a href="<?= $page_settings["directory_pos"]  ?>public01.html">共用空間</a></li></li>
         <li class="private"><a href="<?= $page_settings["directory_pos"]  ?>private.html">室内空間</a></li>
         <li class="roomplan">間取り</li>
         <li class="equipment"><a href="<?= $page_settings["directory_pos"]  ?>equipment01.html">設備・仕様</a></li>

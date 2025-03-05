@@ -104,8 +104,12 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
           </li>
           <li><a href="<?= $page_settings["directory_pos"]  ?>design.html"><span class="f-en">DESIGN</span><br>デザイン</a>
           </li>
-          <li>
-            <p><span class="f-en">COMMON SPACE</span><br>共用空間</p>
+          <li class="has-child">
+            <p class="active"><span class="f-en">COMMON SPACE</span><br>共用空間</p>
+            <div class="sub-menu">
+              <a href="<?= $page_settings["directory_pos"]  ?>public01.html">迎賓空間</a>
+              <a href="<?= $page_settings["directory_pos"]  ?>public02.html">共用空間</a>
+            </div>
           </li>
           <li>
             <a href="<?= $page_settings["directory_pos"]  ?>private.html"><span class="f-en">PRIVATE SPACE</span><br>室内空間</a>
@@ -169,7 +173,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li><a href="<?= $page_settings["directory_pos"]  ?>">トップ</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>concept.html">コンセプト</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>design.html">デザイン</a></li>
-        <li>共用空間</li>
+        <li><a href="<?= $page_settings["directory_pos"]  ?>public01.html">共用空間</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>private.html">室内空間</a></li>
         <li>間取り</li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>equipment01.html">設備・仕様</a></li>
