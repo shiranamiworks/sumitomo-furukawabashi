@@ -1,0 +1,406 @@
+@charset "UTF-8";
+/* 
+  css設定 @charsetが消されるsass仕様へのハック用コメントです。削除しないでください。新規作成時も必須！
+ */
+#adtag {
+  opacity: 0;
+}
+
+.breadcrumb {
+  padding: 20px 2%;
+  border-top: 1px solid #f1e9dc;
+  border-bottom: 1px solid #f1e9dc;
+  background: #fff;
+  color: #000;
+}
+
+.breadcrumb ul {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1.4rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  color: #888;
+}
+
+.breadcrumb ul li a {
+  color: #000;
+}
+
+.breadcrumb ul li:not(:last-child) a::after,
+.breadcrumb ul li:not(:last-child) p::after {
+  content: " ＞ ";
+  display: inline-block;
+}
+
+.annotation-area {
+  background: #fff;
+  color: #797979;
+  padding: 40px 0;
+}
+
+.page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 10px;
+  line-height: 1.8;
+}
+
+.wrap {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1200px;
+}
+
+#public02 main img {
+  max-width: 100%;
+}
+#public02 .image {
+  position: relative;
+}
+#public02 .image .annotation {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  text-align: right;
+  font-size: 10px;
+}
+#public02 .image .annotation.white {
+  color: #fff;
+  text-shadow: 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000;
+}
+#public02 main {
+  color: #231815;
+  font-family: "RyuminPro", serif;
+  line-height: 1;
+  background: url(../images/common/bg.png);
+  background-size: contain;
+  background-position: right;
+  background-repeat: repeat-y;
+}
+#public02 sup {
+  font-size: 10px;
+  vertical-align: super;
+}
+#public02 sp {
+  display: none;
+}
+#public02 pc {
+  display: block;
+}
+#public02 .page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+}
+#public02 .main-visual {
+  position: relative;
+  border: none;
+}
+#public02 .sections .inner {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1200px;
+}
+#public02 .sections .image {
+  position: relative;
+}
+#public02 .sections .annotation {
+  font-size: 10px;
+  text-align: right;
+}
+#public02 .sections .column02 li {
+  vertical-align: top;
+  display: inline-block;
+  width: 48%;
+  margin-right: 2%;
+}
+#public02 .sections .column02 li:nth-child(2n),
+#public02 .sections .column02 li:last-child {
+  margin-right: auto;
+}
+#public02 .sections .column03 li {
+  vertical-align: top;
+  display: inline-block;
+  width: 32%;
+  margin-right: 1%;
+}
+#public02 .sections .column03 li:nth-child(3n),
+#public02 .sections .column03 li:last-child {
+  margin-right: auto;
+}
+#public02 .intro {
+  background: #c5d6da;
+  color: #002d43;
+  text-align: center;
+  padding: 140px 0 80px;
+}
+#public02 .intro .inner {
+  max-width: 1000px;
+}
+#public02 .intro .tab-btn {
+  margin-bottom: 200px;
+}
+#public02 .intro .tab-btn li {
+  display: inline-block;
+  width: 48%;
+  margin-right: 2%;
+}
+#public02 .intro .tab-btn li:last-child {
+  margin: auto;
+}
+#public02 .intro .tab-btn a {
+  display: block;
+  font-size: 22px;
+  letter-spacing: 0.15em;
+  font-weight: bold;
+  border-bottom: 2px solid;
+  padding-bottom: 6px;
+}
+#public02 .intro .en-tit {
+  font-size: 42px;
+  letter-spacing: 0.15em;
+  margin-bottom: 30px;
+}
+#public02 .intro .tit {
+  font-size: 30px;
+  letter-spacing: 0.15em;
+}
+#public02 .images {
+  background: #c5d6da;
+  color: #002d43;
+  text-align: center;
+}
+#public02 .images .texts {
+  padding: 80px 0;
+}
+#public02 .images .texts .en-tit {
+  font-size: 24px;
+  letter-spacing: 0.15em;
+  margin-bottom: 20px;
+}
+#public02 .images .texts .txt {
+  font-size: 32px;
+  line-height: 2;
+  letter-spacing: 0.2em;
+  margin-bottom: 40px;
+}
+#public02 .images .texts .lead {
+  font-size: 18px;
+  line-height: 1.8;
+}
+#public02 .floor {
+  text-align: center;
+  background: #fff;
+}
+#public02 .floor .inner {
+  max-width: 1000px;
+}
+#public02 .floor .tit {
+  background: #5b7b90;
+  padding: 10px 0;
+  font-size: 30px;
+  letter-spacing: 0.2em;
+  color: #fff;
+  margin-bottom: 60px;
+}
+#public02 .floor .lead {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 80px;
+}
+#public02 .floor .img01 {
+  max-width: 1000px;
+  margin: 0 auto 80px;
+}
+#public02 .features {
+  background: #c5d6da;
+  padding: 80px 0;
+  border-top: 20px solid #5b7b90;
+}
+#public02 .features .inner {
+  max-width: 1000px;
+}
+#public02 .features .lists {
+  margin-bottom: 60px;
+}
+#public02 .features .lists li {
+  display: inline-block;
+  vertical-align: bottom;
+}
+#public02 .features .lists .name {
+  font-size: 22px;
+  line-height: 1.6;
+  margin-bottom: 30px;
+  color: #002d43;
+}
+#public02 .features .lists .info {
+  font-size: 15px;
+  line-height: 2;
+}
+#public02 .features .list01 li {
+  text-align: left;
+  width: 38%;
+  margin-right: 4%;
+}
+#public02 .features .list01 li:last-child {
+  width: 56%;
+  margin: auto;
+}
+#public02 .features .list02 li {
+  text-align: left;
+  width: 56%;
+  margin-right: 4%;
+}
+#public02 .features .list02 li:last-child {
+  width: 38%;
+  margin: auto;
+}
+#public02 .features .list03 {
+  text-align: center;
+  margin-bottom: 100px;
+}
+#public02 .features .list03 li {
+  width: 100%;
+  margin-bottom: 60px;
+}
+#public02 .features .list03 li:last-child {
+  width: 100%;
+  margin: auto;
+}
+#public02 .features .img06 {
+  margin-bottom: 10px;
+}
+#public02 .features .img06 .name {
+  font-size: 22px;
+  line-height: 1.6;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  color: #002d43;
+}
+#public02 .features .list04 {
+  margin-bottom: 0;
+}
+#public02 .features .list04 li {
+  text-align: left;
+  width: 38%;
+  margin-right: 4%;
+  vertical-align: middle;
+}
+#public02 .features .list04 li:last-child {
+  width: 56%;
+  margin: auto;
+}
+#public02 .features .list04 .name {
+  margin-top: 10px;
+}
+#public02 .corridor {
+  text-align: center;
+  background: #c5d6da;
+  padding: 0 0 80px;
+}
+#public02 .corridor .inner {
+  max-width: 1000px;
+  margin: 60px auto 0;
+}
+@media screen and (max-width: 768px) {
+  #public02 sp {
+    display: block;
+  }
+  #public02 pc {
+    display: none;
+  }
+  #public02 main {
+    background: none;
+  }
+}
+@media screen and (max-width: 768px) and (max-width: 768px) {
+  #public02 .swipe-img {
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+  }
+  #public02 .swipe-img img {
+    max-width: auto !important;
+    max-width: inherit !important;
+    width: auto !important;
+  }
+  #public02 .swipe {
+    display: block;
+    text-align: center;
+    margin: 20px auto 40px;
+  }
+  #public02 .swipe img {
+    max-width: 75px;
+    width: 15%;
+    height: auto;
+    margin: auto;
+    pointer-events: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  #public02 .main-visual {
+    padding-bottom: 0;
+  }
+  #public02 .sections .column02 li {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  #public02 .sections .column02 li:last-child {
+    margin-bottom: auto;
+  }
+  #public02 .sections .column03 li {
+    display: block;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  #public02 .sections .column03 li .txt img {
+    display: block;
+    height: 80px;
+    margin: auto;
+  }
+  #public02 .sections .column03 li .txt.h15 img {
+    display: block;
+    height: 95px;
+    margin: auto;
+  }
+  #public02 .sections .column03 li:last-child {
+    margin-bottom: auto;
+  }
+  #public02 .intro {
+    padding: 60px 0;
+  }
+  #public02 .intro .tab-btn {
+    margin-bottom: 60px;
+  }
+  #public02 .intro .tab-btn a {
+    font-size: 18px;
+  }
+  #public02 .intro .en-tit {
+    font-size: 32px;
+    letter-spacing: 0.15em;
+    margin-bottom: 20px;
+  }
+  #public02 .intro .tit {
+    font-size: 26px;
+    letter-spacing: 0.15em;
+  }
+  #public02 .images .texts {
+    text-align: left;
+    width: 84%;
+    margin: auto;
+    padding: 40px 0 50px;
+  }
+  #public02 .images .texts .en-tit {
+    font-size: 22px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  #public02 .images .texts .txt {
+    font-size: 26px;
+    line-height: 2;
+    letter-spacing: 0.2em;
+    margin-bottom: 20px;
+  }
+  #public02 .images .texts .lead {
+    font-size: 16px;
+    line-height: 1.8;
+  }
+}/*# sourceMappingURL=public02.css.map */

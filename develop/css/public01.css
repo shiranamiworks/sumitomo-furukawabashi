@@ -1,0 +1,292 @@
+@charset "UTF-8";
+/* 
+  css設定 @charsetが消されるsass仕様へのハック用コメントです。削除しないでください。新規作成時も必須！
+ */
+#adtag {
+  opacity: 0;
+}
+
+.breadcrumb {
+  padding: 20px 2%;
+  border-top: 1px solid #f1e9dc;
+  border-bottom: 1px solid #f1e9dc;
+  background: #fff;
+  color: #000;
+}
+
+.breadcrumb ul {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 1.4rem;
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  color: #888;
+}
+
+.breadcrumb ul li a {
+  color: #000;
+}
+
+.breadcrumb ul li:not(:last-child) a::after,
+.breadcrumb ul li:not(:last-child) p::after {
+  content: " ＞ ";
+  display: inline-block;
+}
+
+.annotation-area {
+  background: #fff;
+  color: #797979;
+  padding: 40px 0;
+}
+
+.page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 10px;
+  line-height: 1.8;
+}
+
+.wrap {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1200px;
+}
+
+#public01 main img {
+  max-width: 100%;
+}
+#public01 .image {
+  position: relative;
+}
+#public01 .image .annotation {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  text-align: right;
+  font-size: 10px;
+}
+#public01 .image .annotation.white {
+  color: #fff;
+  text-shadow: 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000, 0px 0px 4px #000;
+}
+#public01 main {
+  color: #231815;
+  font-family: "RyuminPro", serif;
+  line-height: 1;
+  background: url(../images/common/bg.png);
+  background-size: contain;
+  background-position: right;
+  background-repeat: repeat-y;
+}
+#public01 sup {
+  font-size: 10px;
+  vertical-align: super;
+}
+#public01 sp {
+  display: none;
+}
+#public01 pc {
+  display: block;
+}
+#public01 .page-annotation {
+  font-family: "Noto Sans JP", sans-serif;
+}
+#public01 .main-visual {
+  position: relative;
+  border: none;
+}
+#public01 .sections .inner {
+  margin: 0 auto;
+  width: 84%;
+  max-width: 1200px;
+}
+#public01 .sections .image {
+  position: relative;
+}
+#public01 .sections .annotation {
+  font-size: 10px;
+  text-align: right;
+}
+#public01 .sections .column02 li {
+  vertical-align: top;
+  display: inline-block;
+  width: 48%;
+  margin-right: 2%;
+}
+#public01 .sections .column02 li:nth-child(2n),
+#public01 .sections .column02 li:last-child {
+  margin-right: auto;
+}
+#public01 .sections .column03 li {
+  vertical-align: top;
+  display: inline-block;
+  width: 32%;
+  margin-right: 1%;
+}
+#public01 .sections .column03 li:nth-child(3n),
+#public01 .sections .column03 li:last-child {
+  margin-right: auto;
+}
+#public01 .intro {
+  background: #c5d6da;
+  color: #002d43;
+  text-align: center;
+  padding: 140px 0 80px;
+}
+#public01 .intro .inner {
+  max-width: 1000px;
+}
+#public01 .intro .tab-btn {
+  margin-bottom: 200px;
+}
+#public01 .intro .tab-btn li {
+  display: inline-block;
+  width: 48%;
+  margin-right: 2%;
+}
+#public01 .intro .tab-btn li:last-child {
+  margin: auto;
+}
+#public01 .intro .tab-btn a {
+  display: block;
+  font-size: 22px;
+  letter-spacing: 0.15em;
+  font-weight: bold;
+  border-bottom: 2px solid;
+  padding-bottom: 6px;
+}
+#public01 .intro .en-tit {
+  font-size: 42px;
+  letter-spacing: 0.15em;
+  margin-bottom: 30px;
+}
+#public01 .intro .tit {
+  font-size: 30px;
+  letter-spacing: 0.15em;
+}
+#public01 .images {
+  background: #c5d6da;
+  color: #002d43;
+  text-align: center;
+}
+#public01 .images .texts {
+  padding: 80px 0;
+}
+#public01 .images .texts .en-tit {
+  font-size: 24px;
+  letter-spacing: 0.15em;
+  margin-bottom: 20px;
+}
+#public01 .images .texts .txt {
+  font-size: 32px;
+  line-height: 2;
+  letter-spacing: 0.2em;
+  margin-bottom: 40px;
+}
+#public01 .images .texts .lead {
+  font-size: 18px;
+  line-height: 1.8;
+}
+@media screen and (max-width: 768px) {
+  #public01 sp {
+    display: block;
+  }
+  #public01 pc {
+    display: none;
+  }
+  #public01 main {
+    background: none;
+  }
+}
+@media screen and (max-width: 768px) and (max-width: 768px) {
+  #public01 .swipe-img {
+    overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
+  }
+  #public01 .swipe-img img {
+    max-width: auto !important;
+    max-width: inherit !important;
+    width: auto !important;
+  }
+  #public01 .swipe {
+    display: block;
+    text-align: center;
+    margin: 20px auto 40px;
+  }
+  #public01 .swipe img {
+    max-width: 75px;
+    width: 15%;
+    height: auto;
+    margin: auto;
+    pointer-events: none;
+  }
+}
+@media screen and (max-width: 768px) {
+  #public01 .main-visual {
+    padding-bottom: 0;
+  }
+  #public01 .sections .column02 li {
+    display: block;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  #public01 .sections .column02 li:last-child {
+    margin-bottom: auto;
+  }
+  #public01 .sections .column03 li {
+    display: block;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  #public01 .sections .column03 li .txt img {
+    display: block;
+    height: 80px;
+    margin: auto;
+  }
+  #public01 .sections .column03 li .txt.h15 img {
+    display: block;
+    height: 95px;
+    margin: auto;
+  }
+  #public01 .sections .column03 li:last-child {
+    margin-bottom: auto;
+  }
+  #public01 .intro {
+    padding: 60px 0;
+  }
+  #public01 .intro .tab-btn {
+    margin-bottom: 60px;
+  }
+  #public01 .intro .tab-btn a {
+    font-size: 18px;
+  }
+  #public01 .intro .en-tit {
+    font-size: 32px;
+    letter-spacing: 0.15em;
+    margin-bottom: 20px;
+  }
+  #public01 .intro .tit {
+    font-size: 26px;
+    letter-spacing: 0.15em;
+  }
+  #public01 .images .texts {
+    text-align: left;
+    width: 84%;
+    margin: auto;
+    padding: 40px 0 50px;
+  }
+  #public01 .images .texts .en-tit {
+    font-size: 22px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  #public01 .images .texts .txt {
+    font-size: 26px;
+    line-height: 2;
+    letter-spacing: 0.2em;
+    margin-bottom: 20px;
+  }
+  #public01 .images .texts .lead {
+    font-size: 16px;
+    line-height: 1.8;
+  }
+}/*# sourceMappingURL=public01.css.map */
