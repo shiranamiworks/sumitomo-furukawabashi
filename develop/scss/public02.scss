@@ -33,7 +33,7 @@
   display: inline-block;
 }
 .annotation-area {
-  background: #fff;
+  background: #c5d6da;
   color: #797979;
   padding: 40px 0;
 }
@@ -92,6 +92,7 @@
   .main-visual {
     position: relative;
     border: none;
+    line-height: 0;
   }
   .sections {
     .inner {
@@ -153,7 +154,6 @@
         display: block;
         font-size: 22px;
         letter-spacing: 0.15em;
-        font-weight: bold;
         border-bottom: 2px solid;
         padding-bottom: 6px;
       }
@@ -175,14 +175,15 @@
       padding: 80px 0;
       .en-tit {
         font-size: 24px;
+        font-weight: bold;
         letter-spacing: 0.15em;
         color: #002d43;
         margin-bottom: 20px;
       }
       .txt {
-        font-size: 32px;
+        font-size: 30px;
         line-height: 2;
-        letter-spacing: 0.2em;
+        letter-spacing: 0.1em;
         color: #002d43;
         margin-bottom: 40px;
       }
@@ -323,7 +324,7 @@
       margin-bottom: 40px;
     }
     .lead {
-      font-size: 18px;
+      font-size: 16px;
       line-height: 1.8;
 
       margin-bottom: 30px;
@@ -339,6 +340,9 @@
       ul {
         width: 86%;
         margin: 0 auto 40px;
+        display: inline-flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
         li {
           display: inline-block;
           vertical-align: top;
@@ -346,7 +350,7 @@
           margin-right: 2%;
         }
         li:last-child {
-          margin-right: auto;
+          margin-right: 0;
         }
         .txt01 {
           font-size: 18px;
@@ -449,6 +453,7 @@
         margin-bottom: 60px;
         a {
           font-size: 18px;
+          border-bottom: 1px solid;
         }
       }
       .en-tit {
@@ -468,18 +473,18 @@
         margin: auto;
         padding: 40px 0 50px;
         .en-tit {
-          font-size: 22px;
+          font-size: 2rem;
           line-height: 1.5;
           margin-bottom: 10px;
         }
         .txt {
-          font-size: 26px;
+          font-size: 2.1rem;
           line-height: 2;
           letter-spacing: 0.2em;
           margin-bottom: 20px;
         }
         .lead {
-          font-size: 16px;
+          font-size: 1.6rem;
           line-height: 1.8;
         }
       }
@@ -493,9 +498,10 @@
       .tit {
         font-size: 26px;
         margin-bottom: 40px;
+        line-height: 2;
       }
       .lead {
-        font-size: 16px;
+        font-size: 1.6rem;
         margin-bottom: 50px;
       }
       .img01 {
@@ -515,13 +521,13 @@
           vertical-align: bottom;
         }
         .name {
-          font-size: 22px;
+          font-size: 2.2rem;
           line-height: 1.6;
           margin-bottom: 10px;
           color: #002d43;
         }
         .info {
-          font-size: 15px;
+          font-size: 1.6rem;
           line-height: 2;
         }
       }
@@ -562,6 +568,7 @@
       } //list03
       .img06 {
         .name {
+          font-size: 1.8rem;
           margin-bottom: 40px;
         }
       } //img06
@@ -576,6 +583,7 @@
           margin: auto;
         }
         .name {
+          font-size: 1.8rem;
           margin-top: 10px;
         }
       } //list04
@@ -587,15 +595,15 @@
         margin: 40px auto 0;
       }
       .en-tit {
-        font-size: 22px;
+        font-size: 2.2rem;
         margin-bottom: 10px;
       }
       .txt {
-        font-size: 26px;
+        font-size: 2.6rem;
         margin-bottom: 20px;
       }
       .lead {
-        font-size: 16px;
+        font-size: 1.6rem;
         margin-bottom: 30px;
       }
       .white-bg {
@@ -603,12 +611,14 @@
         padding: 30px 10px 10px;
         box-sizing: border-box;
         .tit {
-          font-size: 24px;
+          font-size: 2.4rem;
+          text-align: center;
           margin-bottom: 30px;
         }
         ul {
           width: 86%;
           margin: 0 auto 30px;
+          display: flex;
           li {
             width: 100%;
             margin-bottom: 20px;

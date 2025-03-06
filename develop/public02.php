@@ -57,7 +57,7 @@
     </div>
     <div class="texts">
       <p class="en-tit">PUBLIC SPACE</p>
-      <p class="txt">［3F］ テレワークラウンジ</p>
+      <p class="txt">［3F］テレワークラウンジ</p>
       <p class="lead">仕事や勉強に集中できる快適なサードプレイス。<br class="pc">オープンスペースを機能的に配置し、心地良い広がりを感じられる空間となっています。</p>
     </div>
   </div><!-- images -->
@@ -101,6 +101,7 @@
       <li>
         <div class="image">
         <img src="./images/public02/features02.jpg" alt="" class="">
+        <p class="annotation white">image photo</p>
         </div>
       </li>
       <li>
@@ -116,6 +117,7 @@
       <li>
         <div class="image">
         <img src="./images/public02/features03.jpg" alt="" class="">
+        <p class="annotation white">スカイラウンジ完成予想図</p>
         </div>
       </li>
       <li>

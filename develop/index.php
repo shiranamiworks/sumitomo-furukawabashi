@@ -83,11 +83,18 @@
               <h3>デザイン</h3>
              </div>
         </a>
-         <!-- <div class="ComingSoon">
+        <a href="./public01.html">
+          <figure><img src="./images/top/img_public.jpg" alt="共用空間"></figure>
+            <div class="contents-link__ttl">
+              <p class="f-en">COMMON SPACE</p>
+              <h3>共用空間</h3>
+             </div>
+        </a>
+         <div class="ComingSoon">
           <div class="contents-link__ttl">
              <p class="f-en">Coming Soon</p>
           </div>
-         </div> -->
+         </div>
         </div>
     </div>
   </section><!-- / CONTENTS -->

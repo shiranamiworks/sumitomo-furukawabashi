@@ -56,6 +56,7 @@
 }
 #public01 .image {
   position: relative;
+  line-height: 0;
 }
 #public01 .image .annotation {
   position: absolute;
@@ -150,9 +151,8 @@
   display: block;
   font-size: 22px;
   letter-spacing: 0.15em;
-  font-weight: bold;
   border-bottom: 2px solid;
-  padding-bottom: 6px;
+  padding-bottom: 10px;
 }
 #public01 .intro .en-tit {
   font-size: 42px;
@@ -160,7 +160,7 @@
   margin-bottom: 30px;
 }
 #public01 .intro .tit {
-  font-size: 30px;
+  font-size: 36px;
   letter-spacing: 0.15em;
 }
 #public01 .images {
@@ -172,7 +172,7 @@
 }
 #public01 .images .texts .en-tit {
   font-size: 24px;
-  letter-spacing: 0.15em;
+  letter-spacing: 0.1em;
   color: #002d43;
   margin-bottom: 20px;
 }
@@ -259,6 +259,7 @@
   }
   #public01 .intro .tab-btn a {
     font-size: 18px;
+    border-bottom: 1px solid;
   }
   #public01 .intro .en-tit {
     font-size: 32px;
@@ -276,18 +277,18 @@
     padding: 40px 0 50px;
   }
   #public01 .images .texts .en-tit {
-    font-size: 22px;
+    font-size: 1.8rem;
     line-height: 1.5;
     margin-bottom: 10px;
   }
   #public01 .images .texts .txt {
-    font-size: 26px;
+    font-size: 2.2rem;
     line-height: 2;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.1em;
     margin-bottom: 20px;
   }
   #public01 .images .texts .lead {
-    font-size: 16px;
+    font-size: 1.6rem;
     line-height: 1.8;
   }
 }/*# sourceMappingURL=public01.css.map */

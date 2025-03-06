@@ -34,7 +34,7 @@
 }
 
 .annotation-area {
-  background: #fff;
+  background: #c5d6da;
   color: #797979;
   padding: 40px 0;
 }
@@ -93,6 +93,7 @@
 #public02 .main-visual {
   position: relative;
   border: none;
+  line-height: 0;
 }
 #public02 .sections .inner {
   margin: 0 auto;
@@ -150,7 +151,6 @@
   display: block;
   font-size: 22px;
   letter-spacing: 0.15em;
-  font-weight: bold;
   border-bottom: 2px solid;
   padding-bottom: 6px;
 }
@@ -172,14 +172,15 @@
 }
 #public02 .images .texts .en-tit {
   font-size: 24px;
+  font-weight: bold;
   letter-spacing: 0.15em;
   color: #002d43;
   margin-bottom: 20px;
 }
 #public02 .images .texts .txt {
-  font-size: 32px;
+  font-size: 30px;
   line-height: 2;
-  letter-spacing: 0.2em;
+  letter-spacing: 0.1em;
   color: #002d43;
   margin-bottom: 40px;
 }
@@ -315,7 +316,7 @@
   margin-bottom: 40px;
 }
 #public02 .corridor .lead {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.8;
   margin-bottom: 30px;
 }
@@ -331,6 +332,9 @@
 #public02 .corridor .white-bg ul {
   width: 86%;
   margin: 0 auto 40px;
+  display: inline-flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 #public02 .corridor .white-bg ul li {
   display: inline-block;
@@ -339,7 +343,7 @@
   margin-right: 2%;
 }
 #public02 .corridor .white-bg ul li:last-child {
-  margin-right: auto;
+  margin-right: 0;
 }
 #public02 .corridor .white-bg ul .txt01 {
   font-size: 18px;
@@ -430,6 +434,7 @@
   }
   #public02 .intro .tab-btn a {
     font-size: 18px;
+    border-bottom: 1px solid;
   }
   #public02 .intro .en-tit {
     font-size: 32px;
@@ -447,18 +452,18 @@
     padding: 40px 0 50px;
   }
   #public02 .images .texts .en-tit {
-    font-size: 22px;
+    font-size: 2rem;
     line-height: 1.5;
     margin-bottom: 10px;
   }
   #public02 .images .texts .txt {
-    font-size: 26px;
+    font-size: 2.1rem;
     line-height: 2;
     letter-spacing: 0.2em;
     margin-bottom: 20px;
   }
   #public02 .images .texts .lead {
-    font-size: 16px;
+    font-size: 1.6rem;
     line-height: 1.8;
   }
   #public02 .floor {
@@ -471,9 +476,10 @@
   #public02 .floor .tit {
     font-size: 26px;
     margin-bottom: 40px;
+    line-height: 2;
   }
   #public02 .floor .lead {
-    font-size: 16px;
+    font-size: 1.6rem;
     margin-bottom: 50px;
   }
   #public02 .floor .img01 {
@@ -494,13 +500,13 @@
     vertical-align: bottom;
   }
   #public02 .features .lists .name {
-    font-size: 22px;
+    font-size: 2.2rem;
     line-height: 1.6;
     margin-bottom: 10px;
     color: #002d43;
   }
   #public02 .features .lists .info {
-    font-size: 15px;
+    font-size: 1.6rem;
     line-height: 2;
   }
   #public02 .features .list01 li {
@@ -535,6 +541,7 @@
     margin: auto;
   }
   #public02 .features .img06 .name {
+    font-size: 1.8rem;
     margin-bottom: 40px;
   }
   #public02 .features .list04 {
@@ -549,6 +556,7 @@
     margin: auto;
   }
   #public02 .features .list04 .name {
+    font-size: 1.8rem;
     margin-top: 10px;
   }
   #public02 .corridor {
@@ -559,15 +567,15 @@
     margin: 40px auto 0;
   }
   #public02 .corridor .en-tit {
-    font-size: 22px;
+    font-size: 2.2rem;
     margin-bottom: 10px;
   }
   #public02 .corridor .txt {
-    font-size: 26px;
+    font-size: 2.6rem;
     margin-bottom: 20px;
   }
   #public02 .corridor .lead {
-    font-size: 16px;
+    font-size: 1.6rem;
     margin-bottom: 30px;
   }
   #public02 .corridor .white-bg {
@@ -576,12 +584,14 @@
     box-sizing: border-box;
   }
   #public02 .corridor .white-bg .tit {
-    font-size: 24px;
+    font-size: 2.4rem;
+    text-align: center;
     margin-bottom: 30px;
   }
   #public02 .corridor .white-bg ul {
     width: 86%;
     margin: 0 auto 30px;
+    display: flex;
   }
   #public02 .corridor .white-bg ul li {
     width: 100%;
