@@ -165,7 +165,6 @@
 }
 #public01 .images {
   background: #c5d6da;
-  color: #002d43;
   text-align: center;
 }
 #public01 .images .texts {
@@ -174,12 +173,14 @@
 #public01 .images .texts .en-tit {
   font-size: 24px;
   letter-spacing: 0.15em;
+  color: #002d43;
   margin-bottom: 20px;
 }
 #public01 .images .texts .txt {
   font-size: 32px;
   line-height: 2;
   letter-spacing: 0.2em;
+  color: #002d43;
   margin-bottom: 40px;
 }
 #public01 .images .texts .lead {

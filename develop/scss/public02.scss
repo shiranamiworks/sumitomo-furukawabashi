@@ -170,19 +170,20 @@
   } //intro
   .images {
     background: #c5d6da;
-    color: #002d43;
     text-align: center;
     .texts {
       padding: 80px 0;
       .en-tit {
         font-size: 24px;
         letter-spacing: 0.15em;
+        color: #002d43;
         margin-bottom: 20px;
       }
       .txt {
         font-size: 32px;
         line-height: 2;
         letter-spacing: 0.2em;
+        color: #002d43;
         margin-bottom: 40px;
       }
       .lead {
@@ -308,6 +309,64 @@
       max-width: 1000px;
       margin: 60px auto 0;
     }
+    .en-tit {
+      font-size: 24px;
+      letter-spacing: 0.15em;
+      color: #002d43;
+      margin-bottom: 20px;
+    }
+    .txt {
+      font-size: 32px;
+      line-height: 2;
+      letter-spacing: 0.2em;
+      color: #002d43;
+      margin-bottom: 40px;
+    }
+    .lead {
+      font-size: 18px;
+      line-height: 1.8;
+
+      margin-bottom: 30px;
+    }
+    .white-bg {
+      background: #fff;
+      padding: 30px 0 10px;
+      .tit {
+        font-size: 28px;
+        color: #002d43;
+        margin-bottom: 40px;
+      }
+      ul {
+        width: 86%;
+        margin: 0 auto 40px;
+        li {
+          display: inline-block;
+          vertical-align: top;
+          width: 23%;
+          margin-right: 2%;
+        }
+        li:last-child {
+          margin-right: auto;
+        }
+        .txt01 {
+          font-size: 18px;
+          color: #002d43;
+          margin-bottom: 10px;
+          padding-bottom: 10px;
+          border-bottom: 1px solid;
+        }
+        .txt02 {
+          text-align: left;
+          font-size: 15px;
+          line-height: 1.6;
+        }
+      }
+      .mini {
+        text-align: right;
+        font-size: 11px;
+        line-height: 1.5;
+      }
+    }
   } //corridor
 
   @media screen and (max-width: 1300px) {
@@ -425,5 +484,143 @@
         }
       }
     } //images
+    .floor {
+      text-align: center;
+      background: #fff;
+      .inner {
+        max-width: 1000px;
+      }
+      .tit {
+        font-size: 26px;
+        margin-bottom: 40px;
+      }
+      .lead {
+        font-size: 16px;
+        margin-bottom: 50px;
+      }
+      .img01 {
+        max-width: 1000px;
+        margin: 0 auto 50px;
+      }
+    } //floor
+    .features {
+      padding: 40px 0;
+      .inner {
+        max-width: 1000px;
+      }
+      .lists {
+        margin-bottom: 40px;
+        li {
+          display: inline-block;
+          vertical-align: bottom;
+        }
+        .name {
+          font-size: 22px;
+          line-height: 1.6;
+          margin-bottom: 10px;
+          color: #002d43;
+        }
+        .info {
+          font-size: 15px;
+          line-height: 2;
+        }
+      }
+      .list01 {
+        li {
+          width: 100%;
+          margin: auto;
+        }
+        li:last-child {
+          display: none;
+        }
+        .texts {
+          margin-top: 10px;
+        }
+      } //list01
+      .list02 {
+        li {
+          width: 100%;
+          margin: auto;
+        }
+        li:last-child {
+          width: 100%;
+          margin: 10px auto 0;
+        }
+      } //list02
+      .list03 {
+        text-align: center;
+        margin-bottom: 40px;
+        li {
+          width: 100%;
+          margin-bottom: 10px;
+        }
+        li:last-child {
+          text-align: left;
+          width: 94%;
+          margin: auto;
+        }
+      } //list03
+      .img06 {
+        .name {
+          margin-bottom: 40px;
+        }
+      } //img06
+      .list04 {
+        margin-bottom: 0;
+        li {
+          width: 100%;
+          margin: auto;
+        }
+        li:last-child {
+          width: 100%;
+          margin: auto;
+        }
+        .name {
+          margin-top: 10px;
+        }
+      } //list04
+    } //features
+    .corridor {
+      text-align: left;
+      padding: 0 0 40px;
+      .inner {
+        margin: 40px auto 0;
+      }
+      .en-tit {
+        font-size: 22px;
+        margin-bottom: 10px;
+      }
+      .txt {
+        font-size: 26px;
+        margin-bottom: 20px;
+      }
+      .lead {
+        font-size: 16px;
+        margin-bottom: 30px;
+      }
+      .white-bg {
+        background: #fff;
+        padding: 30px 10px 10px;
+        box-sizing: border-box;
+        .tit {
+          font-size: 24px;
+          margin-bottom: 30px;
+        }
+        ul {
+          width: 86%;
+          margin: 0 auto 30px;
+          li {
+            width: 100%;
+            margin-bottom: 20px;
+          }
+          li:last-child {
+            margin: auto;
+          }
+        }
+        .mini {
+          text-align: left;
+        }
+      }
+    } //corridor
   } //sp
 } //public02

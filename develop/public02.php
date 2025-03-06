@@ -81,13 +81,17 @@
     <div class="inner">
     <ul class="lists list01">
       <li>
+        <div class="image sp">
+        <img src="./images/public02/features01.jpg" alt="" class="">
+        <p class="annotation white">パーティルーム完成予想図</p>
+        </div>
         <div class="texts">
           <p class="name">［3F］ パーティルーム</p>
           <p class="info">明るく開放的な空間にこだわったパーティルーム。気の置けない仲間たちと大人の社交を楽しむ場としてはもちろん、子育て家族が集まって手料理を囲みながら盛り上がることもできます。</p>
         </div>
       </li>
       <li>
-        <div class="image">
+        <div class="image pc">
         <img src="./images/public02/features01.jpg" alt="" class="">
         <p class="annotation white">パーティルーム完成予想図</p>
         </div>
@@ -125,13 +129,17 @@
     <div class="inner">
     <ul class="lists list01">
       <li>
+        <div class="image sp">
+        <img src="./images/public02/features04.jpg" alt="" class="">
+        <p class="annotation white">フィットネスルーム完成予想図</p>
+        </div>
         <div class="texts">
           <p class="name">［3F］ フィットネスルーム</p>
           <p class="info">毎日を健康的に過ごせるよう、天候を気にせず運動ができるフィットネスルームをご用意。</p>
         </div>
       </li>
       <li>
-        <div class="image">
+        <div class="image pc">
         <img src="./images/public02/features04.jpg" alt="" class="">
         <p class="annotation white">フィットネスルーム完成予想図</p>
         </div>
@@ -166,16 +174,21 @@
     <div class="inner">
     <ul class="lists list04">
       <li>
+        <div class="image sp">
+        <img src="./images/public02/features07.jpg" alt="" class="">
+        <p class="annotation white">ゲストルーム‐和・モダン‐完成予想図</p>
+        </div>
+        <p class="name sp">［3F］ ゲストルーム‐和・モダン‐</p>
         <div class="texts">
           <p class="info">都会的でスタイリッシュなデザインの居室と、和モダンテイストでシンプルな居室。趣向の異なる２つのゲストルームが、大切なお客様をお迎えします。</p>
         </div>
       </li>
       <li>
-        <div class="image">
+        <div class="image pc">
         <img src="./images/public02/features07.jpg" alt="" class="">
         <p class="annotation white">ゲストルーム‐和・モダン‐完成予想図</p>
         </div>
-        <p class="name">［3F］ ゲストルーム‐和・モダン‐</p>
+        <p class="name pc">［3F］ ゲストルーム‐和・モダン‐</p>
       </li>
     </ul>
     </div><!-- inner -->
@@ -189,27 +202,27 @@
       <p class="annotation white">内廊下完成予想図</p>
     </div>
     <div class="inner">
-      <p class="">INNER CORRIDOR</p>
-      <p class="">ホテルライクな内廊下</p>
-      <p class="">住まいへと心地よく導けるよう、<br>エレベーターホールから各邸まではプライバシー性や防犯性を高めたホテルライクな内廊下設計を採用。<br>空調も設置されており、外気に触れずにアプローチできます。 </p>
+      <p class="en-tit">INNER CORRIDOR</p>
+      <p class="txt">ホテルライクな内廊下</p>
+      <p class="lead">住まいへと心地よく導けるよう、<br class="pc">エレベーターホールから各邸まではプライバシー性や防犯性を高めたホテルライクな内廊下設計を採用。<br>空調も設置されており、外気に触れずにアプローチできます。 </p>
       <div class="white-bg">
-        <p class="">内廊下の4つのメリット</p>
+        <p class="tit">内廊下の4つのメリット</p>
         <ul>
           <li>
-            <p class="">1. プライバシー性</p>
-            <p class="">外部の視線を遮りプライバシーに配慮。</p>
+            <p class="txt01">1. プライバシー性</p>
+            <p class="txt02">外部の視線を遮りプライバシーに配慮。</p>
           </li>
           <li>
-            <p class="">2. 快適性</p>
-            <p class="">冷暖房を設置しているので夏の暑さ、冬の寒さを低減。 </p>
+            <p class="txt01">2. 快適性</p>
+            <p class="txt02">冷暖房を設置しているので夏の暑さ、冬の寒さを低減。 </p>
           </li>
           <li>
-            <p class="">3. 防犯性</p>
-            <p class="">外部からの不正侵入の可能性が低く、防犯性を高める。 </p>
+            <p class="txt01">3. 防犯性</p>
+            <p class="txt02">外部からの不正侵入の可能性が低く、防犯性を高める。 </p>
           </li>
           <li>
-            <p class="">4. 静謐性</p>
-            <p class="">床がタイルカーペット仕上げの為、足音が響きにくい。</p>
+            <p class="txt01">4. 静謐性</p>
+            <p class="txt02">床がタイルカーペット仕上げの為、足音が響きにくい。</p>
           </li>
         </ul>
         <p class="mini">※内廊下等の空調設備は季節及び時間帯限定運転のため常時稼働しておりません。</p>

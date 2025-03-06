@@ -165,7 +165,6 @@
 }
 #public02 .images {
   background: #c5d6da;
-  color: #002d43;
   text-align: center;
 }
 #public02 .images .texts {
@@ -174,12 +173,14 @@
 #public02 .images .texts .en-tit {
   font-size: 24px;
   letter-spacing: 0.15em;
+  color: #002d43;
   margin-bottom: 20px;
 }
 #public02 .images .texts .txt {
   font-size: 32px;
   line-height: 2;
   letter-spacing: 0.2em;
+  color: #002d43;
   margin-bottom: 40px;
 }
 #public02 .images .texts .lead {
@@ -300,6 +301,63 @@
   max-width: 1000px;
   margin: 60px auto 0;
 }
+#public02 .corridor .en-tit {
+  font-size: 24px;
+  letter-spacing: 0.15em;
+  color: #002d43;
+  margin-bottom: 20px;
+}
+#public02 .corridor .txt {
+  font-size: 32px;
+  line-height: 2;
+  letter-spacing: 0.2em;
+  color: #002d43;
+  margin-bottom: 40px;
+}
+#public02 .corridor .lead {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 30px;
+}
+#public02 .corridor .white-bg {
+  background: #fff;
+  padding: 30px 0 10px;
+}
+#public02 .corridor .white-bg .tit {
+  font-size: 28px;
+  color: #002d43;
+  margin-bottom: 40px;
+}
+#public02 .corridor .white-bg ul {
+  width: 86%;
+  margin: 0 auto 40px;
+}
+#public02 .corridor .white-bg ul li {
+  display: inline-block;
+  vertical-align: top;
+  width: 23%;
+  margin-right: 2%;
+}
+#public02 .corridor .white-bg ul li:last-child {
+  margin-right: auto;
+}
+#public02 .corridor .white-bg ul .txt01 {
+  font-size: 18px;
+  color: #002d43;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid;
+}
+#public02 .corridor .white-bg ul .txt02 {
+  text-align: left;
+  font-size: 15px;
+  line-height: 1.6;
+}
+#public02 .corridor .white-bg .mini {
+  text-align: right;
+  font-size: 11px;
+  line-height: 1.5;
+}
 @media screen and (max-width: 768px) {
   #public02 sp {
     display: block;
@@ -402,5 +460,137 @@
   #public02 .images .texts .lead {
     font-size: 16px;
     line-height: 1.8;
+  }
+  #public02 .floor {
+    text-align: center;
+    background: #fff;
+  }
+  #public02 .floor .inner {
+    max-width: 1000px;
+  }
+  #public02 .floor .tit {
+    font-size: 26px;
+    margin-bottom: 40px;
+  }
+  #public02 .floor .lead {
+    font-size: 16px;
+    margin-bottom: 50px;
+  }
+  #public02 .floor .img01 {
+    max-width: 1000px;
+    margin: 0 auto 50px;
+  }
+  #public02 .features {
+    padding: 40px 0;
+  }
+  #public02 .features .inner {
+    max-width: 1000px;
+  }
+  #public02 .features .lists {
+    margin-bottom: 40px;
+  }
+  #public02 .features .lists li {
+    display: inline-block;
+    vertical-align: bottom;
+  }
+  #public02 .features .lists .name {
+    font-size: 22px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #002d43;
+  }
+  #public02 .features .lists .info {
+    font-size: 15px;
+    line-height: 2;
+  }
+  #public02 .features .list01 li {
+    width: 100%;
+    margin: auto;
+  }
+  #public02 .features .list01 li:last-child {
+    display: none;
+  }
+  #public02 .features .list01 .texts {
+    margin-top: 10px;
+  }
+  #public02 .features .list02 li {
+    width: 100%;
+    margin: auto;
+  }
+  #public02 .features .list02 li:last-child {
+    width: 100%;
+    margin: 10px auto 0;
+  }
+  #public02 .features .list03 {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  #public02 .features .list03 li {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  #public02 .features .list03 li:last-child {
+    text-align: left;
+    width: 94%;
+    margin: auto;
+  }
+  #public02 .features .img06 .name {
+    margin-bottom: 40px;
+  }
+  #public02 .features .list04 {
+    margin-bottom: 0;
+  }
+  #public02 .features .list04 li {
+    width: 100%;
+    margin: auto;
+  }
+  #public02 .features .list04 li:last-child {
+    width: 100%;
+    margin: auto;
+  }
+  #public02 .features .list04 .name {
+    margin-top: 10px;
+  }
+  #public02 .corridor {
+    text-align: left;
+    padding: 0 0 40px;
+  }
+  #public02 .corridor .inner {
+    margin: 40px auto 0;
+  }
+  #public02 .corridor .en-tit {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+  #public02 .corridor .txt {
+    font-size: 26px;
+    margin-bottom: 20px;
+  }
+  #public02 .corridor .lead {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  #public02 .corridor .white-bg {
+    background: #fff;
+    padding: 30px 10px 10px;
+    box-sizing: border-box;
+  }
+  #public02 .corridor .white-bg .tit {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  #public02 .corridor .white-bg ul {
+    width: 86%;
+    margin: 0 auto 30px;
+  }
+  #public02 .corridor .white-bg ul li {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  #public02 .corridor .white-bg ul li:last-child {
+    margin: auto;
+  }
+  #public02 .corridor .white-bg .mini {
+    text-align: left;
   }
 }/*# sourceMappingURL=public02.css.map */
