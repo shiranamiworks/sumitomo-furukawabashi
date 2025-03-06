@@ -34,7 +34,7 @@
 }
 
 .annotation-area {
-  background: #fff;
+  background: #c5d6da;
   color: #797979;
   padding: 40px 0;
 }
@@ -168,7 +168,7 @@
   text-align: center;
 }
 #public01 .images .texts {
-  padding: 80px 0;
+  padding: 80px 0 160px;
 }
 #public01 .images .texts .en-tit {
   font-size: 24px;
