@@ -181,7 +181,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li><a href="<?= $page_settings["directory_pos"]  ?>concept.html">コンセプト</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>design.html">デザイン</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>public01.html">共用空間</a></li>
-        <li><a href="<?= $page_settings["directory_pos"]  ?>private.html">室内空間</a></li>
+        <!-- <li><a href="<?= $page_settings["directory_pos"]  ?>private.html">室内空間</a></li> -->
         <li>室内空間</li>
         <!-- <li><a href="<?= $page_settings["directory_pos"]  ?>private.html">室内空間</a></li> -->
         <li>間取り</li>
