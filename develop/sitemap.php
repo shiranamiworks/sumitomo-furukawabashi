@@ -28,8 +28,7 @@
 	（ <a href="public01.html">迎賓空間</a> ／ <a href="public02.html">共用空間</a> ）</span></li>
 	<li class="commonspace">室内空間</li>
 	<!-- <li class="commonspace"><a href="private.html">室内空間</a></li> -->
-	<!--li class="plan"><a href="/tokai/higashibetsuin/list.php" target="_blank">間取り</a></li-->
-	<li class="plan">間取り</li>
+	<li class="plan"><a href="https://www.sumitomo-rd-mansion.jp/kansai/furukawabashi/list.php" target="_blanc">間取り</a></li>
 	<li class="equipment">設備・仕様</li>
 	<!-- <li class="equipment"><span>設備・仕様<br />
 	（ <a href="equipment01.html">キッチン</a> ／ <a href="equipment02.html">サニタリー</a> ／ <a href="equipment03.html">健康・エコ・省エネ</a> ／ <a href="equipment04.html">収納・快適仕様</a> ／ <a href="equipment05.html">マルチメディア・サービス</a>）</span></li> -->
