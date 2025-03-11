@@ -26,8 +26,7 @@
 	<li class="design"><a href="design.html">デザイン</a></li>
 	<li class="public"><span>共用空間<br>
 	（ <a href="public01.html">迎賓空間</a> ／ <a href="public02.html">共用空間</a> ）</span></li>
-	<li class="commonspace">室内空間</li>
-	<!-- <li class="commonspace"><a href="private.html">室内空間</a></li> -->
+	<li class="commonspace"><a href="private.html">室内空間</a></li>
 	<li class="plan"><a href="https://www.sumitomo-rd-mansion.jp/kansai/furukawabashi/list.php" target="_blanc">間取り</a></li>
 	<li class="equipment">設備・仕様</li>
 	<!-- <li class="equipment"><span>設備・仕様<br />

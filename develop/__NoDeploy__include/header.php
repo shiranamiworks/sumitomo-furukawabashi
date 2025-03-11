@@ -112,8 +112,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
             </div>
           </li>
           <li>
-            <p><span class="f-en">PRIVATE SPACE</span><br>室内空間</p>
-            <!-- <a href="<?= $page_settings["directory_pos"]  ?>private.html"><span class="f-en">PRIVATE SPACE</span><br>室内空間</a> -->
+            <a href="<?= $page_settings["directory_pos"]  ?>private.html"><span class="f-en">PRIVATE SPACE</span><br>室内空間</a>
           </li>
         </ul>
         <ul>
@@ -181,8 +180,7 @@ $folder_name = $site_setting["area"]."/".$site_setting["prop"]."/";
         <li><a href="<?= $page_settings["directory_pos"]  ?>concept.html">コンセプト</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>design.html">デザイン</a></li>
         <li><a href="<?= $page_settings["directory_pos"]  ?>public01.html">共用空間</a></li>
-        <li>室内空間</li>
-        <!-- <li><a href="<?= $page_settings["directory_pos"]  ?>private.html">室内空間</a></li> -->
+        <li><a href="<?= $page_settings["directory_pos"]  ?>private.html">室内空間</a></li>
         <li><a href="https://www.sumitomo-rd-mansion.jp/kansai/furukawabashi/list.php" target="_blanc">間取り</a></li>
         <li>設備・仕様</li>
         <li>構造・防災</li>
