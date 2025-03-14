@@ -22,7 +22,7 @@
   <div class="breadcrumb sp-hide">
     <ul>
       <li><a href="./index.html">シティタワー古川橋｜古川橋 新築分譲マンション｜トップ</a></li>
-      <li><a href="./equipment01.html">設備・仕様</a></li>
+      <li><a href="./equipment02.html">設備・仕様</a></li>
       <li><p>サニタリー</p></li>
     </ul>
   </div>
