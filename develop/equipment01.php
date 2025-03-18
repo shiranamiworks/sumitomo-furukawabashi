@@ -137,7 +137,7 @@
 
 
   <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix">※設備・仕様はタイプにより異なります。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※掲載の写真はモデルルーム（I-2タイプ）を撮影（2024年12月）したもので、家具・調度品等オプション仕様は販売価格に含まれておりません。<br>※設備・仕様はタイプにより異なります。</p></div>
 </main>
 
   <div class="equipment-link equipment-link--5">

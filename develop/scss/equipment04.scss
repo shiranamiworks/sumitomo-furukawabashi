@@ -88,6 +88,9 @@
       span {
         font-size: 14px;
       }
+      &.mt60{
+        margin-top: 60px;
+      }
     }
     .lead {
       font-size: 17px;
@@ -281,6 +284,9 @@
         &:after {
           content: none;
         }
+      }
+      .tit-img.mt60{
+        margin-top: 40px;
       }
       .lead {
         span {

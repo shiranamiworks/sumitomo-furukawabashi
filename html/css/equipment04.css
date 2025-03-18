@@ -83,6 +83,9 @@
 .equipment04 .sections .tit-img span {
   font-size: 14px;
 }
+.equipment04 .sections .tit-img.mt60 {
+  margin-top: 60px;
+}
 .equipment04 .sections .lead {
   font-size: 17px;
   line-height: 1.6;
@@ -249,6 +252,9 @@
   }
   .equipment04 .sections .tit:before, .equipment04 .sections .tit:after {
     content: none;
+  }
+  .equipment04 .sections .tit-img.mt60 {
+    margin-top: 40px;
   }
   .equipment04 .sections .lead span {
     font-size: 13px;
