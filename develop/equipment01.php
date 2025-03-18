@@ -41,16 +41,6 @@
       <h2 class="tit">Kitchen</h2>
       <ul class="lists list01 clearfix">
         <li>
-        <p class="tit-img">対面フラットカウンター</p>
-          <div class="image pc">
-            <img src="./images/equipment01/img02.jpg" alt="" class="">
-          </div>
-          <p class="lead">キッチンはフラットな対面カウンターを採用しました。段差がなく最大約900㎜のワイドな奥行きがあるので、配膳する前のお料理の仮置きも持ち上げることなくスムーズにできます。<br><span>※B-3、C-3、D-3、E-2、G-3、H-3、I-3、K-3、L-3、M-3、DK-3、DM-3タイプを除く。<br>※詳細は図面集をご確認ください。</span></p>
-          <div class="image tb">
-            <img src="./images/equipment01/img02.jpg" alt="" class="">
-          </div>
-        </li>
-        <li>
         <p class="tit-img">シングルレバーシャワー水栓</p>
           <div class="image pc">
             <img src="./images/equipment01/img05.jpg" alt="" class="">
@@ -65,15 +55,13 @@
           <div class="image pc">
             <img src="./images/equipment01/img01.jpg" alt="" class="">
           </div>
-          <p class="lead">キッチンのカウンタートップには、美しく、高級感あふれる天然石を採用しました。</p>
+          <p class="lead">キッチンのカウンタートップには、美しく、高級感あふれる天然石を採用しました。<br><span>※4階住居タイプは、素材が異なります。</span></p>
           <div class="image tb">
             <img src="./images/equipment01/img01.jpg" alt="" class="">
           </div>
         </li>
-      </ul>
-      <ul class="lists list03">
         <li>
-          <p class="tit-img"><br>コンロ前パネル</p>
+          <p class="tit-img">コンロ前パネル</p>
           <div class="image pc">
             <img src="./images/equipment01/img03.jpg" alt="" class="">
           </div>
@@ -82,6 +70,8 @@
             <img src="./images/equipment01/img03.jpg" alt="" class="">
           </div>
         </li>
+      </ul>
+      <ul class="lists list03">
         <li>
           <p class="tit-img"><br>スライド式食器洗い乾燥機</p>
           <div class="image pc">
@@ -105,10 +95,8 @@
             <img src="./images/equipment01/img04.jpg" alt="" class="">
           </div>
         </li>
-      </ul>
-      <ul class="lists list05">
         <li>
-          <p class="tit-img">スライド式収納</p>
+          <p class="tit-img"><br>スライド式収納</p>
           <div class="image pc">
             <img src="./images/equipment01/img08.jpg" alt="" class="">
           </div>
@@ -117,8 +105,10 @@
             <img src="./images/equipment01/img08.jpg" alt="" class="">
           </div>
         </li>
+      </ul>
+      <ul class="lists list05">
         <li>
-          <p class="tit-img">静音シンク</p>
+          <p class="tit-img"><br>静音シンク</p>
           <div class="image pc">
             <img src="./images/equipment01/img22.jpg" alt="" class="">
           </div>
@@ -128,7 +118,7 @@
           </div>
         </li>
         <li>
-          <p class="tit-img">足元スライド式収納</p>
+          <p class="tit-img"><br>足元スライド式収納</p>
           <div class="image pc">
             <img src="./images/equipment01/img23.jpg" alt="" class="">
           </div>
@@ -137,11 +127,9 @@
             <img src="./images/equipment01/img23.jpg" alt="" class="">
           </div>
         </li>
-      </ul>
-      <ul class="lists list05">
         <li>
-          <p class="tit-img ">ブルム社製<br>フルエクステンションレール</p>
-          <p class="lead">引き出しには一番奥までスムーズに引き出せる世界有数のオーストリア・ブルム社製のフルエクステンションレールを採用しています。さらに、ブルモーション機能を内蔵しているため、勢いよく閉めても手前で機構が働いて、衝撃を和らげ、ゆっくりと静かに引き込みます。<br><span>※スパイスケースを除く。<br>※41階住戸タイプのみ</span></p>
+          <p class="tit-img ">ブルム社製<br>メーターボックスレール</p>
+          <p class="lead">引き出しには一番奥までスムーズに引き出せる世界有数のオーストリア・ブルム社製のメーターボックスレールを採用しています。さらに、ブルモーション機能を内蔵しているため、勢いよく閉めても手前で機構が働いて、衝撃を和らげ、ゆっくりと静かに引き込みます。<br><span>※スパイスケースを除く。<br>※41階住戸タイプはフルエクステンションレールとなります。</span></p>
         </li>
       </ul>
     </div>
@@ -149,7 +137,7 @@
 
 
   <div class="annotation-area">
-  <p class="page-annotation js-scroll wrap clearfix">※掲載の参考写真はメーカーカタログ等の参考写真であり、本物件のものではありません。<br>※設備・仕様はタイプにより異なります。</p></div>
+  <p class="page-annotation js-scroll wrap clearfix">※設備・仕様はタイプにより異なります。</p></div>
 </main>
 
   <div class="equipment-link equipment-link--5">

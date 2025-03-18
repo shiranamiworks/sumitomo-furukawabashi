@@ -39,10 +39,10 @@
       &.bt {
         bottom: -15px;
       }
-      &.right{
+      &.right {
         right: 0;
       }
-      &.left{
+      &.left {
         right: auto;
         left: 30%;
       }
@@ -149,6 +149,7 @@
       li {
         width: 32%;
         margin-right: 1%;
+        margin-bottom: 20px;
       }
       li:nth-child(3n) {
         margin-right: auto;
@@ -296,9 +297,9 @@
           width: 100%;
           margin: auto;
         }
-        .annotation{
+        .annotation {
           bottom: -10%;
-          &.left{
+          &.left {
             left: 35%;
           }
         }

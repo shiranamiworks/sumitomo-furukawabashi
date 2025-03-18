@@ -50,17 +50,6 @@
       </ul>
       <ul class="lists list00">
         <li class="full">
-        <p class="tit-img">24時間機械給気システム</p>
-          <div class="text">
-            <p class="lead">窓を閉めたままでも常に換気ができる、24時間換気システムを採用しています。機械給気により外気を各室に取入れ、室内の空気は機械で排気します。給気ファン内のフィルターで一定のホコリ・ちりを低減します。<br><span>※41階のみ ※使用するフィルターによって低減できる物質の量は異なります。</span></p>
-          </div>
-          <div class="image">
-            <img src="./images/equipment03/img02.png" alt="" class=""><p class="annotation gothic">（概念図）</p>
-          </div>
-        </li>
-      </ul>
-      <ul class="lists list00">
-        <li class="full">
         <p class="tit-img">大阪ガス温水床暖房</p>
           <div class="text">
             <p class="lead">リビング・ダイニングには、大阪ガスの温水床暖房を採用。温水を利用して足元から心地よく室内を暖め、理想的といわれる『頭寒足熱』を実現する暖房システムです。</p>

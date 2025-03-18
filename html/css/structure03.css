@@ -140,6 +140,7 @@
 .structure03 .sec01 .list02 li {
   width: 32%;
   margin-right: 1%;
+  margin-bottom: 20px;
 }
 .structure03 .sec01 .list02 li:nth-child(3n) {
   margin-right: auto;
