@@ -55,7 +55,7 @@
           <div class="image pc">
             <img src="./images/equipment01/img01.jpg" alt="" class="">
           </div>
-          <p class="lead">キッチンのカウンタートップには、美しく、高級感あふれる天然石を採用しました。<br><span>※4階住居タイプは、素材が異なります。</span></p>
+          <p class="lead">キッチンのカウンタートップには、美しく、高級感あふれる天然石を採用しました。<br><span>※4階住戸タイプは、素材が異なります。</span></p>
           <div class="image tb">
             <img src="./images/equipment01/img01.jpg" alt="" class="">
           </div>

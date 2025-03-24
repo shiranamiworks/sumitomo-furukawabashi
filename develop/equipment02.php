@@ -119,10 +119,6 @@
           </div>
         </li>
         <li>
-          <p class="tit-img">保温浴槽</p>
-          <p class="lead">専用のフロフタと浴槽保温材で温まったお湯が冷めにくくなる保温浴槽を採用しました。</p>
-        </li>
-        <li>
           <p class="tit-img">節水型ロータンクトイレ</p>
           <div class="image pc">
             <img src="./images/equipment02/img11.jpg" alt="" class="">
@@ -131,6 +127,10 @@
           <div class="image tb">
             <img src="./images/equipment02/img11.jpg" alt="" class="">
           </div>
+        </li>
+        <li>
+          <p class="tit-img">保温浴槽</p>
+          <p class="lead">専用のフロフタと浴槽保温材で温まったお湯が冷めにくくなる保温浴槽を採用しました。</p>
         </li>
       </ul>
     </div>
