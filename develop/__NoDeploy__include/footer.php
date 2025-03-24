@@ -21,10 +21,8 @@
         <li class="public"><a href="<?= $page_settings["directory_pos"]  ?>public01.html">共用空間</a></li></li>
         <li class="private"><a href="<?= $page_settings["directory_pos"]  ?>private.html">室内空間</a></li>
         <li class="roomplan"><a href="https://www.sumitomo-rd-mansion.jp/kansai/furukawabashi/list.php" target="_blanc">間取り</a></li>
-        <li class="equipment">設備・仕様</li>
-        <!-- <li class="equipment"><a href="<?= $page_settings["directory_pos"]  ?>equipment01.html">設備・仕様</a></li> -->
-        <li class="structure">構造・防災</li>
-        <!-- <li class="structure"><a href="<?= $page_settings["directory_pos"]  ?>structure01.html">構造・防災</a></li> -->
+        <li class="equipment"><a href="<?= $page_settings["directory_pos"]  ?>equipment01.html">設備・仕様</a></li>
+        <li class="structure"><a href="<?= $page_settings["directory_pos"]  ?>structure01.html">構造・防災</a></li>
         <li class="location"><a href="<?= $page_settings["directory_pos"]  ?>location01.html">ロケーション</a></li>
         <li class="access"><a href="<?= $page_settings["directory_pos"]  ?>access.html">アクセス</a></li>
         <li class="start map"><a href="<?= $page_settings["directory_pos"]  ?>map.html" target="_blank">現地案内図</a></li>
