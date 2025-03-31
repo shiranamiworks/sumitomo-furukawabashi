@@ -40,7 +40,7 @@
         <li>
           <div class="text">
           <p class="tit-img">トリプルオートロックシステム</p>
-          <p class="lead">一般のマンションに比べ不審者の侵入対策を強化し、主な来訪者のアプローチ上トリプルセキュリティを採用しました。住戸前のセキュリティを加え4段階のチェックで、不審者の侵入対策を強化しています。<br><span class="info"><span class="color">Step1</span>：来訪者を住戸内のカラーモニターで確認後オートロックを解錠。<br><span class="color">Step2</span>：エレベーターホールも同様に確認し、解錠。<br><span class="color">Step3</span>：エレベーター内の行き先階操作ボタンロックのみ解除。<br><span class="color">Step4</span>：玄関前インターホンより音声で来訪者を確認。<br>※3階・30階・41階は除く。</span></p>
+          <p class="lead">エントランスホール前にいる来訪者を住戸内のカラーモニター付インターホンで音声と映像で確認した後にオートロックを解錠。次に1階エレベーターホール前でも同様に確認し解錠するという2段階を経て、エレベーター内の行き先階操作ボタンロックを解錠するセキュリティシステムです。<br><span class="info">※3階・30階・41階は除く。</span></p>
           </div>
           <div class="image img01">
             <img src="./images/structure02/img04.png" alt="" class="">
