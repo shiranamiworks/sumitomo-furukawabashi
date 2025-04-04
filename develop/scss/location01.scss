@@ -97,6 +97,7 @@
     }
     .image {
       position: relative;
+      line-height: 0;
     }
     .annotation {
       font-size: 10px;
@@ -369,7 +370,7 @@
       }
       .img01 {
         .annotation {
-          bottom: -24px;
+          bottom: -10px;
         }
       }
       .caps {
@@ -398,13 +399,13 @@
       }
       .column02.list01 {
         li {
-          vertical-align: bottom;
-          width: 30%;
+          vertical-align: top;
+          width: 47%;
         }
         li:last-child {
-          width: 66%;
+          width: 50%;
           .annotation{
-            bottom: -24px;
+            line-height: 1.4;
           }
         }
       }

@@ -95,6 +95,7 @@
 }
 .location01 .sections .image {
   position: relative;
+  line-height: 0;
 }
 .location01 .sections .annotation {
   font-size: 10px;
@@ -359,7 +360,7 @@
   margin-bottom: 20px;
 }
 .location01 .facility .content .img01 .annotation {
-  bottom: -24px;
+  bottom: -10px;
 }
 .location01 .facility .content .caps {
   text-align: right;
@@ -386,14 +387,14 @@
   line-height: 1.8;
 }
 .location01 .facility .content .column02.list01 li {
-  vertical-align: bottom;
-  width: 30%;
+  vertical-align: top;
+  width: 47%;
 }
 .location01 .facility .content .column02.list01 li:last-child {
-  width: 66%;
+  width: 50%;
 }
 .location01 .facility .content .column02.list01 li:last-child .annotation {
-  bottom: -24px;
+  line-height: 1.4;
 }
 .location01 .facility .content .column02.list02 {
   margin-top: 30px;
