@@ -54,6 +54,7 @@
   }
   .image {
     position: relative;
+    line-height: 0;
     .annotation {
       position: absolute;
       bottom: 10px;
@@ -99,6 +100,7 @@
     }
     .image {
       position: relative;
+      line-height: 0;
     }
     .annotation {
       font-size: 10px;
