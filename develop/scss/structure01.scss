@@ -227,7 +227,14 @@
   main {
     padding-bottom: 50px;
   }
-
+  .annotation-area{
+    border-bottom: 1px solid;
+  }
+  .mark{
+    max-width: 355px;
+    width: 90%;
+    margin: 50px auto 100px;
+  }
   @media screen and (max-width: 1300px) {
   }
   @media screen and (max-width: 1024px) {
@@ -419,6 +426,9 @@
     } //sec02
     main {
       padding-bottom: 50px;
+    }
+    .mark{
+      margin: 50px auto;
     }
   } //sp
 }

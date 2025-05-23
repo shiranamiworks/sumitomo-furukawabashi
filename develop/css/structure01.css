@@ -214,6 +214,14 @@
 .structure01 main {
   padding-bottom: 50px;
 }
+.structure01 .annotation-area {
+  border-bottom: 1px solid;
+}
+.structure01 .mark {
+  max-width: 355px;
+  width: 90%;
+  margin: 50px auto 100px;
+}
 @media screen and (max-width: 1024px) {
   .structure01 .sec01 .list06 li {
     width: 100%;
@@ -384,5 +392,8 @@
   }
   .structure01 main {
     padding-bottom: 50px;
+  }
+  .structure01 .mark {
+    margin: 50px auto;
   }
 }/*# sourceMappingURL=structure01.css.map */
